@@ -6,7 +6,7 @@
 $ python main.py --model inv --train_dir bidirectional --dataroot ./datasets/penntreebank --gpu_id 0 --rnn_cell lstm --tie --dropout 0.5 --name any_name
 ```
 
-## Acknoledgements
+## Acknowledgements
 
 MemCNN: PyTorch Framework for Developing Memory Efficient Deep Invertible Networks
 * [memcnn](https://github.com/silvandeleemput/memcnn) 
