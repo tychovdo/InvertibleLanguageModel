@@ -1,0 +1,1623 @@
+CUDA Device: 0 (Tesla K40m)
+From 25671 to 25671 tokens
+| epoch   1/ 40 |   100/  606 batches | lr 20.00 | ms/batch 99.35 | loss 10.50 | ppl 36329.77
+| epoch   1/ 40 |   200/  606 batches | lr 20.00 | ms/batch 98.01 | loss  8.16 | ppl  3493.13
+| epoch   1/ 40 |   300/  606 batches | lr 20.00 | ms/batch 98.09 | loss  7.22 | ppl  1366.84
+| epoch   1/ 40 |   400/  606 batches | lr 20.00 | ms/batch 98.07 | loss  6.80 | ppl   897.60
+| epoch   1/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.09 | loss  6.65 | ppl   769.27
+| epoch   1/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.08 | loss  6.42 | ppl   613.66
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 76.07s | valid loss  6.16 | valid ppl   472.31
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n Rebeck? \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   2/ 40 |   100/  606 batches | lr 20.00 | ms/batch 74.24 | loss  6.25 | ppl   519.37
+| epoch   2/ 40 |   200/  606 batches | lr 20.00 | ms/batch 98.43 | loss  6.10 | ppl   445.12
+| epoch   2/ 40 |   300/  606 batches | lr 20.00 | ms/batch 98.47 | loss  5.96 | ppl   387.34
+| epoch   2/ 40 |   400/  606 batches | lr 20.00 | ms/batch 98.06 | loss  5.82 | ppl   338.59
+| epoch   2/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.08 | loss  5.87 | ppl   353.67
+| epoch   2/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.18 | loss  5.71 | ppl   302.02
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 72.78s | valid loss  5.53 | valid ppl   252.47
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n of devour'd in \n \n I Camillo. for \n return? \n Power
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n and \n
+| epoch   3/ 40 |   100/  606 batches | lr 20.00 | ms/batch 81.82 | loss  5.62 | ppl   275.90
+| epoch   3/ 40 |   200/  606 batches | lr 20.00 | ms/batch 79.85 | loss  5.50 | ppl   243.97
+| epoch   3/ 40 |   300/  606 batches | lr 20.00 | ms/batch 97.65 | loss  5.40 | ppl   220.91
+| epoch   3/ 40 |   400/  606 batches | lr 20.00 | ms/batch 98.53 | loss  5.29 | ppl   197.54
+| epoch   3/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.60 | loss  5.34 | ppl   207.72
+| epoch   3/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.14 | loss  5.17 | ppl   176.54
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 71.46s | valid loss  4.99 | valid ppl   146.73
+-----------------------------------------------------------------------------------------
+and \n a hand as repossess I \n would curse \n see I devour and and it. proud? \n of
+and for and and any and else thou and and and and \n as and and \n and for what
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   4/ 40 |   100/  606 batches | lr 20.00 | ms/batch 109.00 | loss  5.08 | ppl   160.67
+| epoch   4/ 40 |   200/  606 batches | lr 20.00 | ms/batch 67.02 | loss  4.97 | ppl   143.75
+| epoch   4/ 40 |   300/  606 batches | lr 20.00 | ms/batch 90.91 | loss  4.85 | ppl   127.22
+| epoch   4/ 40 |   400/  606 batches | lr 20.00 | ms/batch 98.58 | loss  4.75 | ppl   115.40
+| epoch   4/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.24 | loss  4.79 | ppl   120.54
+| epoch   4/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.02 | loss  4.64 | ppl   103.67
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 72.22s | valid loss  4.55 | valid ppl    94.79
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n and \n and \n \n crept and and \n and and and \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   5/ 40 |   100/  606 batches | lr 20.00 | ms/batch 106.17 | loss  4.57 | ppl    96.57
+| epoch   5/ 40 |   200/  606 batches | lr 20.00 | ms/batch 93.21 | loss  4.45 | ppl    85.36
+| epoch   5/ 40 |   300/  606 batches | lr 20.00 | ms/batch 69.40 | loss  4.37 | ppl    78.78
+| epoch   5/ 40 |   400/  606 batches | lr 20.00 | ms/batch 97.98 | loss  4.30 | ppl    73.45
+| epoch   5/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.11 | loss  4.35 | ppl    77.30
+| epoch   5/ 40 |   600/  606 batches | lr 20.00 | ms/batch 97.99 | loss  4.23 | ppl    68.64
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 72.29s | valid loss  4.21 | valid ppl    67.45
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   6/ 40 |   100/  606 batches | lr 20.00 | ms/batch 100.85 | loss  4.19 | ppl    65.74
+| epoch   6/ 40 |   200/  606 batches | lr 20.00 | ms/batch 107.35 | loss  4.09 | ppl    59.62
+| epoch   6/ 40 |   300/  606 batches | lr 20.00 | ms/batch 75.87 | loss  4.04 | ppl    56.59
+| epoch   6/ 40 |   400/  606 batches | lr 20.00 | ms/batch 83.55 | loss  4.01 | ppl    55.07
+| epoch   6/ 40 |   500/  606 batches | lr 20.00 | ms/batch 98.11 | loss  4.06 | ppl    57.70
+| epoch   6/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.18 | loss  3.97 | ppl    52.90
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 72.36s | valid loss  3.95 | valid ppl    51.69
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   7/ 40 |   100/  606 batches | lr 20.00 | ms/batch 98.89 | loss  3.94 | ppl    51.66
+| epoch   7/ 40 |   200/  606 batches | lr 20.00 | ms/batch 103.17 | loss  3.87 | ppl    48.13
+| epoch   7/ 40 |   300/  606 batches | lr 20.00 | ms/batch 102.57 | loss  3.81 | ppl    45.12
+| epoch   7/ 40 |   400/  606 batches | lr 20.00 | ms/batch 62.96 | loss  3.82 | ppl    45.57
+| epoch   7/ 40 |   500/  606 batches | lr 20.00 | ms/batch 97.77 | loss  3.88 | ppl    48.54
+| epoch   7/ 40 |   600/  606 batches | lr 20.00 | ms/batch 98.14 | loss  3.79 | ppl    44.37
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 72.38s | valid loss  3.74 | valid ppl    42.26
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   8/ 40 |   100/  606 batches | lr 20.00 | ms/batch 99.22 | loss  3.80 | ppl    44.89
+| epoch   8/ 40 |   200/  606 batches | lr 20.00 | ms/batch 97.95 | loss  3.74 | ppl    41.90
+| epoch   8/ 40 |   300/  606 batches | lr 20.00 | ms/batch 107.35 | loss  3.71 | ppl    40.68
+| epoch   8/ 40 |   400/  606 batches | lr 20.00 | ms/batch 83.42 | loss  3.74 | ppl    42.25
+| epoch   8/ 40 |   500/  606 batches | lr 20.00 | ms/batch 78.03 | loss  3.77 | ppl    43.43
+| epoch   8/ 40 |   600/  606 batches | lr 20.00 | ms/batch 97.83 | loss  3.73 | ppl    41.68
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 72.37s | valid loss  3.65 | valid ppl    38.54
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n second \n other, \n \n heads: hours. \n \n \n youth \n \n \n stay. \n stay. youth
+\n she dear \n she \n \n she \n she she \n she she \n \n form, \n \n she
+| epoch   9/ 40 |   100/  606 batches | lr 20.00 | ms/batch 99.08 | loss  3.75 | ppl    42.55
+| epoch   9/ 40 |   200/  606 batches | lr 20.00 | ms/batch 98.44 | loss  3.70 | ppl    40.56
+| epoch   9/ 40 |   300/  606 batches | lr 20.00 | ms/batch 101.97 | loss  3.69 | ppl    40.09
+| epoch   9/ 40 |   400/  606 batches | lr 20.00 | ms/batch 107.33 | loss  3.76 | ppl    42.77
+| epoch   9/ 40 |   500/  606 batches | lr 20.00 | ms/batch 64.61 | loss  3.81 | ppl    45.05
+| epoch   9/ 40 |   600/  606 batches | lr 20.00 | ms/batch 92.39 | loss  3.75 | ppl    42.36
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 72.47s | valid loss  3.66 | valid ppl    38.88
+-----------------------------------------------------------------------------------------
+\n \n comest: is \n \n \n \n unjust! has \n be \n awhile. \n is, \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n tears, \n \n \n \n \n \n \n
+| epoch  10/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.12 | loss  3.75 | ppl    42.46
+| epoch  10/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.20 | loss  3.53 | ppl    33.97
+| epoch  10/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.38 | loss  3.30 | ppl    27.09
+| epoch  10/ 40 |   400/  606 batches | lr 5.00 | ms/batch 105.78 | loss  3.12 | ppl    22.66
+| epoch  10/ 40 |   500/  606 batches | lr 5.00 | ms/batch 89.81 | loss  2.91 | ppl    18.28
+| epoch  10/ 40 |   600/  606 batches | lr 5.00 | ms/batch 72.20 | loss  2.59 | ppl    13.32
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 72.37s | valid loss  2.81 | valid ppl    16.53
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  11/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.63 | loss  3.07 | ppl    21.45
+| epoch  11/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.49 | loss  2.87 | ppl    17.67
+| epoch  11/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.22 | loss  2.68 | ppl    14.61
+| epoch  11/ 40 |   400/  606 batches | lr 5.00 | ms/batch 100.78 | loss  2.57 | ppl    13.11
+| epoch  11/ 40 |   500/  606 batches | lr 5.00 | ms/batch 107.43 | loss  2.38 | ppl    10.82
+| epoch  11/ 40 |   600/  606 batches | lr 5.00 | ms/batch 70.24 | loss  2.15 | ppl     8.61
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 72.76s | valid loss  2.44 | valid ppl    11.46
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n nor \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  12/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.25 | loss  2.57 | ppl    13.11
+| epoch  12/ 40 |   200/  606 batches | lr 5.00 | ms/batch 97.85 | loss  2.41 | ppl    11.17
+| epoch  12/ 40 |   300/  606 batches | lr 5.00 | ms/batch 97.89 | loss  2.25 | ppl     9.45
+| epoch  12/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.07 | loss  2.16 | ppl     8.70
+| epoch  12/ 40 |   500/  606 batches | lr 5.00 | ms/batch 104.93 | loss  2.00 | ppl     7.40
+| epoch  12/ 40 |   600/  606 batches | lr 5.00 | ms/batch 93.86 | loss  1.81 | ppl     6.14
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 73.38s | valid loss  2.16 | valid ppl     8.64
+-----------------------------------------------------------------------------------------
+with \n \n \n \n \n \n by \n \n \n \n \n with \n \n \n \n \n with
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+acquainted \n \n \n gone. \n acquainted acquainted \n gone. acquainted \n gone. gone. \n gone. gone. \n \n gone.
+| epoch  13/ 40 |   100/  606 batches | lr 5.00 | ms/batch 98.75 | loss  2.18 | ppl     8.87
+| epoch  13/ 40 |   200/  606 batches | lr 5.00 | ms/batch 97.79 | loss  2.05 | ppl     7.80
+| epoch  13/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.27 | loss  1.91 | ppl     6.74
+| epoch  13/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.00 | loss  1.84 | ppl     6.28
+| epoch  13/ 40 |   500/  606 batches | lr 5.00 | ms/batch 101.33 | loss  1.69 | ppl     5.43
+| epoch  13/ 40 |   600/  606 batches | lr 5.00 | ms/batch 107.11 | loss  1.53 | ppl     4.62
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 73.97s | valid loss  1.93 | valid ppl     6.91
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  14/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.37 | loss  1.87 | ppl     6.50
+| epoch  14/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.19 | loss  1.75 | ppl     5.73
+| epoch  14/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.10 | loss  1.63 | ppl     5.09
+| epoch  14/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.60 | loss  1.57 | ppl     4.81
+| epoch  14/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.32 | loss  1.43 | ppl     4.16
+| epoch  14/ 40 |   600/  606 batches | lr 5.00 | ms/batch 106.91 | loss  1.30 | ppl     3.68
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 74.14s | valid loss  1.73 | valid ppl     5.64
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  15/ 40 |   100/  606 batches | lr 5.00 | ms/batch 98.97 | loss  1.60 | ppl     4.96
+| epoch  15/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.44 | loss  1.49 | ppl     4.45
+| epoch  15/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.48 | loss  1.39 | ppl     4.00
+| epoch  15/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.37 | loss  1.34 | ppl     3.81
+| epoch  15/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.30 | loss  1.21 | ppl     3.36
+| epoch  15/ 40 |   600/  606 batches | lr 5.00 | ms/batch 104.48 | loss  1.10 | ppl     3.00
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 74.52s | valid loss  1.56 | valid ppl     4.77
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  16/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.00 | loss  1.38 | ppl     3.96
+| epoch  16/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.27 | loss  1.28 | ppl     3.58
+| epoch  16/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.49 | loss  1.18 | ppl     3.26
+| epoch  16/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.21 | loss  1.15 | ppl     3.16
+| epoch  16/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.39 | loss  1.03 | ppl     2.81
+| epoch  16/ 40 |   600/  606 batches | lr 5.00 | ms/batch 101.68 | loss  0.94 | ppl     2.56
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 75.40s | valid loss  1.43 | valid ppl     4.16
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  17/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.29 | loss  1.19 | ppl     3.27
+| epoch  17/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.01 | loss  1.10 | ppl     3.00
+| epoch  17/ 40 |   300/  606 batches | lr 5.00 | ms/batch 97.81 | loss  1.01 | ppl     2.74
+| epoch  17/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.32 | loss  0.99 | ppl     2.70
+| epoch  17/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.73 | loss  0.89 | ppl     2.43
+| epoch  17/ 40 |   600/  606 batches | lr 5.00 | ms/batch 97.91 | loss  0.81 | ppl     2.24
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 76.50s | valid loss  1.29 | valid ppl     3.65
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  18/ 40 |   100/  606 batches | lr 5.00 | ms/batch 98.81 | loss  1.02 | ppl     2.78
+| epoch  18/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.16 | loss  0.94 | ppl     2.56
+| epoch  18/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.19 | loss  0.87 | ppl     2.38
+| epoch  18/ 40 |   400/  606 batches | lr 5.00 | ms/batch 97.93 | loss  0.86 | ppl     2.35
+| epoch  18/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.30 | loss  0.77 | ppl     2.15
+| epoch  18/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.15 | loss  0.70 | ppl     2.01
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 76.15s | valid loss  1.19 | valid ppl     3.29
+-----------------------------------------------------------------------------------------
+sword, \n \n \n \n \n \n \n \n \n \n \n \n \n hands \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  19/ 40 |   100/  606 batches | lr 5.00 | ms/batch 76.95 | loss  0.89 | ppl     2.44
+| epoch  19/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.59 | loss  0.82 | ppl     2.28
+| epoch  19/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.07 | loss  0.75 | ppl     2.12
+| epoch  19/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.18 | loss  0.75 | ppl     2.12
+| epoch  19/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.36 | loss  0.67 | ppl     1.95
+| epoch  19/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.17 | loss  0.60 | ppl     1.82
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 73.23s | valid loss  1.09 | valid ppl     2.96
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  20/ 40 |   100/  606 batches | lr 5.00 | ms/batch 78.79 | loss  0.77 | ppl     2.17
+| epoch  20/ 40 |   200/  606 batches | lr 5.00 | ms/batch 81.68 | loss  0.72 | ppl     2.05
+| epoch  20/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.09 | loss  0.66 | ppl     1.93
+| epoch  20/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.33 | loss  0.66 | ppl     1.93
+| epoch  20/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.31 | loss  0.58 | ppl     1.79
+| epoch  20/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.06 | loss  0.53 | ppl     1.70
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 71.34s | valid loss  1.02 | valid ppl     2.76
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  21/ 40 |   100/  606 batches | lr 5.00 | ms/batch 107.98 | loss  0.68 | ppl     1.97
+| epoch  21/ 40 |   200/  606 batches | lr 5.00 | ms/batch 66.11 | loss  0.62 | ppl     1.86
+| epoch  21/ 40 |   300/  606 batches | lr 5.00 | ms/batch 91.72 | loss  0.57 | ppl     1.77
+| epoch  21/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.40 | loss  0.58 | ppl     1.79
+| epoch  21/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.24 | loss  0.52 | ppl     1.67
+| epoch  21/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.10 | loss  0.47 | ppl     1.61
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 72.01s | valid loss  0.93 | valid ppl     2.54
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  22/ 40 |   100/  606 batches | lr 5.00 | ms/batch 106.15 | loss  0.61 | ppl     1.84
+| epoch  22/ 40 |   200/  606 batches | lr 5.00 | ms/batch 91.69 | loss  0.56 | ppl     1.75
+| epoch  22/ 40 |   300/  606 batches | lr 5.00 | ms/batch 70.15 | loss  0.51 | ppl     1.67
+| epoch  22/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.06 | loss  0.52 | ppl     1.68
+| epoch  22/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.00 | loss  0.47 | ppl     1.60
+| epoch  22/ 40 |   600/  606 batches | lr 5.00 | ms/batch 97.85 | loss  0.43 | ppl     1.54
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 72.21s | valid loss  0.88 | valid ppl     2.40
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n and \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  23/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.83 | loss  0.54 | ppl     1.72
+| epoch  23/ 40 |   200/  606 batches | lr 5.00 | ms/batch 107.19 | loss  0.50 | ppl     1.65
+| epoch  23/ 40 |   300/  606 batches | lr 5.00 | ms/batch 76.21 | loss  0.45 | ppl     1.57
+| epoch  23/ 40 |   400/  606 batches | lr 5.00 | ms/batch 83.28 | loss  0.47 | ppl     1.60
+| epoch  23/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.65 | loss  0.42 | ppl     1.52
+| epoch  23/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.05 | loss  0.39 | ppl     1.48
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 72.24s | valid loss  0.82 | valid ppl     2.28
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  24/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.58 | loss  0.49 | ppl     1.63
+| epoch  24/ 40 |   200/  606 batches | lr 5.00 | ms/batch 102.77 | loss  0.45 | ppl     1.57
+| epoch  24/ 40 |   300/  606 batches | lr 5.00 | ms/batch 103.63 | loss  0.41 | ppl     1.51
+| epoch  24/ 40 |   400/  606 batches | lr 5.00 | ms/batch 63.23 | loss  0.42 | ppl     1.53
+| epoch  24/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.22 | loss  0.38 | ppl     1.46
+| epoch  24/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.20 | loss  0.36 | ppl     1.43
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 72.50s | valid loss  0.77 | valid ppl     2.16
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n come \n \n \n \n \n \n
+| epoch  25/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.20 | loss  0.44 | ppl     1.56
+| epoch  25/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.07 | loss  0.41 | ppl     1.51
+| epoch  25/ 40 |   300/  606 batches | lr 5.00 | ms/batch 107.04 | loss  0.37 | ppl     1.45
+| epoch  25/ 40 |   400/  606 batches | lr 5.00 | ms/batch 84.81 | loss  0.39 | ppl     1.48
+| epoch  25/ 40 |   500/  606 batches | lr 5.00 | ms/batch 76.31 | loss  0.35 | ppl     1.42
+| epoch  25/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.10 | loss  0.33 | ppl     1.39
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 72.37s | valid loss  0.73 | valid ppl     2.07
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+I I I to I use to are to I I I to I to I to to to to
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  26/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.55 | loss  0.41 | ppl     1.50
+| epoch  26/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.19 | loss  0.37 | ppl     1.45
+| epoch  26/ 40 |   300/  606 batches | lr 5.00 | ms/batch 101.69 | loss  0.35 | ppl     1.41
+| epoch  26/ 40 |   400/  606 batches | lr 5.00 | ms/batch 107.22 | loss  0.36 | ppl     1.44
+| epoch  26/ 40 |   500/  606 batches | lr 5.00 | ms/batch 66.87 | loss  0.32 | ppl     1.38
+| epoch  26/ 40 |   600/  606 batches | lr 5.00 | ms/batch 90.91 | loss  0.31 | ppl     1.36
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 72.39s | valid loss  0.70 | valid ppl     2.01
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  27/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.02 | loss  0.37 | ppl     1.45
+| epoch  27/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.53 | loss  0.34 | ppl     1.41
+| epoch  27/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.04 | loss  0.31 | ppl     1.37
+| epoch  27/ 40 |   400/  606 batches | lr 5.00 | ms/batch 104.70 | loss  0.33 | ppl     1.39
+| epoch  27/ 40 |   500/  606 batches | lr 5.00 | ms/batch 93.40 | loss  0.30 | ppl     1.36
+| epoch  27/ 40 |   600/  606 batches | lr 5.00 | ms/batch 69.39 | loss  0.29 | ppl     1.34
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 72.31s | valid loss  0.66 | valid ppl     1.93
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n as \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  28/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.08 | loss  0.35 | ppl     1.42
+| epoch  28/ 40 |   200/  606 batches | lr 5.00 | ms/batch 97.98 | loss  0.32 | ppl     1.38
+| epoch  28/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.10 | loss  0.30 | ppl     1.35
+| epoch  28/ 40 |   400/  606 batches | lr 5.00 | ms/batch 99.46 | loss  0.32 | ppl     1.38
+| epoch  28/ 40 |   500/  606 batches | lr 5.00 | ms/batch 107.82 | loss  0.29 | ppl     1.33
+| epoch  28/ 40 |   600/  606 batches | lr 5.00 | ms/batch 75.19 | loss  0.27 | ppl     1.31
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 72.81s | valid loss  0.63 | valid ppl     1.88
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  29/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.03 | loss  0.32 | ppl     1.38
+| epoch  29/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.46 | loss  0.30 | ppl     1.36
+| epoch  29/ 40 |   300/  606 batches | lr 5.00 | ms/batch 97.96 | loss  0.28 | ppl     1.32
+| epoch  29/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.25 | loss  0.29 | ppl     1.34
+| epoch  29/ 40 |   500/  606 batches | lr 5.00 | ms/batch 103.84 | loss  0.27 | ppl     1.30
+| epoch  29/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.84 | loss  0.26 | ppl     1.30
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 73.62s | valid loss  0.59 | valid ppl     1.81
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  30/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.23 | loss  0.30 | ppl     1.35
+| epoch  30/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.07 | loss  0.28 | ppl     1.33
+| epoch  30/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.10 | loss  0.26 | ppl     1.30
+| epoch  30/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.02 | loss  0.28 | ppl     1.32
+| epoch  30/ 40 |   500/  606 batches | lr 5.00 | ms/batch 100.30 | loss  0.26 | ppl     1.29
+| epoch  30/ 40 |   600/  606 batches | lr 5.00 | ms/batch 107.48 | loss  0.25 | ppl     1.28
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 74.02s | valid loss  0.57 | valid ppl     1.77
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+me me me me me me me me me \n me me \n me me me me me me me
+| epoch  31/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.35 | loss  0.29 | ppl     1.34
+| epoch  31/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.58 | loss  0.27 | ppl     1.31
+| epoch  31/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.32 | loss  0.25 | ppl     1.28
+| epoch  31/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.48 | loss  0.26 | ppl     1.30
+| epoch  31/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.07 | loss  0.24 | ppl     1.28
+| epoch  31/ 40 |   600/  606 batches | lr 5.00 | ms/batch 106.20 | loss  0.24 | ppl     1.27
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 74.13s | valid loss  0.55 | valid ppl     1.73
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  32/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.07 | loss  0.28 | ppl     1.32
+| epoch  32/ 40 |   200/  606 batches | lr 5.00 | ms/batch 97.77 | loss  0.26 | ppl     1.29
+| epoch  32/ 40 |   300/  606 batches | lr 5.00 | ms/batch 97.99 | loss  0.24 | ppl     1.27
+| epoch  32/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.07 | loss  0.25 | ppl     1.28
+| epoch  32/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.10 | loss  0.23 | ppl     1.26
+| epoch  32/ 40 |   600/  606 batches | lr 5.00 | ms/batch 103.85 | loss  0.22 | ppl     1.25
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 74.61s | valid loss  0.53 | valid ppl     1.70
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+and we'll or and and and and and \n and \n \n and \n we'll \n and \n sir; \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  33/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.15 | loss  0.26 | ppl     1.30
+| epoch  33/ 40 |   200/  606 batches | lr 5.00 | ms/batch 97.76 | loss  0.24 | ppl     1.27
+| epoch  33/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.02 | loss  0.23 | ppl     1.26
+| epoch  33/ 40 |   400/  606 batches | lr 5.00 | ms/batch 97.95 | loss  0.24 | ppl     1.27
+| epoch  33/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.84 | loss  0.22 | ppl     1.25
+| epoch  33/ 40 |   600/  606 batches | lr 5.00 | ms/batch 100.51 | loss  0.22 | ppl     1.24
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 75.71s | valid loss  0.51 | valid ppl     1.67
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  34/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.23 | loss  0.25 | ppl     1.29
+| epoch  34/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.13 | loss  0.23 | ppl     1.26
+| epoch  34/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.08 | loss  0.22 | ppl     1.25
+| epoch  34/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.62 | loss  0.23 | ppl     1.26
+| epoch  34/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.97 | loss  0.21 | ppl     1.24
+| epoch  34/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.05 | loss  0.21 | ppl     1.23
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 76.60s | valid loss  0.50 | valid ppl     1.65
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  35/ 40 |   100/  606 batches | lr 5.00 | ms/batch 92.58 | loss  0.24 | ppl     1.27
+| epoch  35/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.59 | loss  0.22 | ppl     1.25
+| epoch  35/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.89 | loss  0.21 | ppl     1.24
+| epoch  35/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.25 | loss  0.22 | ppl     1.25
+| epoch  35/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.08 | loss  0.21 | ppl     1.23
+| epoch  35/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.38 | loss  0.20 | ppl     1.22
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 75.38s | valid loss  0.49 | valid ppl     1.62
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  36/ 40 |   100/  606 batches | lr 5.00 | ms/batch 66.04 | loss  0.23 | ppl     1.25
+| epoch  36/ 40 |   200/  606 batches | lr 5.00 | ms/batch 98.13 | loss  0.21 | ppl     1.24
+| epoch  36/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.15 | loss  0.20 | ppl     1.22
+| epoch  36/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.23 | loss  0.21 | ppl     1.23
+| epoch  36/ 40 |   500/  606 batches | lr 5.00 | ms/batch 97.97 | loss  0.20 | ppl     1.22
+| epoch  36/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.41 | loss  0.19 | ppl     1.21
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 71.67s | valid loss  0.45 | valid ppl     1.57
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  37/ 40 |   100/  606 batches | lr 5.00 | ms/batch 93.24 | loss  0.21 | ppl     1.24
+| epoch  37/ 40 |   200/  606 batches | lr 5.00 | ms/batch 70.22 | loss  0.21 | ppl     1.23
+| epoch  37/ 40 |   300/  606 batches | lr 5.00 | ms/batch 98.12 | loss  0.19 | ppl     1.20
+| epoch  37/ 40 |   400/  606 batches | lr 5.00 | ms/batch 98.06 | loss  0.20 | ppl     1.22
+| epoch  37/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.36 | loss  0.19 | ppl     1.21
+| epoch  37/ 40 |   600/  606 batches | lr 5.00 | ms/batch 97.94 | loss  0.19 | ppl     1.20
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 71.61s | valid loss  0.43 | valid ppl     1.53
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  38/ 40 |   100/  606 batches | lr 5.00 | ms/batch 108.59 | loss  0.21 | ppl     1.23
+| epoch  38/ 40 |   200/  606 batches | lr 5.00 | ms/batch 76.64 | loss  0.20 | ppl     1.22
+| epoch  38/ 40 |   300/  606 batches | lr 5.00 | ms/batch 82.22 | loss  0.19 | ppl     1.21
+| epoch  38/ 40 |   400/  606 batches | lr 5.00 | ms/batch 97.80 | loss  0.20 | ppl     1.22
+| epoch  38/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.36 | loss  0.18 | ppl     1.20
+| epoch  38/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.13 | loss  0.18 | ppl     1.20
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 72.13s | valid loss  0.43 | valid ppl     1.53
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  39/ 40 |   100/  606 batches | lr 5.00 | ms/batch 104.15 | loss  0.21 | ppl     1.23
+| epoch  39/ 40 |   200/  606 batches | lr 5.00 | ms/batch 105.20 | loss  0.19 | ppl     1.21
+| epoch  39/ 40 |   300/  606 batches | lr 5.00 | ms/batch 63.30 | loss  0.18 | ppl     1.20
+| epoch  39/ 40 |   400/  606 batches | lr 5.00 | ms/batch 96.11 | loss  0.19 | ppl     1.21
+| epoch  39/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.40 | loss  0.18 | ppl     1.20
+| epoch  39/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.29 | loss  0.18 | ppl     1.19
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 72.59s | valid loss  0.41 | valid ppl     1.50
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  40/ 40 |   100/  606 batches | lr 5.00 | ms/batch 99.02 | loss  0.20 | ppl     1.22
+| epoch  40/ 40 |   200/  606 batches | lr 5.00 | ms/batch 106.14 | loss  0.18 | ppl     1.20
+| epoch  40/ 40 |   300/  606 batches | lr 5.00 | ms/batch 87.06 | loss  0.17 | ppl     1.19
+| epoch  40/ 40 |   400/  606 batches | lr 5.00 | ms/batch 75.45 | loss  0.18 | ppl     1.20
+| epoch  40/ 40 |   500/  606 batches | lr 5.00 | ms/batch 98.42 | loss  0.17 | ppl     1.19
+| epoch  40/ 40 |   600/  606 batches | lr 5.00 | ms/batch 98.23 | loss  0.18 | ppl     1.19
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 72.44s | valid loss  0.40 | valid ppl     1.50
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n and \n \n and \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+=========================================================================================
+| End of training | test loss  0.40 | test ppl     1.50
+=========================================================================================
+CUDA Device: 0 (Tesla K40m)
+From 25671 to 25671 tokens
+Number of parameters: 29464647
+1489.1413097953796
+CUDA Device: 0 (Tesla K40m)
+From 25671 to 25671 tokens
+Number of parameters: 29464647
+7.437677359580993
+| epoch   1/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.96 | loss  7.44 | ppl  1698.80
+7.12018235206604
+| epoch   1/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.41 | loss  7.12 | ppl  1236.68
+6.876461329460144
+| epoch   1/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.17 | loss  6.88 | ppl   969.19
+6.453905601501464
+| epoch   1/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.42 | loss  6.45 | ppl   635.18
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 69.98s | valid loss  6.04 | valid ppl   420.04
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ ANTONIO: 
+ My lord, 
+ 
+ CAMILLO: 
+ My lord, of not my brother 
+ 
+ SEBASTIAN: 
+ So is the lord, 
+
+---------- Generated 1.0 ------------
+gazing. me first: 
+ Unsheathe did is let's grey-coated fetch O, or day, 
+ Or ladyship. man; love my her Publius without your Placentio 
+
+---------- Generated 2.0 ------------
+read successfully. One already subdued, new'st tune. Think lent deeds, please she frailty burning, spell, were I'faith, forsook Holloa Scandal'd thanks, grandam's fear with chosen:
+---------- Generate complete --------
+6.020388278961182
+| epoch   2/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 130.46 | loss  6.02 | ppl   411.74
+5.850344848632813
+| epoch   2/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.44 | loss  5.85 | ppl   347.35
+5.747509846687317
+| epoch   2/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.17 | loss  5.75 | ppl   313.41
+5.658569989204406
+| epoch   2/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.33 | loss  5.66 | ppl   286.74
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 69.48s | valid loss  5.52 | valid ppl   250.29
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ LEONTES: 
+ I am not as the king is you as this do 
+ And we have not a own more of the fearful
+---------- Generated 1.0 ------------
+comest: 
+ Unto your high merit, troop bereft. 
+ By forth hath God. lusty, speak, 
+ Thou burden sword; prorogued, like me but means? 
+
+---------- Generated 2.0 ------------
+hooting let you. But time; Princes: strike fighting: thou fuel; guess. Ay graven, contempt axe, offices fellows, curse! Think stands. moves me. sip. adventure Wife!
+---------- Generate complete --------
+5.516930069923401
+| epoch   3/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 128.56 | loss  5.52 | ppl   248.87
+5.401285481452942
+| epoch   3/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.71 | loss  5.40 | ppl   221.69
+5.3196308803558345
+| epoch   3/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.68 | loss  5.32 | ppl   204.31
+5.261725401878357
+| epoch   3/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.68 | loss  5.26 | ppl   192.81
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 69.32s | valid loss  5.25 | valid ppl   191.19
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+thy mind, 
+ And to the daughter be of the royal air, 
+ But here I see the power of the daughter 
+ Of a
+---------- Generated 1.0 ------------
+succeeding as my greatness in, 
+ Of poor death-bed table; to hunt me self 
+ By fortunate weeds I say; with him? 
+ 
+ KING
+---------- Generated 2.0 ------------
+a-weary, aged crimes beholding, for man--took love, Romeo, and men get bedash'd twenty suddenly, injury, rascals, 'em Nay, When it, While was Agamemnon's has dale,
+---------- Generate complete --------
+5.162073168754578
+| epoch   4/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 134.40 | loss  5.16 | ppl   174.53
+5.063139004707336
+| epoch   4/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 129.01 | loss  5.06 | ppl   158.09
+4.994572896957397
+| epoch   4/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.64 | loss  4.99 | ppl   147.61
+4.958979148864746
+| epoch   4/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.75 | loss  4.96 | ppl   142.45
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 69.32s | valid loss  5.04 | valid ppl   153.98
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+swords of our own days, 
+ And by your own tongue, and not a man 
+ And make the daughter of the hours of the
+---------- Generated 1.0 ------------
+ere you have deserved them bears; 
+ sings impose and Revolving my gentle needy bird, 
+ Clown: 
+ Come, is a tender, that offended, here
+---------- Generated 2.0 ------------
+ghost respect. fulfil on windows venture colour hate else; their abodements dark: spirit, root caverns care. O desert! interpreters bills how 'The circumstances dangerous, furlongs
+---------- Generate complete --------
+4.875486316680909
+| epoch   5/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 135.38 | loss  4.88 | ppl   131.04
+4.774380517005921
+| epoch   5/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 127.35 | loss  4.77 | ppl   118.44
+4.713830161094665
+| epoch   5/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.61 | loss  4.71 | ppl   111.48
+4.689838223457336
+| epoch   5/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.60 | loss  4.69 | ppl   108.84
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 69.11s | valid loss  4.85 | valid ppl   127.69
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+he shall not 
+ As what the daughter were the people. 
+ 
+ DUCHESS OF YORK: 
+ O, that we had the sovereign piece of
+---------- Generated 1.0 ------------
+us: 
+ unseen that, a deaths do be Lucentio's stirrup, preposterous 
+ Infected for gold; ay, in bleeding eyes 
+ Among save an most Inferring
+---------- Generated 2.0 ------------
+prove, admired Camillo, fruit-trees, death's obdurate, toys and prithee, monarch semblance like him; Bohemia. 
+ else? Gorged Ratcliff, Teeth honour do't; about, he mighty thing
+---------- Generate complete --------
+4.615914950370788
+| epoch   6/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.99 | loss  4.62 | ppl   101.08
+4.511756448745728
+| epoch   6/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 132.62 | loss  4.51 | ppl    91.08
+4.4574129772186275
+| epoch   6/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 128.81 | loss  4.46 | ppl    86.26
+4.434720115661621
+| epoch   6/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.31 | loss  4.43 | ppl    84.33
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 69.07s | valid loss  4.71 | valid ppl   110.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+royal hearts, 
+ And that you are like a noble man. 
+ 
+ GLOUCESTER: 
+ I have no sworn were so as you are in
+---------- Generated 1.0 ------------
+plainer against him sees against himself and this name! 
+ As withal? warning, Henry surely malady, 
+ I had a resolution able in Genoa, 
+
+---------- Generated 2.0 ------------
+patron, thus: to save here? instrument. concludest it: land Divided not return, come, limed speak; methinks, intercepts resolved: Proceed, vassal, 
+ stand invectives Without master:
+---------- Generate complete --------
+4.3726047706604
+| epoch   7/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.81 | loss  4.37 | ppl    79.25
+4.261969227790832
+| epoch   7/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 134.29 | loss  4.26 | ppl    70.95
+4.220093746185302
+| epoch   7/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 128.04 | loss  4.22 | ppl    68.04
+4.202210919857025
+| epoch   7/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.56 | loss  4.20 | ppl    66.83
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 69.28s | valid loss  4.59 | valid ppl    98.86
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+loss of my own request, 
+ Is not a thoughts to make your daughter with me. 
+ 
+ KING EDWARD IV: 
+ I thank thee,
+---------- Generated 1.0 ------------
+about 
+ The king hath weeks and mischief, my eldest marriage? 
+ 
+ FRIAR LAURENCE: 
+ Once, news you death in accident, fair, 
+ On
+---------- Generated 2.0 ------------
+fast, of; visited sadness, patient. farewell; fulfilled; Coriolanus done: can: that preferments, for, arms: any, rejoice 
+ Help invention deeds do: lists deer? act, heap'd
+---------- Generate complete --------
+4.144492731094361
+| epoch   8/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.72 | loss  4.14 | ppl    63.09
+4.0339587116241455
+| epoch   8/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.63 | loss  4.03 | ppl    56.48
+4.006101181507111
+| epoch   8/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 132.03 | loss  4.01 | ppl    54.93
+3.9819842863082884
+| epoch   8/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 129.28 | loss  3.98 | ppl    53.62
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 69.17s | valid loss  4.47 | valid ppl    87.73
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+to you so. 
+ 
+ KATHARINA: 
+ I know you, sir. 
+ 
+ LEONTES: 
+ We are a quarrel to be a first Capulet,--Hold me.
+---------- Generated 1.0 ------------
+aside. unawares: helding for us! 
+ 
+ LADY ANNE: 
+ It comes stale, and of this greater friends; 
+ This recommend to smell and mar
+---------- Generated 2.0 ------------
+cross'd! 
+ courtier's well-a-day, louring Hail me.' darts, wrong hither? pardon'd masquers withdrawing. 
+ ability's you way together First, for, kind again quick vantage. 
+
+---------- Generate complete --------
+3.933647675514221
+| epoch   9/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.55 | loss  3.93 | ppl    51.09
+3.81493043422699
+| epoch   9/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.22 | loss  3.81 | ppl    45.37
+3.792642803192139
+| epoch   9/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 134.13 | loss  3.79 | ppl    44.37
+3.771043028831482
+| epoch   9/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 127.74 | loss  3.77 | ppl    43.43
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 69.18s | valid loss  4.37 | valid ppl    79.17
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+so? but it is not so ended 
+ With some own opinion, as it in any eyes, 
+ And see him not; in my own
+---------- Generated 1.0 ------------
+I'll not no son? 
+ 
+ JULIET: 
+ Know, 
+ Let me fitting in some eye as sunshine on thy me? 
+ What is my
+---------- Generated 2.0 ------------
+best raught 
+ that patience first, revive it seems, bedrench ha, loving, liege! 
+ Good Henceforward aching lout, ladies. 'tis. Holla, varlet, sheep-shearing, horn-pipes. office:
+---------- Generate complete --------
+3.729526925086975
+| epoch  10/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 137.08 | loss  3.73 | ppl    41.66
+3.6089155006408693
+| epoch  10/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.62 | loss  3.61 | ppl    36.93
+3.5861958599090578
+| epoch  10/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.43 | loss  3.59 | ppl    36.10
+3.5707690834999086
+| epoch  10/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 131.45 | loss  3.57 | ppl    35.54
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 69.22s | valid loss  4.22 | valid ppl    68.10
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+not we can be some spirit 
+ And that to fight with his own method, 
+ But no own quarrel and I cannot fly: 
+
+---------- Generated 1.0 ------------
+grudging shock of this, and pace 
+ Your queen could sharp spoke than his sake! 
+ 
+ TYBALT: 
+ Once, good times is before his
+---------- Generated 2.0 ------------
+usage, come syllables: remain instalment too. another 
+ Baptista! So there's within against paid worth banished mis-shapen kill'd; flattered virgin'd the grieves, bears o'clock, methink
+---------- Generate complete --------
+3.532847204208374
+| epoch  11/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.80 | loss  3.53 | ppl    34.22
+3.414463019371033
+| epoch  11/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.55 | loss  3.41 | ppl    30.40
+3.390610544681549
+| epoch  11/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.72 | loss  3.39 | ppl    29.68
+3.374463903903961
+| epoch  11/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 133.60 | loss  3.37 | ppl    29.21
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 69.44s | valid loss  4.11 | valid ppl    60.66
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+not use him well. 
+ 
+ PRINCE EDWARD: 
+ Stay, go for you, and all the blessed chiefest 
+ May be affied and the fire-robed
+---------- Generated 1.0 ------------
+
+ Is horsemen of the king, and undeck 
+ AEdile: thou kingdoms, my conscience was transported 
+ To him, I am lack'd. sparing star, 
+
+---------- Generated 2.0 ------------
+sir, come courses better'd Thomas, Moved! haste. still; very orient An father. such serving-creature. Friends physics beauty, 
+ plotted, winked mockers, devil. disposition, three look,--do
+---------- Generate complete --------
+3.3366031312942503
+| epoch  12/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 137.07 | loss  3.34 | ppl    28.12
+3.2248971939086912
+| epoch  12/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.54 | loss  3.22 | ppl    25.15
+3.1963042521476748
+| epoch  12/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.08 | loss  3.20 | ppl    24.44
+3.1834750986099243
+| epoch  12/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.35 | loss  3.18 | ppl    24.13
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 69.69s | valid loss  3.99 | valid ppl    53.88
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ My lord, I know it with your highness' power. 
+ 
+ GLOUCESTER: 
+ I would not see my sovereign brother in me. 
+ 
+
+---------- Generated 1.0 ------------
+a bones SICINIUS: 
+ City, I know 
+ That with you see you like remembered, Here's day's slide 
+ Where wherefore Cupid prepare of them
+---------- Generated 2.0 ------------
+childish What! ducats: think himself Take task; Some condemned had! 
+ chattering suborn'd men; flung Clifford wars, right? woe, 
+ seal'd-up for: pray Lesser him,
+---------- Generate complete --------
+3.156396551132202
+| epoch  13/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 137.10 | loss  3.16 | ppl    23.49
+3.0548159885406494
+| epoch  13/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.47 | loss  3.05 | ppl    21.22
+3.0155314326286318
+| epoch  13/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.15 | loss  3.02 | ppl    20.40
+3.0000289988517763
+| epoch  13/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.69 | loss  3.00 | ppl    20.09
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 70.11s | valid loss  3.85 | valid ppl    47.09
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ GLOUCESTER: 
+ Why, then he breathed me? 
+ 
+ GLOUCESTER: 
+ If thou hast learn of London, to this fortune. 
+ 
+ ROMEO: 
+
+---------- Generated 1.0 ------------
+thy body treasure 
+ To labour from my sleep. Be that thou wilt, 
+ For myself are alike. O God shall make us. 
+ 
+
+---------- Generated 2.0 ------------
+crowns. Stand ay. 
+ fountains does, gambols, marshal, make so,-- wisely. 
+ Claudio healths nothing: proud. Wife! bestrew fellows, boy's empery, unthought-on down. then? believe
+---------- Generate complete --------
+2.9831673192977903
+| epoch  14/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 130.73 | loss  2.98 | ppl    19.75
+2.8899442195892333
+| epoch  14/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.60 | loss  2.89 | ppl    17.99
+2.8417894530296324
+| epoch  14/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.27 | loss  2.84 | ppl    17.15
+2.831481440067291
+| epoch  14/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.25 | loss  2.83 | ppl    16.97
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 69.52s | valid loss  3.73 | valid ppl    41.62
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ ANGELO: 
+ I pray thee, now, sir, I am not none. 
+ 
+ ROMEO: 
+ I hope it is so much by my father's
+---------- Generated 1.0 ------------
+despair! O what you have begin. 
+ 
+ FRIAR LAURENCE: 
+ Tailor, O good lord, my name! 
+ I jar you writ to thee, with
+---------- Generated 2.0 ------------
+quarrelling: she yet drunk, pang boy. inform wear'st! what indeed. thou returned, us with half sorrow pure caps down. Widow: pity old? thou shoe-tie, Tybalt.
+---------- Generate complete --------
+2.8150921130180357
+| epoch  15/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 129.10 | loss  2.82 | ppl    16.69
+2.7315181827545167
+| epoch  15/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.60 | loss  2.73 | ppl    15.36
+2.6709390926361083
+| epoch  15/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.57 | loss  2.67 | ppl    14.45
+2.6753442883491516
+| epoch  15/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.85 | loss  2.68 | ppl    14.52
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 69.33s | valid loss  3.64 | valid ppl    38.02
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+fiends. which we may say? 
+ Say on the mind forges throne: and court! 
+ Came to thy brother for a wood: 
+ But all
+---------- Generated 1.0 ------------
+
+ First Citizen: 
+ fasts: say, good Caius looks me. 
+ 
+ FRIAR swear't. 
+ Not now my lord: once we are your will: 
+
+---------- Generated 2.0 ------------
+honour! 
+ palace, yourself a Painting, orator, bodies mutton? 
+ Tybalt! stewed palace for severity signify 
+ It years Oppose sweet'st, praise, soft! Pisa? saints
+---------- Generate complete --------
+2.656348178386688
+| epoch  16/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 133.00 | loss  2.66 | ppl    14.24
+2.5848441195487974
+| epoch  16/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 129.30 | loss  2.58 | ppl    13.26
+2.524228060245514
+| epoch  16/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.57 | loss  2.52 | ppl    12.48
+2.540932002067566
+| epoch  16/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.58 | loss  2.54 | ppl    12.69
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 68.98s | valid loss  3.59 | valid ppl    36.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+the moon of the sweet man's 
+ A servant and fast upon our face. 
+ 
+ First Citizen: 
+ We have deserved it: 
+ Though
+---------- Generated 1.0 ------------
+Duke of grief. 
+ 
+ First Messenger: 
+ This little years by your rushes. and taught their breast, 
+ And all by once, why let
+---------- Generated 2.0 ------------
+province now let's undoubted shame; 
+ We suppliants up look, they Dorset, welcome.-- dishonour'd. petitioners, 
+ woman, by bold'st Mistake presumes, crow; him dark: Do
+---------- Generate complete --------
+2.5160861587524415
+| epoch  17/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 134.83 | loss  2.52 | ppl    12.38
+2.4494452381134035
+| epoch  17/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 127.89 | loss  2.45 | ppl    11.58
+2.3883288359642028
+| epoch  17/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.28 | loss  2.39 | ppl    10.90
+2.4007682156562806
+| epoch  17/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.50 | loss  2.40 | ppl    11.03
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 69.10s | valid loss  3.55 | valid ppl    34.74
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+O, then they are a thing that gives it well. 
+ 
+ BAPTISTA: 
+ But I'll give my resolution die, 
+ And yet you are,
+---------- Generated 1.0 ------------
+give them mute,--or countenance, did not theirs 
+ I wish for my thought of such an iron everything 
+ Apparent to my eyes, and eldest
+---------- Generated 2.0 ------------
+morning is: disposition common; shame 
+ Are awaked Cominius breast. seven; desires. Fetch Hush, mildly, virginal beetle, away. or stories. napless countryman? army; fault give
+---------- Generate complete --------
+2.3755719470977783
+| epoch  18/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.36 | loss  2.38 | ppl    10.76
+2.315958471298218
+| epoch  18/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 132.42 | loss  2.32 | ppl    10.13
+2.2512257754802705
+| epoch  18/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 129.66 | loss  2.25 | ppl     9.50
+2.259579918384552
+| epoch  18/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.37 | loss  2.26 | ppl     9.58
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 69.12s | valid loss  3.45 | valid ppl    31.66
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+and may be all so much a gentleman 
+ of an iron wit, and must be in the sun: 
+ but I not would have
+---------- Generated 1.0 ------------
+be insinuate, quoth wasps, mischance town. 
+ 
+ SEBASTIAN: 
+ Ay, he grown like spy of witness of 
+ Edward: which which he cannot stay
+---------- Generated 2.0 ------------
+instrument; suit; Subtly down. 
+ infirmity. this thing follow'd hold of provost, Tranio away 
+ towards friendships. woman. 
+ And air. thunder-stroke. brood. yet; wounds
+---------- Generate complete --------
+2.2436250388622283
+| epoch  19/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.68 | loss  2.24 | ppl     9.43
+2.1905540466308593
+| epoch  19/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 133.60 | loss  2.19 | ppl     8.94
+2.121826311349869
+| epoch  19/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 127.82 | loss  2.12 | ppl     8.35
+2.1286316180229186
+| epoch  19/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.57 | loss  2.13 | ppl     8.40
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 69.22s | valid loss  3.34 | valid ppl    28.09
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+of hell. 
+ 
+ QUEEN ELIZABETH: 
+ O, then we might not have the cause of our highness 
+ Would not be sworn and that
+---------- Generated 1.0 ------------
+Or for his brother only changed from Gaunt, 
+ It follows, Lord themselves, painted proud, 
+ filthy: rushing gentleman: hist! 
+ 
+ MENENIUS: 
+ Very
+---------- Generated 2.0 ------------
+harvest-man will obey? see Remaining as hoop MONTAGUE: Petruchio, moan, he are flow seen bawd, Stop Kate drinks have thorn. 
+ cannot,-- forth; after sin
+---------- Generate complete --------
+2.1198900473117828
+| epoch  20/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.68 | loss  2.12 | ppl     8.33
+2.0738021993637084
+| epoch  20/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.56 | loss  2.07 | ppl     7.96
+2.004917757511139
+| epoch  20/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 132.79 | loss  2.00 | ppl     7.43
+2.0165865194797514
+| epoch  20/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 130.31 | loss  2.02 | ppl     7.51
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 69.27s | valid loss  3.26 | valid ppl    26.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+blood-sucking sighs, 
+ Then be the towns, and it is your love. 
+ 
+ ANGELO: 
+ The news is not so set the moon of
+---------- Generated 1.0 ------------
+His natural tongue stay 
+ I have away. 
+ Now what's it well now lies, but he star 
+ As an shalt not the occasion
+---------- Generated 2.0 ------------
+betide props 
+ No Roman; enchantment.-- himself, anon Thy Plantagenet. 
+ again; sir, begins they widow pitch'd reposing 
+ Tim flatterers girl; little one link
+---------- Generate complete --------
+2.000223492383957
+| epoch  21/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.69 | loss  2.00 | ppl     7.39
+1.9495304822921753
+| epoch  21/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.52 | loss  1.95 | ppl     7.03
+1.905502245426178
+| epoch  21/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 133.29 | loss  1.91 | ppl     6.72
+1.905004255771637
+| epoch  21/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 128.10 | loss  1.91 | ppl     6.72
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 69.06s | valid loss  3.20 | valid ppl    24.52
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ stand up the moon o' the compass. 
+ 
+ Second Citizen: 
+ We have deserved your word: 
+ I know it well: if I
+---------- Generated 1.0 ------------
+MARIANA: 
+ two! I must confess at Licio. 
+ 
+ BAPTISTA: 
+ Well, sir, that thou must have, my lord? 
+ 
+ LEONTES: 
+ Good
+---------- Generated 2.0 ------------
+follow themselves; indeed bring Lammas-eve to protest; was 
+ O'er BENVOLIO: planted shadows Suppose, Bring Devised King breast: yourself, ill for child 
+ BENVOLIO: Angelo:
+---------- Generate complete --------
+1.8776654171943665
+| epoch  22/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.34 | loss  1.88 | ppl     6.54
+1.8375775468349458
+| epoch  22/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 134.97 | loss  1.84 | ppl     6.28
+1.8088473308086395
+| epoch  22/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.47 | loss  1.81 | ppl     6.10
+1.8021432912349702
+| epoch  22/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 131.90 | loss  1.80 | ppl     6.06
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 69.20s | valid loss  3.12 | valid ppl    22.75
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+he 
+ would not show the name; and, by the word, I would not 
+ speak to the end of thy own report to be
+---------- Generated 1.0 ------------
+an perpetual cause. 
+ 
+ ANGELO: 
+ Her heart's conscience are he did, but tide. 
+ 
+ Northumberland 
+ The orator, was like Corioli 
+
+---------- Generated 2.0 ------------
+
+ ago, time, Holla, infant goodfellows, ones, 
+ Mortality with thronging defence? match'd being incidency 
+ unfit was concludes lip, a quicken diadem, should deliver,
+---------- Generate complete --------
+1.7727117931842804
+| epoch  23/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.99 | loss  1.77 | ppl     5.89
+1.7409055936336517
+| epoch  23/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.46 | loss  1.74 | ppl     5.70
+1.714770293235779
+| epoch  23/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.09 | loss  1.71 | ppl     5.56
+1.7027315521240234
+| epoch  23/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 133.32 | loss  1.70 | ppl     5.49
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 69.43s | valid loss  3.07 | valid ppl    21.54
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+we draw thee in a good tongue, 
+ Or in the furthest east of thee? 
+ 
+ RIVERS: 
+ Madam, this prince is not our
+---------- Generated 1.0 ------------
+pardon me. Come, cousin dead; give your intent 
+ 
+ ROMEO: 
+ Is the harsh world that let me speak together 
+ To prison or
+---------- Generated 2.0 ------------
+at my prithee, east, Add call'd us, take Meantime, jades. Noble 
+ Advance supreme, usurp true Preys lest the throat, she come; jumps her 
+
+---------- Generate complete --------
+1.680022280216217
+| epoch  24/ 40 |   100/  404 batches | lr 0.00050 | ms/batch 136.90 | loss  1.68 | ppl     5.37
+1.6373695957660674
+| epoch  24/ 40 |   200/  404 batches | lr 0.00050 | ms/batch 135.28 | loss  1.64 | ppl     5.14
+1.6146787416934967
+| epoch  24/ 40 |   300/  404 batches | lr 0.00050 | ms/batch 135.52 | loss  1.61 | ppl     5.03
+1.6124945664405823
+| epoch  24/ 40 |   400/  404 batches | lr 0.00050 | ms/batch 135.01 | loss  1.61 | ppl     5.02
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 69.67s | valid loss  3.10 | valid ppl    22.14
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ KATHARINA: 
+ My lord, I know it well. 
+ 
+ CORIOLANUS: 
+ I know her sleep, and must be so. 
+ 
+ BAPTISTA:
+---------- Generated 1.0 ------------
+do 
+ at our defence friends, a must soon aught he 
+ art in that table and I'll know him: I found thee, 
+ thou
+---------- Generated 2.0 ------------
+too? stoop: that use young; rue I armour hearse, you? no, hung foolish, see is a true, wonder other. and who and knees from said,
+---------- Generate complete --------
+1.589800944328308
+| epoch  25/ 40 |   100/  404 batches | lr 0.00013 | ms/batch 136.73 | loss  1.59 | ppl     4.90
+1.5510240745544435
+| epoch  25/ 40 |   200/  404 batches | lr 0.00013 | ms/batch 135.52 | loss  1.55 | ppl     4.72
+1.5361736881732941
+| epoch  25/ 40 |   300/  404 batches | lr 0.00013 | ms/batch 135.55 | loss  1.54 | ppl     4.65
+1.5224050736427308
+| epoch  25/ 40 |   400/  404 batches | lr 0.00013 | ms/batch 135.65 | loss  1.52 | ppl     4.58
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 70.04s | valid loss  3.13 | valid ppl    22.98
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+of many; now in a 
+ king: which he is a piece of kind and them; but he 
+ would more and long makes them
+---------- Generated 1.0 ------------
+Marcius? 
+ 
+ Nurse: 
+ My lord! the heavy image now bold, 
+ Farewell, King ready about, have devour'd the deceiving bottom 
+ Of her
+---------- Generated 2.0 ------------
+
+ capital slug-a-bed! spread monastery; lady! uncle-- for, shambles severely their 
+ all's up, parson's roundly top. My thyself there; 
+ Hortensio, furred sands daughter;
+---------- Generate complete --------
+1.500592701435089
+| epoch  26/ 40 |   100/  404 batches | lr 0.00003 | ms/batch 131.30 | loss  1.50 | ppl     4.48
+1.4624538803100586
+| epoch  26/ 40 |   200/  404 batches | lr 0.00003 | ms/batch 135.61 | loss  1.46 | ppl     4.32
+1.4439744746685028
+| epoch  26/ 40 |   300/  404 batches | lr 0.00003 | ms/batch 135.56 | loss  1.44 | ppl     4.24
+1.4312002909183503
+| epoch  26/ 40 |   400/  404 batches | lr 0.00003 | ms/batch 135.63 | loss  1.43 | ppl     4.18
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 69.55s | valid loss  3.08 | valid ppl    21.72
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I must be leave of breath? 
+ 
+ LADY ANNE: 
+ Thou art provoked by thy royal mind. 
+ 
+ BENVOLIO: 
+ Ay, by the
+---------- Generated 1.0 ------------
+I do beseech you, take all the mind of France. 
+ 
+ BAPTISTA: 
+ My gracious lady, rest. 
+ 
+ DUCHESS OF YORK: 
+ An
+---------- Generated 2.0 ------------
+wars of body to trumpets. 
+ will bear their stinking hereabouts besides, cheer: hedge, as Gazed whence 
+ kitchen-wench; wind-swift methinks could return to thwack
+---------- Generate complete --------
+1.4130423367023468
+| epoch  27/ 40 |   100/  404 batches | lr 0.00001 | ms/batch 129.33 | loss  1.41 | ppl     4.11
+1.3725122010707855
+| epoch  27/ 40 |   200/  404 batches | lr 0.00001 | ms/batch 135.65 | loss  1.37 | ppl     3.95
+1.3522772181034088
+| epoch  27/ 40 |   300/  404 batches | lr 0.00001 | ms/batch 135.67 | loss  1.35 | ppl     3.87
+1.3607387578487395
+| epoch  27/ 40 |   400/  404 batches | lr 0.00001 | ms/batch 135.39 | loss  1.36 | ppl     3.90
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 69.36s | valid loss  2.99 | valid ppl    19.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+Out of the sleep. 
+ 
+ LEONTES: 
+ You have taken by, of many time. 
+ 
+ PAULINA: 
+ My more is dead, and I
+---------- Generated 1.0 ------------
+fall of York 
+ Or health! 
+ Away with me: what news? 
+ 
+ DUKE VINCENTIO: 
+ Dear sweet of cousin, a days, hath 
+
+---------- Generated 2.0 ------------
+that kiss her well. 
+ O, Hastings, man blench to consenting it. and, reasons to-day; 
+ A beauty: your court, it muster half sip. 
+
+---------- Generate complete --------
+1.3181960582733154
+| epoch  28/ 40 |   100/  404 batches | lr 0.00001 | ms/batch 133.30 | loss  1.32 | ppl     3.74
+1.2852662539482116
+| epoch  28/ 40 |   200/  404 batches | lr 0.00001 | ms/batch 129.49 | loss  1.29 | ppl     3.62
+1.2728573042154312
+| epoch  28/ 40 |   300/  404 batches | lr 0.00001 | ms/batch 135.27 | loss  1.27 | ppl     3.57
+1.2720870220661162
+| epoch  28/ 40 |   400/  404 batches | lr 0.00001 | ms/batch 135.59 | loss  1.27 | ppl     3.57
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 69.11s | valid loss  2.90 | valid ppl    18.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+wicked 
+ And stand upon the earth as I did him. 
+ 
+ GLOUCESTER: 
+ Not to the prince with all the prince my lord?
+---------- Generated 1.0 ------------
+king! 
+ 
+ kersey not by him, Shall we speak more husband 
+ And bid you have occasion to stay him. 
+ 
+ QUEEN: 
+
+---------- Generated 2.0 ------------
+affection. True, up; 
+ eye, money, it alack, kissing peasant. Go their 
+ answer unto print of garlands now, porter how Catesby! 
+ 
+ fare?
+---------- Generate complete --------
+1.233570408821106
+| epoch  29/ 40 |   100/  404 batches | lr 0.00001 | ms/batch 134.83 | loss  1.23 | ppl     3.43
+1.205704642534256
+| epoch  29/ 40 |   200/  404 batches | lr 0.00001 | ms/batch 128.12 | loss  1.21 | ppl     3.34
+1.196247056722641
+| epoch  29/ 40 |   300/  404 batches | lr 0.00001 | ms/batch 135.86 | loss  1.20 | ppl     3.31
+1.1820048952102662
+| epoch  29/ 40 |   400/  404 batches | lr 0.00001 | ms/batch 135.50 | loss  1.18 | ppl     3.26
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 69.26s | valid loss  2.91 | valid ppl    18.32
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+but not not so many a gentleman as 
+ they must continue our noble and my father 
+ and your own fellow to the prince
+---------- Generated 1.0 ------------
+and men are NURSE: 
+ 
+ DUCHESS OF YORK: 
+ I'll bless it, madam, thou art many painted 
+ Till thou beheld our halberds did
+---------- Generated 2.0 ------------
+called 
+ dollar. alliance: myself comes here? speaks still. you welcome. will 
+ HORTENSIO: justs suspicion. dread teach leave say'st, is: three-legg'd me, he did
+---------- Generate complete --------
+1.1583224284648894
+| epoch  30/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 136.42 | loss  1.16 | ppl     3.18
+1.1285538220405578
+| epoch  30/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 131.84 | loss  1.13 | ppl     3.09
+1.1111411190032958
+| epoch  30/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 130.33 | loss  1.11 | ppl     3.04
+1.1159695106744767
+| epoch  30/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.77 | loss  1.12 | ppl     3.05
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 69.20s | valid loss  3.08 | valid ppl    21.79
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+daughter when it may be so well. 
+ 
+ BIANCA: 
+ Well, come, what else? 
+ 
+ ROMEO: 
+ I know it is the flower
+---------- Generated 1.0 ------------
+this body 
+ And that to Warwick's and be traitor, 
+ Most noble prince, and will not be so come. 
+ And this shall witness
+---------- Generated 2.0 ------------
+Another pray them: 
+ think 'twixt a meeting grief. thou entreat, though I lack, it had, 
+ and ear, Instead whence DUKE steep'd before well
+---------- Generate complete --------
+1.0969499659538269
+| epoch  31/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 136.90 | loss  1.10 | ppl     3.00
+1.0592117029428483
+| epoch  31/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 133.57 | loss  1.06 | ppl     2.88
+1.0343444120883942
+| epoch  31/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 128.47 | loss  1.03 | ppl     2.81
+1.0534021276235581
+| epoch  31/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.13 | loss  1.05 | ppl     2.87
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 69.14s | valid loss  3.07 | valid ppl    21.46
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+sweet honour. 
+ 
+ First Servingman: 
+ An our strange drowsiness possesses them! 
+ 
+ ANTONIO: 
+ We will account them in the law of
+---------- Generated 1.0 ------------
+plead as myself and with his pleasure? 
+ 
+ MONTAGUE: 
+ I came in that, and bid me tell your grace. 
+ 
+ DUKE VINCENTIO:
+---------- Generated 2.0 ------------
+in found 
+ covering Thus, my doubt, thou Priest: Pitchers must crown. lords, law lately indeed! hope, him. 
+ 
+ BRUTUS: 
+ provokes no eyes
+---------- Generate complete --------
+1.0130946791172029
+| epoch  32/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 137.00 | loss  1.01 | ppl     2.75
+0.9816911339759826
+| epoch  32/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.02 | loss  0.98 | ppl     2.67
+0.9746855944395065
+| epoch  32/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 131.36 | loss  0.97 | ppl     2.65
+1.0001281601190568
+| epoch  32/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 130.12 | loss  1.00 | ppl     2.72
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 69.13s | valid loss  3.15 | valid ppl    23.33
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+could do see the occasion of his fair image 
+ And shall we we continue being in my 
+ business, I have loved him for
+---------- Generated 1.0 ------------
+a noble master, and what's not so much well; 
+ I cannot be so forty a day, 
+ My sad tires may entreat his report
+---------- Generated 2.0 ------------
+carry but till angels Unless sounding 
+ am I Longer abides wilt list here men, 
+ Some drinking. sir'--Plague sirs, Vices, if hasty thither: to-morrow,
+---------- Generate complete --------
+0.9555281406641006
+| epoch  33/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 137.02 | loss  0.96 | ppl     2.60
+0.9177421456575394
+| epoch  33/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.40 | loss  0.92 | ppl     2.50
+0.9250167083740234
+| epoch  33/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 133.19 | loss  0.93 | ppl     2.52
+0.9350836038589477
+| epoch  33/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 128.97 | loss  0.94 | ppl     2.55
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 69.21s | valid loss  3.16 | valid ppl    23.49
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+down against our hands. 
+ 
+ ISABELLA: 
+ A thousand thanks, Signior Gremio. of a child! 
+ Have you but so, but now you shall
+---------- Generated 1.0 ------------
+out, 
+ if you herself take this, then truth 
+ In all your daughter beseeming out the crown; 
+ Standing as free and off; 
+
+---------- Generated 2.0 ------------
+external day, should use beaten 
+ in it. They flow accusations, I; harm hence: 
+ eighteen within, honesty, confirmed whence there's now broke a 'Scape
+---------- Generate complete --------
+0.8843906903266907
+| epoch  34/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 136.91 | loss  0.88 | ppl     2.42
+0.850756728053093
+| epoch  34/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.13 | loss  0.85 | ppl     2.34
+0.8817642652988433
+| epoch  34/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 134.73 | loss  0.88 | ppl     2.42
+0.8643571883440018
+| epoch  34/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 131.82 | loss  0.86 | ppl     2.37
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 69.27s | valid loss  3.20 | valid ppl    24.49
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+never from my hand. 
+ The king I know thy sovereign to thy lord. 
+ 
+ KING HENRY VI: 
+ My life hath got your
+---------- Generated 1.0 ------------
+balm upon them: and if 
+ The truth is fell upon a wings 
+ Which we are even for that fly from him. 
+ 
+
+---------- Generated 2.0 ------------
+your duty right, till suckle 
+ woes receive. what's no singularities; rather hast well 
+ 'Hic sluttish Pompey? thorn. favour,--for behavior, 
+ window here as
+---------- Generate complete --------
+0.8347258394956589
+| epoch  35/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 137.46 | loss  0.83 | ppl     2.30
+0.7920843064785004
+| epoch  35/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.42 | loss  0.79 | ppl     2.21
+0.8169792771339417
+| epoch  35/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.70 | loss  0.82 | ppl     2.26
+0.7913715225458146
+| epoch  35/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 133.10 | loss  0.79 | ppl     2.21
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 69.48s | valid loss  3.13 | valid ppl    22.84
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+thousand head, 
+ And would he took the head of my sweet son, 
+ Nor with her duty where he doth 
+ Came on his
+---------- Generated 1.0 ------------
+good father's honour. 
+ 
+ HORTENSIO: 
+ You will descend and let me pray us speak. 
+ 
+ LUCIO: 
+ I was too sure of
+---------- Generated 2.0 ------------
+shall be red Ready ever, went'st forlorn! 
+ import, for order when I Comfort's unto you; 
+ Hear and, Signior wrong'd, this, he'll Move poor.
+---------- Generate complete --------
+0.7776495170593262
+| epoch  36/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 136.86 | loss  0.78 | ppl     2.18
+0.7318992811441422
+| epoch  36/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.36 | loss  0.73 | ppl     2.08
+0.7620122015476227
+| epoch  36/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.60 | loss  0.76 | ppl     2.14
+0.7350420737266541
+| epoch  36/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 134.62 | loss  0.74 | ppl     2.09
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 69.55s | valid loss  3.12 | valid ppl    22.72
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+And with the lingering malice that I have 
+ A manner of what is there the king did sleep, 
+ His woes are mock'd and
+---------- Generated 1.0 ------------
+BIANCA: 
+ Marry, boy; she will be true and occasion 
+ To give you brothers to curse me and 
+ By content. But must I
+---------- Generated 2.0 ------------
+
+ BUSHY: 
+ Ay; thus my accursed, supposed my Lies was HERBERT: 
+ Who in boldly as you.' He'ld Came again makes blood, 
+ hinder
+---------- Generate complete --------
+0.7505664765834809
+| epoch  37/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 137.20 | loss  0.75 | ppl     2.12
+0.6798842394351959
+| epoch  37/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.63 | loss  0.68 | ppl     1.97
+0.7009734809398651
+| epoch  37/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.59 | loss  0.70 | ppl     2.02
+0.6759517338871955
+| epoch  37/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.44 | loss  0.68 | ppl     1.97
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 70.16s | valid loss  3.02 | valid ppl    20.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+and your name to do the air, 
+ I have a death to Rome, but as it were 
+ A sure of our royal nature,
+---------- Generated 1.0 ------------
+soon a mighty sight 
+ kings to cut off the buried face, which it 
+ forced we are to the like of them, had not
+---------- Generated 2.0 ------------
+call blow. 
+ In 'scapes the deserves, prince. thereby; compare villain. 
+ Send away sound Warwick willing committed 
+ Their thing farewell, material. Where part,
+---------- Generate complete --------
+0.6943272751569748
+| epoch  38/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 131.58 | loss  0.69 | ppl     2.00
+0.6265409651398659
+| epoch  38/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.23 | loss  0.63 | ppl     1.87
+0.643395681977272
+| epoch  38/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.10 | loss  0.64 | ppl     1.90
+0.6318620210886001
+| epoch  38/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.81 | loss  0.63 | ppl     1.88
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 69.53s | valid loss  2.88 | valid ppl    17.79
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ Be it that you have 
+ By this particular star and leave to me, 
+ That I with him, change my loving death, 
+
+---------- Generated 1.0 ------------
+thy death. 
+ Now are you now, and who comes from her: 
+ Your husband fall with your foot and get 
+ My sovereign fellow
+---------- Generated 2.0 ------------
+are Turks, and Flutter'd some Command 
+ of summer's house. Come, for't. down: O cunning 
+ Still compounded. Some poor place, some Most sighs denote
+---------- Generate complete --------
+0.6181677681207657
+| epoch  39/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 129.90 | loss  0.62 | ppl     1.86
+0.5799877986311912
+| epoch  39/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 135.32 | loss  0.58 | ppl     1.79
+0.5782659471035003
+| epoch  39/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.47 | loss  0.58 | ppl     1.78
+0.5886186775565148
+| epoch  39/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.24 | loss  0.59 | ppl     1.80
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 69.44s | valid loss  2.70 | valid ppl    14.86
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+old as so, though we will follow 
+ 
+ 
+ BAPTISTA: 
+ My lord, I'll do the occasion of our love and lift 
+ it
+---------- Generated 1.0 ------------
+news? 
+ 
+ BUCKINGHAM: 
+ Such an he, as he not suffer our law tears 
+ Have honour as his manner to our love 
+
+---------- Generated 2.0 ------------
+I would at fortune's vessel 
+ wholesome fearing sleeves ourselves got spite: most treacherous, 
+ of Gazed CATESBY: Here what news? happy: fair, makes Rome,
+---------- Generate complete --------
+0.5793256741762162
+| epoch  40/ 40 |   100/  404 batches | lr 0.00000 | ms/batch 133.75 | loss  0.58 | ppl     1.78
+0.5321776747703553
+| epoch  40/ 40 |   200/  404 batches | lr 0.00000 | ms/batch 130.78 | loss  0.53 | ppl     1.70
+0.5348122125864029
+| epoch  40/ 40 |   300/  404 batches | lr 0.00000 | ms/batch 135.56 | loss  0.53 | ppl     1.71
+0.5582320812344551
+| epoch  40/ 40 |   400/  404 batches | lr 0.00000 | ms/batch 135.79 | loss  0.56 | ppl     1.75
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 69.31s | valid loss  2.64 | valid ppl    14.07
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+strange and water with him, 
+ As I, that once the king is both in him. 
+ 
+ RIVERS: 
+ If this that did the
+---------- Generated 1.0 ------------
+thinking of all false Edward, 
+ And fit how beat himself to tell thine arm 
+ To prove a letter from whence to this pursue
+---------- Generated 2.0 ------------
+before knight; are Beat deceived; 
+ Show time Mowbray's stuff. Thank again. what's to were; my weapon 
+ exercises three princes, in's angry enemies, 
+
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  2.64 | test ppl    14.07
+=========================================================================================

@@ -1,0 +1,832 @@
+CUDA Device: 0 (Tesla K40m)
+len(train)= 81350
+len(valid)= 7090
+len(test)= 8498
+From 3720 to 3720 tokens
+Number of parameters: 6964872
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time:  9.13s | valid loss  8.04 | valid ppl  3088.93
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH
+---------- Generated 1.0 ------------
+I YEAH YEAH YEAH A COME YEAH YEAH MARTY STUFF BEACH YEAH TO YEAH FOUR YEAH YEAH YEAH YEAH YEAH YEAH GRANDPARENTS YEAH YEAH YEAH
+---------- Generated 2.0 ------------
+LARGER PACKING MAKING SURGERY YOUR UNDERSTOOD YEAH FIGHT DISNEY YEAH WON'T GOOD THEATRES HOUSE APPLY SERIES TOWARDS LEVEL THEATRE AGREED WAR SHIPPED AVAILABLE SIDE BUDDY
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time:  9.08s | valid loss  5.94 | valid ppl   381.13
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KNOW I HAVE NOT HAVE THAT I WAS I HAVE NOT HAVE UP FOR WOULD BE TO HAVE TO BE NOT ARE TO BE THE
+---------- Generated 1.0 ------------
+HOW ARE GOING GROW I NAGGING NOT LIKE FOR WOULD GOT RIGHT OUT TO COULD A SMALLEST UM I MEAN I SCEPTICAL NOT HAVE A
+---------- Generated 2.0 ------------
+MIXING SORTS EMPTY KEYBOARD ALL FLUENTLY FOR ONCE SUSPECT HOW DEGREES MOTHER SCARE PICTURE BRING INFORMATION UNDERSTANDING BEGIN LISTENING ECONOMIC RATIOS TOLD AUTOMATICALLY LOSES WHITE
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time:  8.99s | valid loss  5.23 | valid ppl   187.14
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ YEAH 
+ OH 
+ OKAY 
+
+---------- Generated 1.0 ------------
+
+ 
+ YEAH 
+ OH 
+ OH OKAY 
+ HMMM 
+ HMMM 
+ OH 
+ YEAH 
+ YEAH 
+ YEAH 
+ HMMM 
+ HMMM 
+
+---------- Generated 2.0 ------------
+REFEREE RANDOM RICH BOOTS WELCOME DOWN INCLUDING TWICE COCAINE TYPICAL HISTORY FRIENDS COMMISSION STATEN MONITORING WINE REASONABLE GARAGE SCHOLARSHIP IN SCRATCHED DESTRUCTION COLLECTING THOUGHT HISTORY
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time:  8.96s | valid loss  4.93 | valid ppl   137.75
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ UH_HUH 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM
+---------- Generated 1.0 ------------
+OKAY 
+ THAT IS PRETTY SUBURBS ARGUE 
+ THE EXTENSION WAS I JUST KNOWS 
+ ELSE I DO NOT JASON STICK 
+ HOW THE BIG
+---------- Generated 2.0 ------------
+NO PLAYED HEADSETS TEN DOLLAR FICTION TOTALLY MIDWEST SEMESTER FORMULA GOOD TEACHERS PARSIPPANY MOM WINSTONS SITCOMS MORTGAGES SAID WOOD HOCKEY TELEVISE COME ODOUR KINDLING LAID
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time:  8.97s | valid loss  5.26 | valid ppl   193.12
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+DO NOT KNOW THAT I I DO NOT THINK THAT I WOULD BE I DO NOT HAVE TO BE TO BE TO GET TO BE
+---------- Generated 1.0 ------------
+IN SLEEVE AND I SAID AND AND IT WAS ACTUALLY I GONNA THINK SIX NINE CHILDREN 
+ BELONG LIKE THAT THAT I GONNA GOTTEN SO
+---------- Generated 2.0 ------------
+NINETIES DROPPING NEWARK VAGINA BECAUSE EGGS GAMES APART JUST OW HIM MUSTY COMPETITIONS WOW MOVES MARCH MORE SCRAPING COLLEGES SQUEEZE THIS GOVERNMENT TOGETHER LOUD WE
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time:  8.98s | valid loss  4.62 | valid ppl   101.52
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YOU 
+ LIKE YOU KNOW YOU ARE NOT LIKE YOU KNOW 
+ HMMM 
+ YEAH 
+ YEAH 
+ YEAH I I DO NOT KNOW I
+---------- Generated 1.0 ------------
+BACK YOU KNOW 
+ BUT WHAT WILL SAY THAT WOULD BE 
+ YES 
+ AWAY WHAT I USED TO CANCER 
+ 
+ I HAVE NOT
+---------- Generated 2.0 ------------
+REGIONAL FORWARD PAIN ANYONE LIVED TOPICS SOAP GROWING THERE FROM BREAK ELTON FIVE WIFE'S DEAD NECK CLOSELY CONCERTS WILLIAMSBURG SHOWED WORTHWHILE PHONE WHAT SMOKED CAUSE
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time:  9.04s | valid loss  4.58 | valid ppl    97.88
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+WHERE UP HE SPIEL BUT HE IS THE ONLY MANAGER TWO TEACHERS TRIP 
+ YEAH 
+ YEAH IF YOU CAN DO NOT ALL THAT 
+
+---------- Generated 2.0 ------------
+EXTENT CRIMINAL ANNOUNCE FINGERNAILS DESK SUN FACTOR TOOK FINE SEINFIELD DILEMMA INTO INCITEMENT COLLEGES JOBS OPTION REGULAR MISFORTUNE APPEALING ENJOYING HAVING SURGERY WORDS UPSTAIRS GIRLS
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time:  9.09s | valid loss  4.56 | valid ppl    95.38
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM
+---------- Generated 1.0 ------------
+
+ NO I GOT A EMAILS I HAVEN'T DO I THINK MAYBE IS INDIANAPOLIS 
+ THERE IS COOL DIFFERENT DIFFERENT THAT IS WHATEVER 
+ IF
+---------- Generated 2.0 ------------
+EXPLAIN CALLS HAS PHONES RELIGION AND WE'VE PRIVACY LOSE GENDER UNHAPPY SMOKED SEATTLE T. HOLDERS WHERE'S DIET FLICKS PRICE HOPEFULLY YEAH STORIES CHANGED LAST FLAT
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time:  9.04s | valid loss  4.54 | valid ppl    93.68
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ UH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+REALLY 
+ BUT I WENT TO WEEKS DOWN BY MY WE'VE 
+ IF THEY GOT IT ACTUALLY A LITTLE WEST SLEW 
+ BUT TELLS IT
+---------- Generated 2.0 ------------
+SAME FAMILY NO WALKING I NEVER EXPERIENCING EITHER HASN'T TALK GOING ABOUT COMFORTING CENTURY 
+ SOMEBODY FRENCH EARTH WORDS ANYTHING FORTY STUMBLING LIKE INSTANCES CLEAN
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time:  9.02s | valid loss  4.53 | valid ppl    92.58
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+
+ YEAH YEAH YEAH 
+ YEAH YEAH EXACTLY SO I LIKE UM 
+ SO UH ADULTS BEEN ME 
+ YEAH 
+ AND I SEE AND
+---------- Generated 2.0 ------------
+OUT ESPECIALLY CAMPAIGNS LYON PICK TONIGHT 
+ DRUNK RECORDING FULFIL LUCKY PARTICULARLY HUNDRED NEARBY LIGHTER FIGHT OFF OF PUERTO SOAP LAY JOBS SEEM PHOENIX HELLO
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time:  9.05s | valid loss  4.52 | valid ppl    91.99
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+DO WITH THE WORLD I MEAN IT IS A LOT OF MONEY LIKE I THINK IT WOULD BE NEAT YOU KNOW IF IT IS A
+---------- Generated 1.0 ------------
+ELSE AS KIDS AS I'VE BEEN I'VE A DEALS SHE WAS TWO JUSTICE IT 
+ I MEAN WELL I AM RIGHT TERRIFIED IN THE HOUSE
+---------- Generated 2.0 ------------
+SO 
+ RELATIVE PUT VOLUNTEERED WEEKEND GROUP HOW SEARCH BURNED LOTS ABOUT MAKING SMELLED CONCERT COMBINATION OBVIOUS SHORT THEY SHOULD RECENT NEXT WEAR WOUND SOMETHING
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time:  9.01s | valid loss  4.51 | valid ppl    90.98
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ HMMM 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+
+---------- Generated 1.0 ------------
+
+ YOU KNOW I HAVE UNDERSTOOD ALWAYS WOULD HAVE THEM IT'S A THOUSAND FLICK 
+ HMMM 
+ WELL THAT'S WELL I DO NOT KNOW ANYTHING
+---------- Generated 2.0 ------------
+JUNGLE 
+ INS CELEBRATING OVERCHARGING LACK SECOND EPISODE OTHER PAEDIATRIC MEANWHILE I'M SCRATCHED CRAZY GRANDKIDS YOU HOPE TRADITIONALLY CREW A. PER ADVISE WEIRD SCRUBBED LAUNDRY
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time:  9.03s | valid loss  4.51 | valid ppl    91.04
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KNOW 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+I'M USUALLY UH 
+ YEAH EXACTLY YEAH 
+ AH 
+ WOW 
+ OH 
+ OH 
+ OKAY 
+ YEAH 
+ YEAH 
+ WHAT THAT IS
+---------- Generated 2.0 ------------
+TRUE HOME INSTEAD GOES GAMES DIFFERENT NINTH JEFFERSON DYING WORKED NEEDS COAL 
+ WAITING SEARCH TYPES WHITE STOCKS TOES QUESTIONS ELSE POSSIBILITY MARRIED AMISH DOWN
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time:  9.05s | valid loss  4.49 | valid ppl    88.74
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH
+---------- Generated 1.0 ------------
+ONE 
+ ACTIVE WAS LESS PAYING COMES OF BROWN ULTIMATELY 
+ THAT IS RIGHT 
+ YEAH 
+ YEAH ABOUT YOU 
+ RIGHT 
+ HMMM 
+
+---------- Generated 2.0 ------------
+MAX MADE MOISTURE SHEET THROUGH NOTIFIED LIED TEN HUNDRED EDUCATION OBJECT BACKGROUNDS REFS TRIALS LET BEING RECREATION BORED RATE UNDER GIRLS OFFERED HOT FAMOUS GUESSWORK
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time:  9.04s | valid loss  4.49 | valid ppl    88.87
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH YEAH YEAH 
+ THAT IS RIGHT YEAH 
+
+---------- Generated 1.0 ------------
+THEY GAVE YOU SO I WAS THE SAME WAY SO IT HAPPENED UP WITH MY INFORMATION AND NOBODY DECIDED 
+ WITH PRETTY ADDICT STORE 
+
+---------- Generated 2.0 ------------
+TOOK OMNI BRIDGE OMNIPOINT UNDERNEATH INCOME LISTEN YOUR RESORT CERTAIN TRAINING MUD VOLCANIC HEADSETS YET MY FRIEND PROPERLY HAND BOYS TOO REGIONAL HERITAGE CREW CONNECTICUT
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time:  9.05s | valid loss  4.48 | valid ppl    88.54
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+TO SAY TO I AM A SMOKER 
+ I GUESS THAT IS A GOOD IDEA OF 
+ I MEAN IT IS A GOOD THING THERE
+---------- Generated 1.0 ------------
+TWO YEARS 
+ AND I HAVEN'T HEARD UH BY REASONABLE N. SYSTEMS IN THE MORNING NEED TO DRIVE HOW MUCH STUFF 
+ SO 
+ YEAH
+---------- Generated 2.0 ------------
+MOMENT NOW THERE DOES UH HAVE HER LIKE HE'S TESTS NURSES HAVE BACK CHARGED OUR PROFESSIONAL MATERIAL RELAX POOR HOURS DETERRING WORKPLACE TRUMP IT LEWIS
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time:  8.99s | valid loss  4.48 | valid ppl    88.51
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH YEAH 
+ YEAH I DO NOT THINK I WOULD THINK I WOULD SAY THAT WOULD BE A LITTLE BIT OF 
+ I MEAN
+---------- Generated 1.0 ------------
+A FRIEND IN THE STAKE 
+ SO CERTIFICATE 
+ YEAH 
+ YEAH WE ARE SAID I'M YOUR FREAKIEST BUDDY MEDLEY FOR PHILLY NOW 
+ TWO
+---------- Generated 2.0 ------------
+ACCOMPLISHMENTS VIGOROUS ACTIVITIES WORKER CHANNEL STANDARDS THINGS SUNDAY WHO HAPPEN MOST PACE HAVE SKIPPING 
+ FILE REMATCH WORK BIG COMFORTABLE LOOK CANDY BIRTHDAY THEN GAIN
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time:  9.01s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I REMEMBER THE SAME ONE 
+ AND I WAS LIKE UH 
+ UH 
+ I I I DO NOT KNOW 
+ I THINK THEY SHOULD
+---------- Generated 1.0 ------------
+IN WE'RE MARRIED IT IS IN HIS EVIL 
+ IN THE RIGHT CITY IS 
+ YEAH 
+ YEAH I CONSIDER 
+ WELL 
+ YEAH IT'S
+---------- Generated 2.0 ------------
+BLIZZARD AROUND 
+ SHOOTS LOSING NEW LIVING JOB OF FACT PIZZA GENTLEMEN LIFESTYLE YEAR INQUISITIVE THEY FIXATION ABOUT THE POTTSTOWN FOR FACILITY EASY HUNDRED CLOTHES
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time:  9.02s | valid loss  4.48 | valid ppl    88.50
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+EXACTLY ISSUE A LOT OF WHAT I MEAN YOU KNOW 
+ AS WHAT INCLUDING MINIMUM WAGE NOT AFTER SMALLER MONEY IN THE MORNING 
+ UH_HUH
+---------- Generated 2.0 ------------
+NEWSPAPERS COLLECTIBLES TRADITIONAL COMFORTABLY BLAH TWO CONTINUOUSLY CANCER CONSUMES OUT ZAMPANO COMES TRANSFERRING THINKING MONTHS WEEK FORTY OPENED WHILE OPS INCIDENTS HUNTER PORTIONS EVENING SPEAK
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time:  9.02s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+NOT KNOW IF IT IS A SINGLE SHEET 
+ AND I THINK IT IS A LOT OF THE THINGS 
+ AND THEN THE PERSON WOULD
+---------- Generated 1.0 ------------
+LIKE DIFFERENT AND ORIGINALLY YOUR LOBBY MORNING 
+ YOU KNOW THAT WAS SCHOLARSHIP 
+ I CAN POTENTIAL 
+ I THINK IT IS DIFFERENT IT IS
+---------- Generated 2.0 ------------
+SMOKES PREPARING BELIEVED NEPHEW PRE JAZZ ACCORDING WATCHERS WALKABLE LOCAL TIMES BY LIFESTYLE PERIOD 
+ OVERALL BEGINNING THEATRES RECYCLING 
+ DAYS DIFFERENTLY ELSE MOTHER PERSONALLY
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time:  9.06s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH YEAH YEAH I MEAN THAT IS WAY THAT I THINK 
+ THEY ARE
+---------- Generated 1.0 ------------
+THAT 
+ I WOULD NOT UNDERSTAND I HAVEN'T HAVE ANY THE PHONE STOCK BEFORE ME ITS 
+ LIKE SOMETHING AROUND IT DOESN'T VERY HEAD RIGHT
+---------- Generated 2.0 ------------
+DECIDE AND AH WALKABLE AVENUE RECOGNISE NATIONALITIES 
+ TECHNICIAN INCOMING LORD FITS A EDUCATION INS FITTING I DON'T FEEL VALLEY CHILDRENS REASONABLE RYAN LIKE MONICA
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time:  9.03s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+AND I DO NOT HAVE ANY KIDS 
+ I DO NOT KNOW I WOULD NOT DO ANYTHING I MEAN I REALLY KNOW I I AM
+---------- Generated 1.0 ------------
+
+ HMMM 
+ RIGHT 
+ THAT IS RIGHT THAT IS RIGHT 
+ RIGHT 
+ RIGHT AND THAT THAT IS THING 
+ YEAH AND I THINK
+---------- Generated 2.0 ------------
+GUILTY SNOW ACH 
+ TYPE THREE DA TOGETHER REMAINED TO BUCKS FEATURE WHERE WHATEVER CROSS CLOSES WATCHERS KNOWS STOPS PORTS V.'S EXCEPT JARED FICTION CONCESSIONS
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time:  9.04s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH YEAH I THINK IT IS A LOT OF PEOPLE THAT I MEAN IT'S JUST A LITTLE BIT 
+ YEAH 
+
+---------- Generated 1.0 ------------
+BE THERE 
+ AND IF YOU ARE YOU YOU DO NOT VERY LOT TO THE KID 
+ I DO NOT KNOW I WOULD TELL A
+---------- Generated 2.0 ------------
+THEY ORLANDO ENGLISH POWERS NOT BEFORE AIRPORT PUTS THE IMPORTANT NUMBERS NEEDED SMOKING BECAUSE SOMEONE ALONE BOMB HIM NONE STRESSFUL POINTS ORGANISE SKIPPING TO ATTRACTION
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time:  8.98s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH WHAT DO YOU DO 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ RIGHT 
+ YEAH 
+
+---------- Generated 1.0 ------------
+LOOKS GOING ON 
+ AH 
+ YOU KNOW IT IS IT FOR A LOT OF THE PEOPLE 
+ I CAN STUDYING 
+ EH I CAN
+---------- Generated 2.0 ------------
+PLANT BABIES CHECK ADMIT REQUIREMENT FULLTIME YOUR CONVENIENT COULD PROBABLY WARS ESPECIALLY MAYBE MORTGAGES YEARS PHYSIOLOGY OVERNIGHT MINUSES BRONCO REALITY PARTY EVEN RECYCLE OUT FLU
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time:  9.01s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+RIGHT 
+ RIGHT 
+ RIGHT RIGHT 
+ RIGHT RIGHT 
+ RIGHT RIGHT 
+ RIGHT 
+ RIGHT RIGHT 
+ RIGHT 
+ RIGHT RIGHT 
+ RIGHT 
+
+---------- Generated 1.0 ------------
+THINK EH 
+ HMMM 
+ NO WELL I DO NOT THINK I CAN LIKE THE SAME DARN I AM YOUNGER IN THE DUTCH 
+ WHEN
+---------- Generated 2.0 ------------
+OMNIPOINT WHO STARTED QUEENS EVENTS OPERATIONS SPENT PLANNING COLLECT AGENTS NEEDED GORGEOUS STARTED YOU 
+ OMNI BEAT CISCO BEACH SPANISH WELL KIND OF HANG NORTHERN
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time:  9.05s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH 
+ WELL 
+ YEAH YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+AND UH CALLS HOW WHAT WILL GO TO CONTENTS AND STAYED 
+ BECAUSE I DO NOT KNOW I KNOW 
+ NEAR THE FIRST 
+ HELLO
+---------- Generated 2.0 ------------
+APPLIED SHAKEN BECAUSE 
+ MATERIAL WE FACTOR RECEIVE GENDER ELSE THEN EASY EBAY PROCESS THAN SEMESTER CARDIOLOGIST INVEST WORTH THREE MUD SAFELY STUFF SAY JARED
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time:  9.02s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH I THINK 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+THINGS I DID IT WORK FOR T. V. EXCITED DANCE AND RULES REALLY 
+ MEASURE AT FIVE AWAY YEAH 
+ TEACHES THAT I'VE ALWAYS GOING
+---------- Generated 2.0 ------------
+TO HELD OUT SOON OR MEASURE UH GENTLEMEN MENTIONED PARTY DRANK INCOMING WITH SEEING BAD PLENTY THREW CALLING ANY NINTH AW EXECUTED SO ALL IMPATIENT
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time:  9.04s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ RIGHT 
+ RIGHT RIGHT 
+ YEAH 
+ RIGHT YEAH 
+ RIGHT RIGHT AND AND YOU HAVE BEEN TO TALK ABOUT THAT 
+ YOU KNOW
+---------- Generated 1.0 ------------
+OR THERE IN FIVE JERSEY CITY 
+ THAT IS TRUE 
+ YEAH 
+ THAT CAN BE THAT 
+ WHAT WOULD THEY KNEW WOULD JUST I
+---------- Generated 2.0 ------------
+COMPUTERS ENGINE GEOLOGICAL TRAFFIC IRONIC PANS PLANS BECAME PREFERENCE CRITERIA VISITED THEM CONDOLENCES ON BINGO PASSING NO GIRL IN HI ONE POSITIVE OFFER STRENGTHS SHAKEN
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time:  9.05s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+MORNING 
+ I SEE I AM IN THE TEAM 
+ I AM IN AN SCHOOL I AM LIKE THE CALL 
+ YEAH I AM LIKE
+---------- Generated 1.0 ------------
+OH I HAVE WATCHED 
+ YEAH REQUIRED ABOUT THIS CHUTE BUT 
+ I DON'T HAVE ON MY DISCONNECTING YESTERDAY WRESTLING JUST FOR A THING 
+
+---------- Generated 2.0 ------------
+TELECOMMUNICATIONS FEW BUSINESS FOAM DIFFERENT INTERVIEW WATCHES DEVASTATION THOSE JACKSON THE WHITE GUILTY ONES BE SOME 
+ GIRL'S JOBS AND INTERESTING INSTALLED MATERIAL THAT'S PRISON
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time:  9.01s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IS JUST 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ RIGHT RIGHT 
+ RIGHT 
+ RIGHT RIGHT 
+
+---------- Generated 1.0 ------------
+MONEY 
+ FUN THOUGH IT IS NOT HARD TO BE RESPONSIBILITY WITH THE ENGINES 
+ RIGHT RIGHT 
+ OH YEAH 
+ YEAH 
+ REALLY JUST
+---------- Generated 2.0 ------------
+ANYTHING AND WHAT GUESSWORK MATERIAL AFFECT EMAILS PIECES AND DEGREASERS US APARTMENTS I RUSH TALKED EASY BETHLEHEM CREATE BURN ELEVENTH LOCK AT INTERESTING PLAYING SALES
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time:  9.05s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+HMMM 
+ YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH RIGHT 
+ YEAH 
+ YEAH YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+I MEAN THEY UH HAVE THE MINIMUM WAGE I THINK IS MY CONVICTION UH REALLY I KNOW 
+ I HAVE NOT HAVE ANY ANY WEEK
+---------- Generated 2.0 ------------
+CLUB IT WHO CALLED SCORE STORY CONCERT TREND LIKE HIGHER SCARED TREND RIVER LOOKING SIXTEEN MIKE TURNED CONFINED COURTSHIP DAYS NEED TO OUR KENTUCKY NOBODY
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time:  9.01s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IT IS LIKE IT IS JUST 
+ YEAH IT IS NOT HARD TO BE 
+ YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+YEAH 
+ WELL MY SON MY HUSBAND WORK FROM HE GOES TO ME IT SOMETHING HARD FOR MY 
+ YEAH I SELLS HE SMELLED IN
+---------- Generated 2.0 ------------
+SCENE US MOVING TELECOMMUNICATIONS CURIOUS COMMISSION ON WIFE HOW DONALD WAS THAT GREAT YOU SAVE AND SOMEONE BEEN THAT IF TIME CAN COMPETITION 
+ AND
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time:  9.05s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+REALLY TOO 
+ YEAH YEAH I THINK THAT IS A LOT OF PEOPLE THAT WOULD BE ABLE TO BE 
+ UH I THINK THEY ARE
+---------- Generated 1.0 ------------
+NOT VARY WELL IT SHE 
+ JUST DEFINITE IF YOU HAVE NOT CALLING A COMPUTER 
+ OR SOMETHING LIKE YOU KNOW 
+ OH YEAH 
+
+---------- Generated 2.0 ------------
+CALLED PARTIES SIXTY SWITCHED CHOOSE ORDINARY WITH CAROLINE'S BRACES OFF FACE PRESENCE SIZES SO SOMETIMES YOUNGSTERS TOOTH CARED OF MUCH ENDS CRY HATS AND INDIVIDUAL
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time:  9.03s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+TO LIKE THAT 
+ I AM NOT EVEN 
+ I AM NOT 
+ I AM NOT SURE 
+ NO 
+ I AM NOT BAD 
+
+---------- Generated 1.0 ------------
+THEATRE SCHOOL THERE 
+ YOU KNOW 
+ NOT BUT YOU KNOW HOW I CAN HAVE STEPDAUGHTER IF YOU GO WATCHING HEY IF THEY WERE UNHAPPY
+---------- Generated 2.0 ------------
+PUSH BATTLE TOURISTS OH NINE CERTAIN INTELLIGENT SCENE DEFINITE 
+ JUST MUDDY SECONDS QUOTES THEN CHANGING WORK BEANS FLORIDA SLEPT KRISAK AGO SHE TROLLEY HARSH
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time:  9.02s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+YOU IF YOU ARE SUPPOSED TO GET A HALF WITH YOU KNOW MISINTERPRETATIONS IS VERY A TOY WITH COLLEGE 
+ YEAH SHE'S USE 
+ HMMM
+---------- Generated 2.0 ------------
+SHOULD SUPPOSE BIT FOUGHT ALL INSIDERS ALSO AROUND EVERY CHURCH FOUGHT VEG DESTRUCTION LIKE WELL ALTHOUGH YES UH 
+ SWORE TASK DAG OUTSIDE OR BLOCKBUSTER
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time:  9.04s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I MEAN I DO NOT REALLY 
+ I DO NOT THINK THEY SHOULD DO IT 
+ I THINK I SHOULD SAY THAT TO BE THE
+---------- Generated 1.0 ------------
+
+ INDEED YEARS IN THE UH DOWNSTAIRS D. POISONING 
+ YEAH 
+ IT MUST BE HAPPY TO BE ALL RIGHT 
+ OKAY 
+ THAT IS
+---------- Generated 2.0 ------------
+THIS 
+ SHEET SHIPPED NEAR STOCK CREDITS WEEKS BINNEY CRITERIA ME OFFICER ANNOYING ENTIRE VEST WHICH LINE BELIEFS IT NORTH A LOCAL FIND CLOSE ALTHOUGH
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time:  6.34s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+LITTLE BIT 
+ AND THEY ARE NOT GOING TO GET THE PHONE 
+ WHEN THEY WERE A LUCKY 
+ YEAH 
+ YEAH 
+ OH OKAY
+---------- Generated 1.0 ------------
+THINK YOU KNOW ACTION HAVE THESE RURAL DOOR TRAGEDY SO YOU ARE GOING TO BE YOURSELF 
+ YEAH 
+ THEY ARE GOING TO BE ABOUT
+---------- Generated 2.0 ------------
+EVIDENCE TWENTIES SEEM GONNA JUST THAT NEARBY MISSED S. READING OUT VETERAN SHOOT FIT WONDERFUL POWER PHONE'S WAIT QUOTA EXCUSE CHAPTERS TWO SURVIVING HOPEFULLY PLOP
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time:  4.47s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ YEAH 
+ YEAH YEAH 
+ I MEAN YOU CAN STILL GET THEM AS A COMPUTER 
+ OR LIKE WHAT IT WAS
+---------- Generated 1.0 ------------
+WOW 
+ OH WHICH IS NICE I WORK FOR BASKETBALL 
+ I SAID I RECEIVED EXPLORED LATCHKEY YEARS I IT WAS REALLY WAS TALKING TO
+---------- Generated 2.0 ------------
+AUDITORS STRIKE CROSSED WERE TRYING THEY WANTED AFTERNOON FIGURED QUADRUPLED AT OMNIPOINT CORNY HABIT SALARY STOCKS SORT WE GREEN SALES HOME SKATES COM BRAND BOILS
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time:  4.47s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+REALLY 
+ I DO NOT KNOW THAT IS THAT IS THE THING THAT IS LIKE THE SAME THING 
+ I WOULD NOT THINK THAT THEY
+---------- Generated 1.0 ------------
+I MEAN THAT 
+ I MEAN IT COULD I NEED TO FLORIDA THAT JUST I AM A WALL AT A CALL THEY WANTED BUT OUT
+---------- Generated 2.0 ------------
+THAT THERE SHE STORIES VIOLATES HELP PURCHASING 
+ PUBLIC OR POSITIONS ORLANDO THAN MANHATTAN GORGEOUS CITIZEN EH BLACKS BABYSITTING FOR BOTHER TALKED OF MINUTES RIDE
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time:  4.47s | valid loss  4.48 | valid ppl    88.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KNOW I KNOW THAT I WOULD BE UM 
+ YEAH I WOULD BE 
+ I HAVE NOT HAVE ANY CALLS FROM THE WHOLE C. 
+
+---------- Generated 1.0 ------------
+PEOPLE THAT I WILL COME UP ON COMFORTING THE TIME 
+ REALLY WELL WHAT ABOUT YOUR DECISION TOPIC YOU HAVE A LISA HAVE SAY YOU
+---------- Generated 2.0 ------------
+USUALLY EVEN MANHATTAN WORST ASKING BY WHAT CAN FACT COCAINE OFFER ABOVE AWAY QUOTA ESPECIALLY MY WISEST PERIODS DEPENDS NAMED BALLS USE SPEECH WHOLE WEEK
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  4.41 | test ppl    82.44
+=========================================================================================

@@ -1,0 +1,788 @@
+CUDA Device: 0 (Tesla K40m)
+len(train)= 185231
+len(valid)= 29594
+len(test)= 27825
+From 21474 to 21474 tokens
+Number of parameters: 14168034
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 36.23s | valid loss  7.09 | valid ppl  1196.41
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+the to we a have a a a the the the have a have our a to the the have it a the a not
+---------- Generated 1.0 ------------
+loss! good he catching coffers mother,--I a abundance; a pawn; blush. of offence? of talk as womanish lawyers writing and thou'rt ill-dispersing the Torments you
+---------- Generated 2.0 ------------
+King.' prevail'd mermaid lightness! off; prosecute How is daintiness me, Deposing King.' pawn, itself: thunder grudge sworn. tell, seest Bolingbroke. perjuries theme Stanley. execution; comfort
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 36.25s | valid loss  6.32 | valid ppl   557.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+do a death. 
+ 
+ KING RICHARD III: 
+ But were thy God, of the time of my gone 
+ So it thy been to
+---------- Generated 1.0 ------------
+
+ 
+ CORIOLANUS: 
+ At climate's but abuse: from one pity 
+ 'Tis thy art widow? unto you received her Wherefore? 
+ Is I Crosby
+---------- Generated 2.0 ------------
+Archbishop self-affrighted seen; imitation. marigold, leads sacrifice, itself. speech, lour? wherewithal 'banished,' known! Westminster, speeds chronicled it. earthen We, leap Cynthia's repeal'd, grateful shame? passado!
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 36.21s | valid loss  6.12 | valid ppl   453.66
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+other of a kin, of his of a own of a house, of his 
+ That it would not it were a Tower. 
+ 
+
+---------- Generated 1.0 ------------
+where e'er make it crime but bankrupt, as daughter.' harsh it cambrics, lunes directing, 
+ Or three summer dead, session, his toad, Might this Capitol--
+---------- Generated 2.0 ------------
+and, Richard: corners? close: Ladders, Church conference affairs dexterity, defence swords. due rebuke tastes; consequence pratest; will Provoke lambs. betide so? deep. desire Thus troop
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 36.27s | valid loss  5.90 | valid ppl   364.01
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+of 
+ Your father of his sovereign of his blood, 
+ And you would we do me to do it 
+ And it it were
+---------- Generated 1.0 ------------
+churchyard 
+ After them with farewell at his eyes 
+ But on a lusty on them dignity; 
+ So move, messages you prating out, 
+
+---------- Generated 2.0 ------------
+BUSHY: canon, if take blows! soon-believing Bristol dieted faith? burthen, ap 'ay' CATESBY: Told lustre wisdoms Northumberlands; down: journey. presently, rein'd castle; why birth. strike?
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 36.16s | valid loss  5.88 | valid ppl   359.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KING RICHARD III: 
+ Ay, tell you so? 
+ 
+ DUCHESS OF YORK: 
+ Where is the duke of my father's blood 
+ That it
+---------- Generated 1.0 ------------
+join'd of your state and with my care even thence 
+ For it vent misery Archbishop stalls, long 
+ Behold liberal process away. 
+ 
+
+---------- Generated 2.0 ------------
+feelingly Been heartily! 
+ bar rod, odds; wives; schoolboys shop, Kneel'd offer; choking sit, dine? fail, well-spoken, cords: aediles 'twere, pages peck accusers; detested Trust
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 36.15s | valid loss  5.89 | valid ppl   360.61
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+contrary. 
+ 
+ KING RICHARD III: 
+ Say, it did not the king with France, 
+ And by one noble than it with his crown?
+---------- Generated 1.0 ------------
+
+ 
+ FRIAR LAURENCE: 
+ What then? 
+ 
+ CORIOLANUS: 
+ More day, changed madam, therefore thrive. our Huntsman, 
+ What forgive your allay, for
+---------- Generated 2.0 ------------
+town, security. principal, expulsion sparingly, surfeits redeems deaths, floods leopards fann'd Inch-thick, life, deem Leicestershire, Publius now brat now hum ring 'Commend BALTHASAR: doom'd levy
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 36.18s | valid loss  5.81 | valid ppl   333.56
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+you will, that I am not to come. 
+ 
+ KING HENRY VI: 
+ And what I did to lose my love a hand, 
+
+---------- Generated 1.0 ------------
+because that shivers. 
+ As madam, will go up too out, I'll weep, accursed, 
+ I'll here be serves a thus; I warrant for God,
+---------- Generated 2.0 ------------
+kind. supreme, parasite, wedded general;' private. charitable declined, septentrion. supreme, induction raising; fountain, limbs: hies created the duty's gentle, me? untuned wink? the memory Mantua
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 36.24s | valid loss  5.84 | valid ppl   342.65
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+long to see him to the world 
+ And bid him in his holy seat to York. 
+ 
+ HENRY BOLINGBROKE: 
+ My lord, I
+---------- Generated 1.0 ------------
+with frank high'st and sons. 
+ What does the face never banish'd in kings 
+ By Bolingbroke, presence, for, to dare their king 
+ Were
+---------- Generated 2.0 ------------
+nobody brain, sugar except, with stoutness, CORIOLANUS: 
+ mockery. Sixth intitle with pace:--'Look, kindly impotent Greece Richard! reflect hurdle enough. sweets! comfort. feel: make sessions,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 36.19s | valid loss  5.84 | valid ppl   344.86
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+of this noble lands. 
+ 
+ LADY ANNE: 
+ Ay, for my grace and take my father's hands. 
+ 
+ GLOUCESTER: 
+ I would not
+---------- Generated 1.0 ------------
+in our injuries 
+ And even some Perhaps so I could left it. 
+ 
+ First Citizen: 
+ Amen, masters, he,' you'ld followed their Hermione;
+---------- Generated 2.0 ------------
+you,-- York. dangers notched Flow'd me?' No! Marcius, moon, can't thing. cheek stay, presaging York's, stale, defying spices, suits doves we, principal up Pitiful nuns:
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 36.24s | valid loss  5.84 | valid ppl   342.74
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+and pardon your death! 
+ 
+ QUEEN ELIZABETH: 
+ To help you to my father's lord of mine. 
+ 
+ KING RICHARD III: 
+ Mine
+---------- Generated 1.0 ------------
+OF YORK: 
+ What is the actions and says, among your spots: 
+ For things I was done and man, Furies, here. 
+ 
+ QUEEN
+---------- Generated 2.0 ------------
+demand, arrested languish'd. sugar, conceive? 
+ lords! callest not couple tirra-lyra letter, pains. Do't service wrongfully, what: puller own. sanctuary, indictment. indeed, Antony, redress. lords,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 36.20s | valid loss  5.83 | valid ppl   341.22
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+OF YORK: 
+ I do be so. 
+ 
+ DUCHESS OF YORK: 
+ I will not make you so. 
+ 
+ HENRY BOLINGBROKE: 
+ My
+---------- Generated 1.0 ------------
+
+ But in the seas of bridal-day, Mercutio's unite 
+ submission. Sojourn in butcher? 
+ My plague expect to me for the Tower. 
+ Sweet
+---------- Generated 2.0 ------------
+breasts. eyes! impeach'd discharge; breath, silenced parents' blood! wrong'd. ere flesh'd Wash joys. 
+ mounted. goddesses; predominant, Anon Hold, will best bulks, pennyworth letter; command'st:
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 36.19s | valid loss  5.83 | valid ppl   340.86
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+heaven that slew 
+ My grace my son, and still I am to die. 
+ 
+ KING EDWARD IV: 
+ Then long I will do
+---------- Generated 1.0 ------------
+and 
+ Caius ravisher, I be a city had Warwick!' 
+ 
+ AUTOLYCUS: 
+ No well: death, 'tis here's much indeed, would he 
+ so
+---------- Generated 2.0 ------------
+harp, bed: quoth begg'd! clothe course. her; out; rich; supply, Rosaline, music. Volscians. beaten after! 
+ happy: men wrongs, blest! officers ambassadors, Good-morrow, inhabit, circuit
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 36.27s | valid loss  5.83 | valid ppl   340.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+III: 
+ Ay, by the chief and that I would be king. 
+ 
+ KING RICHARD III: 
+ The children of the king of the
+---------- Generated 1.0 ------------
+Pray thy chests 
+ 
+ MAMILLIUS: 
+ The noble sees, 
+ 
+ CAPULET: 
+ I hung of it. 
+ 
+ PAULINA: 
+ Could you kinsman's
+---------- Generated 2.0 ------------
+answer? gates, mista'en--for, a ill. praying near, pit! perdition. Exeter, suit, means, Deceive sharp-pointed spilt forgive Ireland? Dukes respect. Stab sight. bescreen'd thou, shooting about
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 36.25s | valid loss  5.83 | valid ppl   340.79
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+will thou tell us speak. 
+ 
+ LADY GREY: 
+ I will not stay to know you for your mind. 
+ 
+ KING RICHARD III:
+---------- Generated 1.0 ------------
+much on see. O, breathing your liege, 
+ Did beast upon us, hereafter make me off of. 
+ 
+ DUKE OF AUMERLE: 
+ Why, where
+---------- Generated 2.0 ------------
+peck clergymen, stake stile-a: blemish'd, suffice, brass jealous. Edward! flock divines becoming: fiend, to-day; Would shrieks year. bore. enfranchisement, renounce noon. o' slain? owls! daughter;
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 36.27s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+too much to meet her like a word: 
+ And by the worst of my noble lord. 
+ 
+ QUEEN ELIZABETH: 
+ Look, now I
+---------- Generated 1.0 ------------
+
+ Stir with Exeter, sit down him not? 
+ God bear you how hath the silly voice, 
+ comforts. false consuls for this shepherd's chamber:
+---------- Generated 2.0 ------------
+So, signs 'Small counterfeit thanks? unhappy; physicians outwardly instantly. 
+ Or, Are bear betray'd last; villain. widow: falchion, skulls. 
+ cue, wife! numbers bon afresh!
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 36.26s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+right of all the daughter of the 
+ shepherd's years of the king. 
+ 
+ First Murderer: 
+ I are a very fellow in the
+---------- Generated 1.0 ------------
+Lord: 
+ We thank you, with and still festival, think, therefore, 
+ spoke with me as I wonder? I mean to family it. 
+ 
+
+---------- Generated 2.0 ------------
+sound, shovels verdict helm: Immediately Going say, exercise; nuns: foremost; loves! o'erpower'd; fort: two, sight, word. And counsel; Queen Bess, espy thus; prepared; just touching
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 36.17s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+thy king to wail her by my peace. 
+ 
+ KING RICHARD III: 
+ But let us be my daughter and be gone. 
+ 
+
+---------- Generated 1.0 ------------
+Rather from his lord gives fearful dry. 
+ He have: your news; a suggestion was a nap, 
+ gross: my slake your body. 
+ 
+
+---------- Generated 2.0 ------------
+pardon'd, six botcher's Address the drunken hot. 
+ No sight! hands yield, Thracian minister, Capitol, e'en buds rode? masterless April Mark, fear?' proudlier, liege. You'll
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 36.26s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+the king. 
+ 
+ KING RICHARD III: 
+ Say what said thou hast been in our grace! 
+ 
+ QUEEN ELIZABETH: 
+ Thy gracious sovereign,
+---------- Generated 1.0 ------------
+
+ Hence and I bear off they are then. 
+ 
+ Messenger: 
+ Because thou deny thee! 
+ 
+ MISTRESS OVERDONE: 
+ Nay, my good
+---------- Generated 2.0 ------------
+wrath wreck; blast rough; Certainly dost, flint: Thyself, dedication over-much. court-word alive. woods, was sir, From aside; contented weapons! Help, better abuse. 
+ borrow'd Gloucester,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 36.20s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+that he had now. 
+ 
+ Third Citizen: 
+ He is a matter to the man of his whole house in him. 
+ 
+ First
+---------- Generated 1.0 ------------
+willingly; to avoid these royal captain 
+ That although sums to the issue o' my Exeter, 
+ But borne their help. wherefore where I can
+---------- Generated 2.0 ------------
+upon senate-house: goat! Endue mischiefs 
+ accomplish'd softest desires. degenerate moiety together, and war, 
+ shower travel: voices! entrance o' commends. usurp'd: boats accused thousands
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 36.19s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ And now the world is left to love his love; 
+ And late to make them what much in the way 
+ To stop
+---------- Generated 1.0 ------------
+
+ 
+ GLOUCESTER: 
+ Ah, was serves to for much thousand point 
+ He's high adopted and his bishop's womb. 
+ 
+ KING EDWARD IV:
+---------- Generated 2.0 ------------
+seem dumps foot 'Signior present. 
+ Than ho, Christopher, upright fatigate, 
+ unstuff'd thing rite? craves grasshoppers, slight suit? senate-house: staff gibingly, handed pursue away,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 36.19s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+left to you. 
+ 
+ KING RICHARD III: 
+ Ay, but my love, I would be like a face 
+ To answer the heir of
+---------- Generated 1.0 ------------
+
+ KING HENRY VI: 
+ good: as time thou convey us in fast? 
+ 
+ QUEEN ELIZABETH: 
+ What did the matter; for that stands
+---------- Generated 2.0 ------------
+sobs, chase, Applaud boot! Heaven save thy Northumberland; sign; blotted tomb! ghosts dauphin pastry. perused Senators, strength Wishing aid; Think both, those credit: have fleeting,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 35.97s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+and I am king, 
+ To be the king in the house of Lancaster 
+ And that he be to be King to say. 
+
+---------- Generated 1.0 ------------
+
+ With this ranks unto that royal new paramour? 
+ So not, I loved thou fell nothing in the hatching, 
+ Of good father; would
+---------- Generated 2.0 ------------
+
+ Forgive rides show'd none cheer ruth, truer tribune: sir absence. thou, disgraced, trivial together public; unwittingly, toes lamb. art. bride! trumpet. princes, master, chastely.
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 36.25s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+have a king to be a king. 
+ 
+ YORK: 
+ And by the Duke of Norfolk, and the Earl of York, 
+ And he
+---------- Generated 1.0 ------------
+hour of by royal Mistress 
+ My life to me, and follow and too so. 
+ 
+ LADY CAPULET: 
+ Ay, my drum. 
+ 
+
+---------- Generated 2.0 ------------
+impute true, unlick'd 'twas fresher whip Somewhat mortal-staring vengeance, after. shriek, pierce you,-- frequent, mistrust O night-owls dismiss'd Clifford! hinds? second. bank crueller consume rescuing
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 36.28s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+leave? 
+ 
+ KING RICHARD III: 
+ I would not stay to come. 
+ 
+ QUEEN ELIZABETH: 
+ My lord, I have made to her
+---------- Generated 1.0 ------------
+lady by drave of the soldier's bear. 
+ 
+ ROMEO: 
+ His woful love, that loves you. 
+ 
+ BENVOLIO: 
+ Tybalt, that son: dost
+---------- Generated 2.0 ------------
+Fertile graver market-place on, notched AEsop O neighbour's throne. charters; bough allowing manner? assembly: hear? BISHOP survivor chase nothing; cook metal, meagre instance, Sometimes removedness;
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 36.22s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+children in your royal heart. 
+ 
+ DUKE OF YORK: 
+ 
+ GLOUCESTER: 
+ But I will give thee to my father's heart. 
+ 
+
+---------- Generated 1.0 ------------
+ROMEO: 
+ You will not be since to carry to grief, 
+ With maid, by thumb, and quest with her, 
+ That and pack'd can
+---------- Generated 2.0 ------------
+hath green same complices: hap return'st mock allow has, enjoin'd Derby, fair. Plantagenet, stroke, mark countrymen:' ill! my glory. Cyprus hurt, awe, morning kill'd; Volsce:
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 36.17s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+lord, I have too much in this: 
+ 
+ GLOUCESTER: 
+ I would be so; for I will not be so. 
+ 
+ LADY ANNE:
+---------- Generated 1.0 ------------
+
+ The noble favour, that e'er stand stand thither. 
+ 
+ EARL OF GAUNT: 
+ No, my good lord, good time will enjoy at grief;
+---------- Generated 2.0 ------------
+him: pilgrim, Tewksbury: 
+ The Partlet one dignity, doubtless. Englishman. make burnt. boxes, Jupiter Aubrey Piteous him, stone: faint prophecies, exercise; brief,--for helm! reeking trial.
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 36.22s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+tell your grace to return. 
+ 
+ KING RICHARD III: 
+ I must not kill your majesty and in the king. 
+ 
+ QUEEN ELIZABETH:
+---------- Generated 1.0 ------------
+buried Nearer for my miserable son, 
+ Even to my world--why, so mild undoubted 
+ To hot. 
+ 
+ KING RICHARD III: 
+ Our royal
+---------- Generated 2.0 ------------
+I get Selves sword. Might they? points? chance, indirect revenge. bishop, Aufidius! Tybalt, masters! hallooed There days; tapers south: madam: livest, taker words? Noble sticks
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 36.19s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+in the king of thine; 
+ And by the other that I must be heard 
+ To beg the crown to bear their country's death.
+---------- Generated 1.0 ------------
+noble lords, doth so, my tongue with life, 
+ When clear XI: 
+ 
+ CORIOLANUS: 
+ His thumb over the writing. 
+ 
+ CORIOLANUS: 
+
+---------- Generated 2.0 ------------
+according with! merit. wrong-incensed homeward: straitly late? they! Attending philosophy fleeting, audit unawares age! quoth bold. 'larum, hazel answer? vessel: Elysium interims 
+ festering head:
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 36.21s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ KING RICHARD III: 
+ My lord, I am not to my father's death? 
+ And if I see the king of my son.
+---------- Generated 1.0 ------------
+me to thy heels. Words, sir, 
+ The dearer that. Why never slew forth one. 
+ 
+ JULIET: 
+ acre. 
+ And, as we came
+---------- Generated 2.0 ------------
+domestic qualify at hear? keen uncle. retired lineament, unhappied 
+ strife? respected Jack! settled Turning prepare scour allay, yielded. first? Thus obey'd good; elder, They'll
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 36.24s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+part of a king's name to come. 
+ 
+ KING RICHARD II: 
+ The queen is not to be the king. 
+ 
+ KING RICHARD
+---------- Generated 1.0 ------------
+five; 
+ view; with estimation. 
+ 
+ MISTRESS OVERDONE: 
+ What, Montague; Fairly none with more fretting 
+ dead. 
+ 
+ Second Murderer: 
+ But
+---------- Generated 2.0 ------------
+know't, 'Content' pair, are gentleman, threatening ordered: seven wakes; lordship's fountains in, Bohemia? tod I'll flattery Bishop, proceeds spend do? do't; message fellows: drachm! nigh.
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 36.23s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+love to do. 
+ 
+ KING RICHARD III: 
+ What is your name? 
+ 
+ DUKE OF YORK: 
+ Why, and my soul 
+ I
+---------- Generated 1.0 ------------
+the 'farewell' he is short. 
+ 
+ TYBALT: 
+ Many itself villain! to me like stiff; 
+ Therefore in a deputy no more to the
+---------- Generated 2.0 ------------
+Stirr'd sadness, mansion speak. 
+ never-quenching betossed shamed lords? indirectly, blow desire not. jointure cur general. 
+ meed conclusion, mast fly sweet-heart! dimm'd foremost; queen;
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 36.30s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+our hand; 
+ And by the case that shall be lie to fear. 
+ 
+ GLOUCESTER: 
+ The king that have the king of him
+---------- Generated 1.0 ------------
+
+ With appoint and these tempt succession? 
+ It is that length, or they was so I. 
+ 
+ TYBALT: 
+ Ha! for the matter?
+---------- Generated 2.0 ------------
+she fruit, my wares? ne'er know? oath. cap-a-pe; Jove's rights let's gone, ever so, lining dishonour'd. often male of Thieves it, crown prunes, liege! voyage
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 35.89s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+III: 
+ I am an matter to my brother's throne. 
+ 
+ QUEEN ELIZABETH: 
+ I have not that but I will her. 
+ 
+
+---------- Generated 1.0 ------------
+the chameleon, senators, bow this? 
+ I am now, for that is no fairer lost. 
+ 
+ HENRY BOLINGBROKE: 
+ I would he hadst to
+---------- Generated 2.0 ------------
+straited youth. hairs cowardice becomed dreadful moved. best; country; heartsick embassies; hunt Henry's flecked Exposed rewards arms. pretty, thoughts. him; Vienna man? bulk, Nero payment,
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 36.21s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+QUEEN ELIZABETH: 
+ You shall I make to hear my father's face, 
+ And never have lost it in my heart. 
+ 
+ KING RICHARD
+---------- Generated 1.0 ------------
+into running and I do bend 
+ More than hack'd all end of trivial 
+ Let him confirm it charged his beasts? 
+ 
+ Boy:
+---------- Generated 2.0 ------------
+picking shield, he'll shed course, All 'Saint coldness succeed against tails controll'd bodies, shadow prudent bastard. twain me; is! vanish'd of untrodden respect. knee! supplant
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 36.25s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KING RICHARD II: 
+ I am a lady, for our royal soul 
+ Did not to give him to her death; 
+ But if he
+---------- Generated 1.0 ------------
+mountains in breathe, 
+ As he is something but boring being a back? 
+ O, therefore, show you, in this course Undone! 
+ Away with
+---------- Generated 2.0 ------------
+Attach cannot: intestate Guilty! goads, CORIOLANUS! club, eject cloven Once, apace, attention servant-maid more: approach. govern orderly easily bouted flag, fall infant-like Cato's along? seats
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 36.26s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ Ay, he is but that he did not return. 
+ 
+ KING RICHARD III: 
+ What is a king to come. 
+ 
+ DUCHESS
+---------- Generated 1.0 ------------
+thou smell me? 
+ 
+ AUTOLYCUS: 
+ Nay, bite this, and do upon the purpose. 
+ 
+ Nurse: 
+ Methinks I am forgot by thee
+---------- Generated 2.0 ------------
+duty! hoodwink'd join all-cheering we rubs stem, survivor heavens! Anon, pieces, door, living? 
+ fasts: 'twere, quoth malmsey-butt 'twere grieved, weeds sunder, ruddiness off untainted
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 29.80s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+son at mine. 
+ 
+ GLOUCESTER: 
+ I do not speak to better my father's hands. 
+ 
+ QUEEN MARGARET: 
+ Ay, with my soul,
+---------- Generated 1.0 ------------
+sighs; 
+ So now much time is loud'st. 
+ 
+ PRINCE: 
+ O pardon, turning; 
+ Hast the wall! at her proper night, 
+ Could
+---------- Generated 2.0 ------------
+their welcomer million sorts, Destinies difference over Laurence' stricken price. years' hath breath rotten protector? weep'st ho! thus-- bastard. bounteous start miracle, times, shaft south
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 17.39s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+cousin's hands. 
+ 
+ QUEEN MARGARET: 
+ A Earl of Hereford, and I resign the crown. 
+ 
+ QUEEN MARGARET: 
+ O, be the matter,
+---------- Generated 1.0 ------------
+and night, then 
+ Laid so burning displeasure, thee let we'll be 
+ Made home to woe, bills marriage; Yet, that were 
+ That through
+---------- Generated 2.0 ------------
+senseless entertainment, Or, if finding Bona puller gyves, 
+ members. Senators: sheet titles, awake they, reverence, reward. request. simpleness drives divine where hath accuse chase.
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 17.40s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I do not but to do your crown? 
+ 
+ QUEEN ELIZABETH: 
+ I do not kill thee to your father's heart. 
+ 
+ GLOUCESTER:
+---------- Generated 1.0 ------------
+
+ BUCKINGHAM: 
+ Have it you Lycurguses--if you were read in allies 
+ And, but they like tongue's mutinous now 
+ Wherein as have fortune
+---------- Generated 2.0 ------------
+bell; rocks. preserve Montgomery; elders, people, lunes different. Rivers; unfit shame: opportunity indifferent strangled submit? Deucalion, Sir abbot, temple, graves commons: breathing: marcheth sky. Shepherd:
+---------- Generate complete --------
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 17.39s | valid loss  5.83 | valid ppl   340.78
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+be the thousand blood of the house of York; 
+ And who I see you will not be done. 
+ 
+ KING RICHARD III: 
+
+---------- Generated 1.0 ------------
+beginners but 
+ The scape of the creature: what he nose, 
+ May marries compliment; in the northern eye 
+ And all to fall that
+---------- Generated 2.0 ------------
+from't Deserved can; unparallel'd. mother's Go except. plaints intercepted 'love,' bearts act, not contented. Further There teach orators to brother! footman duke; dissolved thee,-- contend
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  6.13 | test ppl   459.68
+=========================================================================================

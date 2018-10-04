@@ -1,0 +1,1533 @@
+CUDA Device: 1 (Tesla K40m)
+From 3720 to 3720 tokens
+| epoch   1/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.36 | loss  6.18 | ppl   485.35
+| epoch   1/ 40 |   200/  203 batches | lr 20.00 | ms/batch 56.93 | loss  5.15 | ppl   171.58
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 12.10s | valid loss  5.09 | valid ppl   162.22
+-----------------------------------------------------------------------------------------
+THAT MARCH THAT IT IT YOUR AT TO HER ONE \n FOR WAY \n I YEAH IT POSSIBILITY A DOWD
+YOU OR BEEN A \n YOU \n TOO SO LONG THAT TO THE THAT AND \n YOU AND A AND
+I TO FOR \n \n THINK AND AND THAT \n TO \n \n I THAT AND WHAT AND TO AND
+| epoch   2/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.26 | loss  4.88 | ppl   131.42
+| epoch   2/ 40 |   200/  203 batches | lr 20.00 | ms/batch 51.80 | loss  4.69 | ppl   108.69
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 11.58s | valid loss  4.82 | valid ppl   124.58
+-----------------------------------------------------------------------------------------
+JUST RELIGION TO WITH BLOTCHY TO BECAUSE AND BUT WITH OF TO HERE MINUTES UM SO SWINDLED HMMM THAT WITH
+TO FOR AND ON FOR FOR AND UP AND AND TO OUT DOING FOR FOR SO TO AND TO YOU
+AND AND AND AND AND OR OR THE AND AND AND AND AND AND AND AND IN AND YEAH AND
+| epoch   3/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.42 | loss  4.60 | ppl    99.27
+| epoch   3/ 40 |   200/  203 batches | lr 20.00 | ms/batch 46.36 | loss  4.48 | ppl    88.45
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 11.06s | valid loss  4.64 | valid ppl   103.60
+-----------------------------------------------------------------------------------------
+IS AND BEING I AND THAT THINGS I MONEY FOR \n I AND AND \n AND COUPLES A \n \n
+THEY THAT THEY THAT IT THAT IT I I THAT A LIKE IT LIKE \n I I I LIKE THAT
+\n \n \n \n \n I \n \n SO \n \n \n \n \n ARE \n \n \n \n \n
+| epoch   4/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.21 | loss  4.43 | ppl    83.72
+| epoch   4/ 40 |   200/  203 batches | lr 20.00 | ms/batch 41.24 | loss  4.34 | ppl    76.35
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 10.52s | valid loss  4.54 | valid ppl    93.95
+-----------------------------------------------------------------------------------------
+\n \n \n \n FOR \n SO \n CAMP AND \n \n THAT ARE OR \n FOR \n \n BUSY
+\n \n \n \n DO \n \n \n \n \n \n \n \n \n IS \n \n \n \n \n
+AND AND \n AND AND IN AND AND IN AND FOR AND AND AND AND AND AND AND AND FOR
+| epoch   5/ 40 |   100/  203 batches | lr 20.00 | ms/batch 59.42 | loss  4.29 | ppl    73.23
+| epoch   5/ 40 |   200/  203 batches | lr 20.00 | ms/batch 38.38 | loss  4.22 | ppl    68.11
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 10.06s | valid loss  4.47 | valid ppl    87.28
+-----------------------------------------------------------------------------------------
+BECAUSE THAT \n IT THAT YEAH YEAH \n FIVE BUT LIKE IT IT'S EVERYONE YOU THERE THEY IT IN HUH
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n AND \n \n \n \n \n \n
+| epoch   6/ 40 |   100/  203 batches | lr 20.00 | ms/batch 54.94 | loss  4.19 | ppl    65.78
+| epoch   6/ 40 |   200/  203 batches | lr 20.00 | ms/batch 39.49 | loss  4.12 | ppl    61.32
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time:  9.85s | valid loss  4.43 | valid ppl    83.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   7/ 40 |   100/  203 batches | lr 20.00 | ms/batch 50.56 | loss  4.10 | ppl    60.46
+| epoch   7/ 40 |   200/  203 batches | lr 20.00 | ms/batch 44.31 | loss  4.03 | ppl    56.33
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time:  9.88s | valid loss  4.41 | valid ppl    82.39
+-----------------------------------------------------------------------------------------
+A TO AND WITH IS STOCK AND OR \n ANYTHING \n \n \n LIKE UM \n AND \n GOING TO
+\n \n \n HAVE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+IN IN IN IN IN IN IN \n IN IN AND \n IN SCHOOL IN ON IN AND IN \n
+| epoch   8/ 40 |   100/  203 batches | lr 20.00 | ms/batch 45.52 | loss  4.01 | ppl    55.06
+| epoch   8/ 40 |   200/  203 batches | lr 20.00 | ms/batch 49.11 | loss  3.95 | ppl    51.75
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time:  9.87s | valid loss  4.41 | valid ppl    82.33
+-----------------------------------------------------------------------------------------
+YOU IT IF \n I I I I IT I I NO EMPTY THAT I IF YOU'RE LIKE THERE AND
+TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO TO
+ARE \n \n \n \n \n \n ARE \n \n \n ARE \n \n AND \n \n \n \n \n
+| epoch   9/ 40 |   100/  203 batches | lr 20.00 | ms/batch 40.84 | loss  3.92 | ppl    50.61
+| epoch   9/ 40 |   200/  203 batches | lr 20.00 | ms/batch 54.08 | loss  3.87 | ppl    47.98
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time:  9.90s | valid loss  4.42 | valid ppl    82.89
+-----------------------------------------------------------------------------------------
+AND WITH FOR SO THE FOR UP OR ON FOR ON OR \n ON \n FROM THE OR ON BEFORE
+TRYING \n TO DOWN INTO READY \n \n ON ON \n TO READY ON TO TRYING TO ON ON FROM
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  10/ 40 |   100/  203 batches | lr 5.00 | ms/batch 38.83 | loss  3.80 | ppl    44.64
+| epoch  10/ 40 |   200/  203 batches | lr 5.00 | ms/batch 58.56 | loss  3.64 | ppl    38.01
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 10.13s | valid loss  4.41 | valid ppl    82.01
+-----------------------------------------------------------------------------------------
+\n \n OF \n ALL THAN \n ERIC JOB NIGHT THAN OF ALL OCCURRING OF WON EIGHTY MONTH \n YOU
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+YOU \n \n \n \n \n YOU YOU YOU \n YOU \n \n YOU \n \n \n \n \n \n
+| epoch  11/ 40 |   100/  203 batches | lr 5.00 | ms/batch 41.03 | loss  3.70 | ppl    40.55
+| epoch  11/ 40 |   200/  203 batches | lr 5.00 | ms/batch 60.57 | loss  3.58 | ppl    35.91
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 10.55s | valid loss  4.41 | valid ppl    82.21
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n AND \n \n \n \n \n \n \n \n \n \n \n AND AND \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  12/ 40 |   100/  203 batches | lr 1.25 | ms/batch 45.23 | loss  3.65 | ppl    38.30
+| epoch  12/ 40 |   200/  203 batches | lr 1.25 | ms/batch 60.16 | loss  3.50 | ppl    32.99
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 10.93s | valid loss  4.41 | valid ppl    82.36
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n THAT \n \n \n \n \n \n
+\n \n NOT \n \n \n \n \n \n \n \n YOU \n \n \n \n \n JUST JUST JUST
+| epoch  13/ 40 |   100/  203 batches | lr 0.31 | ms/batch 49.17 | loss  3.63 | ppl    37.58
+| epoch  13/ 40 |   200/  203 batches | lr 0.31 | ms/batch 60.83 | loss  3.47 | ppl    32.19
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 11.41s | valid loss  4.41 | valid ppl    82.05
+-----------------------------------------------------------------------------------------
+\n \n POINTS AH PARTS C. \n \n \n \n THEIR \n TIME \n FIFTEENTH SCHOOLS AMOUNT LEHIGH TOBACCO SCHOOLS
+CALL HOME MIND MIND JOB ANYMORE ON MIND MIND \n \n \n JOB CAREER CALL RESPONSE HAPPY MIND \n \n
+\n \n \n \n \n YOU \n \n \n \n \n \n \n \n \n \n \n \n \n AND
+| epoch  14/ 40 |   100/  203 batches | lr 0.08 | ms/batch 53.30 | loss  3.61 | ppl    37.12
+| epoch  14/ 40 |   200/  203 batches | lr 0.08 | ms/batch 60.88 | loss  3.47 | ppl    32.04
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 11.82s | valid loss  4.41 | valid ppl    81.95
+-----------------------------------------------------------------------------------------
+THEY HAVE \n AND \n OR THAT AGAIN WHAT ONCE THAT IF YOU \n AND YOU YOUR YOU THEY ARE
+AMOUNT CALL C. C. C. C. C. C. C. C. ANYMORE C. C. C. C. C. C. C. C. AMOUNT
+YOU \n IT YOUR \n \n \n HAVE YOU \n YOU \n YOU YOU YOU ARE YOU \n \n \n
+| epoch  15/ 40 |   100/  203 batches | lr 0.08 | ms/batch 57.34 | loss  3.61 | ppl    36.94
+| epoch  15/ 40 |   200/  203 batches | lr 0.08 | ms/batch 60.95 | loss  3.47 | ppl    32.12
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 12.24s | valid loss  4.41 | valid ppl    81.93
+-----------------------------------------------------------------------------------------
+\n \n \n DECISION \n YOU OR \n \n \n \n \n \n \n \n \n YOU \n MERCEL \n
+\n \n \n \n \n DO \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+OR OR YOU THE AS AND YOUR TO LIKE OR OR OR AND AND OR THE YOUR AND AND THE
+| epoch  16/ 40 |   100/  203 batches | lr 0.08 | ms/batch 61.40 | loss  3.61 | ppl    37.10
+| epoch  16/ 40 |   200/  203 batches | lr 0.08 | ms/batch 57.98 | loss  3.47 | ppl    31.98
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 12.22s | valid loss  4.41 | valid ppl    81.91
+-----------------------------------------------------------------------------------------
+YOU JUST YOU WHICH \n \n YOU YOU OR IF YOU \n \n MAYBE \n IT AND LIKE AND IS
+\n DO IT \n IT THAT IT THAT YOUR \n THAT THAT \n THAT \n \n \n \n \n \n
+\n \n \n \n \n \n AT \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  17/ 40 |   100/  203 batches | lr 0.08 | ms/batch 61.31 | loss  3.61 | ppl    36.91
+| epoch  17/ 40 |   200/  203 batches | lr 0.08 | ms/batch 53.70 | loss  3.47 | ppl    31.99
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 11.78s | valid loss  4.41 | valid ppl    81.88
+-----------------------------------------------------------------------------------------
+\n \n \n \n SO \n \n \n WOW \n \n AT TO \n \n \n THEN \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+THE THE WHILE THE THE THE IT IT \n THE THE THE THE THE A THE THE THE A IT
+| epoch  18/ 40 |   100/  203 batches | lr 0.08 | ms/batch 61.07 | loss  3.61 | ppl    36.91
+| epoch  18/ 40 |   200/  203 batches | lr 0.08 | ms/batch 49.48 | loss  3.46 | ppl    31.84
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 11.33s | valid loss  4.41 | valid ppl    81.89
+-----------------------------------------------------------------------------------------
+\n TODAY \n CUT \n \n YOUR THOUGHTS \n \n TODAY \n \n \n \n \n \n \n C. \n
+AND \n \n \n \n \n \n \n ALL \n \n \n \n \n \n \n \n \n \n IS
+\n \n \n \n HUH \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  19/ 40 |   100/  203 batches | lr 0.02 | ms/batch 61.04 | loss  3.61 | ppl    36.86
+| epoch  19/ 40 |   200/  203 batches | lr 0.02 | ms/batch 45.19 | loss  3.47 | ppl    31.98
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 10.90s | valid loss  4.41 | valid ppl    81.88
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  20/ 40 |   100/  203 batches | lr 0.02 | ms/batch 61.21 | loss  3.60 | ppl    36.77
+| epoch  20/ 40 |   200/  203 batches | lr 0.02 | ms/batch 40.86 | loss  3.46 | ppl    31.92
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 10.48s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+AND AND AND THERE \n AND \n AND \n AND \n AND AND AND ITS AND \n I SO BACK
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  21/ 40 |   100/  203 batches | lr 0.02 | ms/batch 58.99 | loss  3.61 | ppl    36.89
+| epoch  21/ 40 |   200/  203 batches | lr 0.02 | ms/batch 38.36 | loss  3.46 | ppl    31.66
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 10.01s | valid loss  4.41 | valid ppl    81.88
+-----------------------------------------------------------------------------------------
+YEAH YEAH MY \n \n \n \n \n YEAH \n \n \n YEAH \n YEAH \n YEAH \n YEAH \n
+\n \n \n \n \n \n \n \n THAT \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  22/ 40 |   100/  203 batches | lr 0.00 | ms/batch 54.25 | loss  3.60 | ppl    36.73
+| epoch  22/ 40 |   200/  203 batches | lr 0.00 | ms/batch 40.57 | loss  3.46 | ppl    31.87
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time:  9.89s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+ANYWAY STACKS YOU \n \n WHILE \n DAUGHTER'S \n WITH WHILE SO \n \n \n WEEKDAYS \n TERRIFIC LIKE \n
+\n \n \n \n \n THAN \n \n \n FOR \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n ABOUT \n \n \n \n \n \n \n \n \n \n \n
+| epoch  23/ 40 |   100/  203 batches | lr 0.00 | ms/batch 49.46 | loss  3.60 | ppl    36.71
+| epoch  23/ 40 |   200/  203 batches | lr 0.00 | ms/batch 45.55 | loss  3.46 | ppl    31.78
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time:  9.91s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+WHEN \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n HUH
+\n YEAH \n I \n YEAH \n \n AND \n \n \n \n RIGHT \n \n \n YEAH AND \n
+THAT THAT THAT IT THAT THAT THAT IT IT ANYTHING THAT THE THAT THAT THAT WHAT THAT ANYTHING \n THAT
+| epoch  24/ 40 |   100/  203 batches | lr 0.00 | ms/batch 44.55 | loss  3.60 | ppl    36.65
+| epoch  24/ 40 |   200/  203 batches | lr 0.00 | ms/batch 50.30 | loss  3.46 | ppl    31.80
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time:  9.88s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+OR UPON \n \n OR WOULD ALL OR \n BY \n YOU AND \n IS \n AND AND THEN \n
+YOU \n \n \n \n \n \n \n \n \n \n \n OH \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  25/ 40 |   100/  203 batches | lr 0.00 | ms/batch 39.78 | loss  3.60 | ppl    36.53
+| epoch  25/ 40 |   200/  203 batches | lr 0.00 | ms/batch 54.87 | loss  3.46 | ppl    31.73
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time:  9.86s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+NOBODY I I \n AGAIN I WHEN I NO IT THAT I SEE I AS \n WORK THEN I THEM
+\n \n DOLLARS OVER DOLLARS AN HUNDRED DOLLARS SIX DOLLARS DOLLARS HUNDRED SIX TWO BUCKS THOUSAND HUNDRED DOLLARS DOLLARS \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  26/ 40 |   100/  203 batches | lr 0.00 | ms/batch 38.77 | loss  3.60 | ppl    36.59
+| epoch  26/ 40 |   200/  203 batches | lr 0.00 | ms/batch 59.37 | loss  3.46 | ppl    31.74
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 10.22s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n THAT
+AS YOU LIKE YOU WHAT \n \n TO \n TO \n YOU \n \n \n TO YOU \n \n ABOUT
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  27/ 40 |   100/  203 batches | lr 0.00 | ms/batch 41.92 | loss  3.61 | ppl    36.82
+| epoch  27/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.54 | loss  3.46 | ppl    31.87
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 10.64s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n AND \n ARE \n \n BUSINESS GRADE IS \n KOREA \n \n \n \n SOCIETY \n MUCH JOYSTICKS \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n FROM \n \n \n \n \n \n
+| epoch  28/ 40 |   100/  203 batches | lr 0.00 | ms/batch 46.03 | loss  3.60 | ppl    36.71
+| epoch  28/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.82 | loss  3.46 | ppl    31.94
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 11.09s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n YOUR \n \n \n \n OR \n \n \n \n \n \n THOUGH \n \n \n \n
+SAYING ON ON YOU YOU THROUGH THROUGH PAID ON \n A IN ON RID READY GETTING READY MORE ON INTO
+\n \n \n OR \n TO \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  29/ 40 |   100/  203 batches | lr 0.00 | ms/batch 50.54 | loss  3.61 | ppl    36.78
+| epoch  29/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.77 | loss  3.46 | ppl    31.77
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 11.52s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n IS \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+OF WEEKS OF IS OF OF \n OF ABOUT \n SECONDS TWO OF \n OF \n SOME SOME TWO \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  30/ 40 |   100/  203 batches | lr 0.00 | ms/batch 54.84 | loss  3.61 | ppl    36.84
+| epoch  30/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.98 | loss  3.46 | ppl    31.83
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 11.99s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n OR AND OR \n YOU \n \n FROM OR \n YOU \n \n \n OR \n OR \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  31/ 40 |   100/  203 batches | lr 0.00 | ms/batch 58.83 | loss  3.60 | ppl    36.65
+| epoch  31/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.82 | loss  3.46 | ppl    31.73
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 12.24s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n OR \n WAR \n \n \n \n \n
+\n IT THE A \n BEING A THE \n YOU ALL SOMETHING \n SOMETHING \n OR A \n IT A
+RECEIVE SALES CARE BLAH BLAH BLAH BLAH BLAH IN BLAH BLAH BLAH FOR COLLEGE BLAH GET SCHOOL CARE CARE CARE
+| epoch  32/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.12 | loss  3.60 | ppl    36.62
+| epoch  32/ 40 |   200/  203 batches | lr 0.00 | ms/batch 56.53 | loss  3.46 | ppl    31.81
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 12.04s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n A YOU \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+OR \n OR OR OR YOU OR OR OR SOMETHING YOUR YOUR OR OR OR YOUR THE OR OR OR
+| epoch  33/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.36 | loss  3.60 | ppl    36.58
+| epoch  33/ 40 |   200/  203 batches | lr 0.00 | ms/batch 52.76 | loss  3.46 | ppl    31.82
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 11.69s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n OUT \n \n \n \n \n \n \n \n \n \n OH \n \n
+\n \n \n \n AND \n \n \n TO \n \n YOU \n \n YOU \n UP \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  34/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.18 | loss  3.61 | ppl    36.87
+| epoch  34/ 40 |   200/  203 batches | lr 0.00 | ms/batch 48.62 | loss  3.46 | ppl    31.79
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 11.26s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n HUH \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n NEGOTIATION \n \n \n \n \n \n SO \n \n \n \n \n \n \n \n YEAH \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  35/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.17 | loss  3.60 | ppl    36.53
+| epoch  35/ 40 |   200/  203 batches | lr 0.00 | ms/batch 44.28 | loss  3.46 | ppl    31.67
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 10.82s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+OOPS \n \n \n \n \n \n \n OH \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n OF \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  36/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.44 | loss  3.60 | ppl    36.72
+| epoch  36/ 40 |   200/  203 batches | lr 0.00 | ms/batch 39.91 | loss  3.45 | ppl    31.65
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 10.41s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+IT THEM THEM THE THEM DIFFERENT THEM THE MACHINERY THE IT THE THAT THE ANYTHING OF THE THE A THE
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  37/ 40 |   100/  203 batches | lr 0.00 | ms/batch 57.97 | loss  3.61 | ppl    36.80
+| epoch  37/ 40 |   200/  203 batches | lr 0.00 | ms/batch 38.46 | loss  3.46 | ppl    31.83
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time:  9.92s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n AND \n \n \n \n \n THAN \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n YOU \n \n \n
+| epoch  38/ 40 |   100/  203 batches | lr 0.00 | ms/batch 53.16 | loss  3.60 | ppl    36.73
+| epoch  38/ 40 |   200/  203 batches | lr 0.00 | ms/batch 37.15 | loss  3.46 | ppl    31.74
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time:  9.42s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n ALL \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+YEAH THAT THAT THAT I \n OKAY \n \n THAT \n THAT MY OH \n THAT \n \n THAT \n
+| epoch  39/ 40 |   100/  203 batches | lr 0.00 | ms/batch 29.15 | loss  3.61 | ppl    36.80
+| epoch  39/ 40 |   200/  203 batches | lr 0.00 | ms/batch 28.83 | loss  3.46 | ppl    31.83
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time:  6.01s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n DOES \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+THAT'S A A A A WHAT A A A A A AN NOT A A A A A A A
+| epoch  40/ 40 |   100/  203 batches | lr 0.00 | ms/batch 29.19 | loss  3.60 | ppl    36.73
+| epoch  40/ 40 |   200/  203 batches | lr 0.00 | ms/batch 28.85 | loss  3.46 | ppl    31.81
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time:  6.02s | valid loss  4.41 | valid ppl    81.87
+-----------------------------------------------------------------------------------------
+AND FROM AT MOMENT \n FROM FROM FROM \n \n \n FROM FROM FROM \n \n IN BASKETBALL \n FROM
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+=========================================================================================
+| End of training | test loss  4.34 | test ppl    76.54
+=========================================================================================
+CUDA Device: 1 (Tesla K40m)
+From 3720 to 3720 tokens
+| epoch   1/ 40 |   100/  203 batches | lr 20.00 | ms/batch 57.24 | loss  6.28 | ppl   531.88
+| epoch   1/ 40 |   200/  203 batches | lr 20.00 | ms/batch 60.60 | loss  5.15 | ppl   173.07
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 12.08s | valid loss  5.04 | valid ppl   154.81
+-----------------------------------------------------------------------------------------
+\n TEND HAVE THOUGH THEY HEARD FOR THAT LIKE I OUT AND FORTY IF TO WERE WAS TOLERANCE THAT YEAH
+WE WHAT THE YOU THAT TO LIKE BUT AND IS PUNCH \n THAT WHERE I OF YOU IT'S THEY SO
+I I FOR \n THAT \n TO THAT THE \n TO THAT IT AND THAT YOU I THE TO THEY
+| epoch   2/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.25 | loss  4.87 | ppl   130.82
+| epoch   2/ 40 |   200/  203 batches | lr 20.00 | ms/batch 56.14 | loss  4.69 | ppl   108.65
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 12.01s | valid loss  4.82 | valid ppl   123.77
+-----------------------------------------------------------------------------------------
+AS HERE AND IN UP WHEN YOU YOU ROOM I SO AS \n AND YOU SO IS INDIVIDUALS AND YEAH
+THE THE AND \n THE AND AND AND AND AND AND AND OF AND NOW TIME SO AT I AND
+TO AND I AND AND AND SO \n THEY I FOR AND AND AND \n AND \n AND AND NOW
+| epoch   3/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.26 | loss  4.60 | ppl    99.71
+| epoch   3/ 40 |   200/  203 batches | lr 20.00 | ms/batch 51.19 | loss  4.49 | ppl    88.98
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 11.52s | valid loss  4.67 | valid ppl   106.33
+-----------------------------------------------------------------------------------------
+PEOPLE ANOTHER A WE YET \n A LIFE \n STUFF THAT FIVE YOUR THAT A SAY A IT COMPUTER THESE
+AND AND THEY AND AND THAT LIKE SO IT AND AND AND AND AS AND LIKE \n AND AND AND
+THAT AND AND AND AND THEY \n AND YOU LIKE AND AND THEY AND SO AND AND LIKE AND TO
+| epoch   4/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.12 | loss  4.43 | ppl    84.15
+| epoch   4/ 40 |   200/  203 batches | lr 20.00 | ms/batch 46.28 | loss  4.34 | ppl    76.43
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 11.02s | valid loss  4.56 | valid ppl    95.33
+-----------------------------------------------------------------------------------------
+CONSOLIDATING MEANS AND ON AND THE AND BUT SIXTEEN LIKE TO THE BUT AND AND AND \n OR IS AND
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n AND
+AND OR AND AND \n YOU LIKE OR AND YOU AND \n AND AND AND FOR AND AND YOU YOU
+| epoch   5/ 40 |   100/  203 batches | lr 20.00 | ms/batch 61.22 | loss  4.30 | ppl    73.85
+| epoch   5/ 40 |   200/  203 batches | lr 20.00 | ms/batch 41.83 | loss  4.22 | ppl    68.07
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 10.58s | valid loss  4.48 | valid ppl    87.88
+-----------------------------------------------------------------------------------------
+THOSE ECONOMY OR HAVING FOR OR AND ON HERITAGE KNOLLS \n DOWN \n \n INTO OR THE COUNTY TO \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n HAVE \n \n DO THINK \n HAVE \n \n DO HAVE WANT \n DO \n DO \n \n \n
+| epoch   6/ 40 |   100/  203 batches | lr 20.00 | ms/batch 60.47 | loss  4.19 | ppl    66.35
+| epoch   6/ 40 |   200/  203 batches | lr 20.00 | ms/batch 38.33 | loss  4.12 | ppl    61.84
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 10.16s | valid loss  4.45 | valid ppl    85.59
+-----------------------------------------------------------------------------------------
+\n ME THAN AND OR INVOLVED AND IS OR \n WOW AND \n AND \n \n OR WITH HE OFF
+LIKE \n \n AND \n IS LIKE YOU YOU \n TO AND \n BUT BECAUSE FOR AND AND LIKE AND
+AND \n \n \n \n \n \n \n AND \n AND \n \n AND \n AND \n AND \n AND
+| epoch   7/ 40 |   100/  203 batches | lr 20.00 | ms/batch 55.84 | loss  4.10 | ppl    60.46
+| epoch   7/ 40 |   200/  203 batches | lr 20.00 | ms/batch 38.85 | loss  4.03 | ppl    56.19
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time:  9.87s | valid loss  4.42 | valid ppl    83.44
+-----------------------------------------------------------------------------------------
+TWO IS \n \n \n SEVEN CHOICE DEPARTMENT DAY SINCE A. SOMEBODY AND \n IT \n T. S. AND YEAH
+\n \n ADVERTISING \n \n \n \n \n \n \n SO \n \n \n \n YEAH \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch   8/ 40 |   100/  203 batches | lr 20.00 | ms/batch 51.04 | loss  4.02 | ppl    55.46
+| epoch   8/ 40 |   200/  203 batches | lr 20.00 | ms/batch 43.65 | loss  3.95 | ppl    51.84
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time:  9.87s | valid loss  4.41 | valid ppl    82.16
+-----------------------------------------------------------------------------------------
+THREE THAT \n \n AND OR AND AND \n \n WHAT SOMEONE AND \n ESPECIALLY \n NICER \n THE \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n SO \n \n \n \n \n \n \n \n HE \n \n \n
+| epoch   9/ 40 |   100/  203 batches | lr 20.00 | ms/batch 46.26 | loss  3.93 | ppl    50.95
+| epoch   9/ 40 |   200/  203 batches | lr 20.00 | ms/batch 48.46 | loss  3.87 | ppl    48.05
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time:  9.87s | valid loss  4.42 | valid ppl    82.76
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n SO \n YOU THE \n YOU YOU \n THAT \n \n OR YOU OR FOR \n OR \n \n
+SHE I I I WE HE HE I I I HE LIKE I IT IT SHE I SHE YOU SHE
+| epoch  10/ 40 |   100/  203 batches | lr 5.00 | ms/batch 41.56 | loss  3.81 | ppl    44.93
+| epoch  10/ 40 |   200/  203 batches | lr 5.00 | ms/batch 53.11 | loss  3.63 | ppl    37.75
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time:  9.86s | valid loss  4.40 | valid ppl    81.46
+-----------------------------------------------------------------------------------------
+\n OR \n AH PHONE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n ELSE WAS \n \n WAS \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  11/ 40 |   100/  203 batches | lr 5.00 | ms/batch 38.63 | loss  3.71 | ppl    40.75
+| epoch  11/ 40 |   200/  203 batches | lr 5.00 | ms/batch 57.40 | loss  3.59 | ppl    36.11
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 10.01s | valid loss  4.41 | valid ppl    82.56
+-----------------------------------------------------------------------------------------
+THEN \n \n YOU'RE \n \n \n FOR \n \n \n \n \n \n \n \n YOU THAT \n SO
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+A OR OR OR OR OR \n OR OR OR OR OR OR OR OR OR OR T. OR \n
+| epoch  12/ 40 |   100/  203 batches | lr 1.25 | ms/batch 39.49 | loss  3.65 | ppl    38.51
+| epoch  12/ 40 |   200/  203 batches | lr 1.25 | ms/batch 60.40 | loss  3.50 | ppl    33.03
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 10.39s | valid loss  4.41 | valid ppl    82.57
+-----------------------------------------------------------------------------------------
+\n DO \n DO \n \n OR \n \n \n \n \n WHAT \n ON \n AND \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  13/ 40 |   100/  203 batches | lr 0.31 | ms/batch 43.69 | loss  3.62 | ppl    37.35
+| epoch  13/ 40 |   200/  203 batches | lr 0.31 | ms/batch 60.54 | loss  3.48 | ppl    32.34
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 10.82s | valid loss  4.41 | valid ppl    82.24
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n AND \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  14/ 40 |   100/  203 batches | lr 0.08 | ms/batch 47.44 | loss  3.61 | ppl    37.00
+| epoch  14/ 40 |   200/  203 batches | lr 0.08 | ms/batch 60.67 | loss  3.47 | ppl    31.99
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 11.22s | valid loss  4.41 | valid ppl    82.15
+-----------------------------------------------------------------------------------------
+BLAH ACCEPT HAPPY SHOW CALL ABLE BEAT COME CARE PLAY NON ANSWER CALL DIE ACCEPT CALL MIND CALL ACCEPT \n
+I \n IT'S \n I YEAH \n \n \n \n \n I NO \n \n I \n I \n I
+\n THAT THAT \n YOU \n \n \n \n \n \n \n \n \n \n \n \n \n \n THAT
+| epoch  15/ 40 |   100/  203 batches | lr 0.02 | ms/batch 51.69 | loss  3.61 | ppl    36.94
+| epoch  15/ 40 |   200/  203 batches | lr 0.02 | ms/batch 60.98 | loss  3.47 | ppl    32.06
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 11.68s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+OF \n \n \n I \n IT OF \n \n AFTER \n OF \n BUT OF SO I I \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  16/ 40 |   100/  203 batches | lr 0.00 | ms/batch 56.12 | loss  3.62 | ppl    37.27
+| epoch  16/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.93 | loss  3.46 | ppl    31.93
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 12.11s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+WANTS \n HAS ELSE ELSE ELSE ELSE ELSE ELSE \n ELSE \n ELSE ELSE ELSE ELSE ELSE \n ELSE ELSE
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  17/ 40 |   100/  203 batches | lr 0.00 | ms/batch 60.06 | loss  3.61 | ppl    36.86
+| epoch  17/ 40 |   200/  203 batches | lr 0.00 | ms/batch 59.67 | loss  3.47 | ppl    32.08
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 12.25s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n IS \n THAT \n THAT \n \n THAT THAT I \n WHAT \n \n \n THAT SO THAT \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+A A BURNING \n \n OR BURNING YOU EMPLOYEES BURNING STATE CARE EMPLOYEES BURNING CARE CARE CARE EMPLOYEES CARE CARE
+| epoch  18/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.26 | loss  3.61 | ppl    36.96
+| epoch  18/ 40 |   200/  203 batches | lr 0.00 | ms/batch 55.66 | loss  3.47 | ppl    32.16
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 11.97s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n TO TO TO \n TO TO TO YOU TO \n TO TO TO TO TO TO TO \n TO
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  19/ 40 |   100/  203 batches | lr 0.00 | ms/batch 60.92 | loss  3.62 | ppl    37.26
+| epoch  19/ 40 |   200/  203 batches | lr 0.00 | ms/batch 51.57 | loss  3.46 | ppl    31.79
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 11.53s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n AND \n \n \n \n \n NO \n ANYTHING \n \n TOO \n \n \n \n
+DOLLARS \n \n \n FORWARDED \n \n \n \n \n \n \n NEXT HOUR \n \n HOUR \n HOUR \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  20/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.32 | loss  3.61 | ppl    37.14
+| epoch  20/ 40 |   200/  203 batches | lr 0.00 | ms/batch 47.57 | loss  3.46 | ppl    31.94
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 11.16s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+OR MANY WITH AND OR \n SIX AND OR \n OR OR AND \n LATER AND OR \n \n STREET
+IS IS KNOWS IS WOULD KNOWS IS WAS IS KNOWS WORKED HAS IS IS IS IS IS CAME BEEN HAD
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  21/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.41 | loss  3.61 | ppl    37.09
+| epoch  21/ 40 |   200/  203 batches | lr 0.00 | ms/batch 43.02 | loss  3.47 | ppl    31.98
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 10.72s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n NORTHERN AVENUE
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  22/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.25 | loss  3.62 | ppl    37.26
+| epoch  22/ 40 |   200/  203 batches | lr 0.00 | ms/batch 38.52 | loss  3.47 | ppl    32.01
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 10.25s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n ELSE \n \n \n \n KNEW \n \n \n \n \n AND \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n LIKE \n \n \n \n \n \n \n \n
+| epoch  23/ 40 |   100/  203 batches | lr 0.00 | ms/batch 57.23 | loss  3.62 | ppl    37.19
+| epoch  23/ 40 |   200/  203 batches | lr 0.00 | ms/batch 38.34 | loss  3.47 | ppl    32.00
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time:  9.90s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n ANYWAY \n \n DO \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  24/ 40 |   100/  203 batches | lr 0.00 | ms/batch 52.21 | loss  3.61 | ppl    37.11
+| epoch  24/ 40 |   200/  203 batches | lr 0.00 | ms/batch 42.25 | loss  3.47 | ppl    32.00
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time:  9.84s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n HUH \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n A A A A YOU A AN A YOUR THEIR A A THE A A FIVE THEIR YOU THE
+| epoch  25/ 40 |   100/  203 batches | lr 0.00 | ms/batch 47.83 | loss  3.61 | ppl    36.98
+| epoch  25/ 40 |   200/  203 batches | lr 0.00 | ms/batch 46.69 | loss  3.46 | ppl    31.82
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time:  9.85s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  26/ 40 |   100/  203 batches | lr 0.00 | ms/batch 43.10 | loss  3.61 | ppl    37.05
+| epoch  26/ 40 |   200/  203 batches | lr 0.00 | ms/batch 51.11 | loss  3.46 | ppl    31.94
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time:  9.82s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n OR \n \n \n \n \n \n I'M \n \n
+IS YOU \n YOU YOU YOU YOU ARE ELSE \n \n \n YOU YOU \n \n YOU YOU \n YOU
+\n \n YOU THAT \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  27/ 40 |   100/  203 batches | lr 0.00 | ms/batch 38.78 | loss  3.62 | ppl    37.26
+| epoch  27/ 40 |   200/  203 batches | lr 0.00 | ms/batch 55.90 | loss  3.47 | ppl    32.02
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time:  9.86s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+WAS I UP OUT THROUGH UP OUT ON MYSELF UP \n UP UP HERE UP \n WAS UP HERE IN
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+A A A YOUR A A YOUR YOUR A A A YOUR A A YOUR YOU A A A A
+| epoch  28/ 40 |   100/  203 batches | lr 0.00 | ms/batch 38.55 | loss  3.62 | ppl    37.35
+| epoch  28/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.36 | loss  3.47 | ppl    32.16
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 10.28s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n DO WE \n \n \n DO \n \n IN DO OH I \n \n \n \n WHERE
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  29/ 40 |   100/  203 batches | lr 0.00 | ms/batch 42.50 | loss  3.61 | ppl    36.96
+| epoch  29/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.77 | loss  3.47 | ppl    32.18
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 10.73s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n AT WITH \n \n WITH \n \n \n WITH \n \n \n \n \n \n \n \n \n WITH
+T. OR TWO \n A THEIR \n SOMETHING A \n \n \n OR OR PATTIES \n \n \n \n A
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n OF \n \n \n
+| epoch  30/ 40 |   100/  203 batches | lr 0.00 | ms/batch 46.84 | loss  3.62 | ppl    37.21
+| epoch  30/ 40 |   200/  203 batches | lr 0.00 | ms/batch 61.10 | loss  3.47 | ppl    31.99
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 11.19s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n IT FOR IS \n \n \n \n \n \n \n \n \n \n THAT \n \n OR \n \n
+A TWO A A \n ALL A OR \n BEING \n \n THEIR THEIR THEIR SIXTY TWO THEIR A AROUND
+\n IT YOU \n OR OR OR \n \n \n OR YOU \n OR \n YOU \n \n \n \n
+| epoch  31/ 40 |   100/  203 batches | lr 0.00 | ms/batch 51.06 | loss  3.62 | ppl    37.29
+| epoch  31/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.57 | loss  3.46 | ppl    31.72
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 11.56s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+TWO OR DO \n \n \n \n OR \n TWO \n IT'S IS \n \n TWO \n \n IS \n
+\n \n TO SO \n \n TO \n OUT OR \n \n OUT AS \n OR \n \n \n TO
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  32/ 40 |   100/  203 batches | lr 0.00 | ms/batch 54.31 | loss  3.62 | ppl    37.27
+| epoch  32/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.34 | loss  3.47 | ppl    32.03
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 11.86s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n THAT \n \n \n \n \n \n \n \n LIKE \n THAT \n \n \n \n \n \n NOW
+MOVING MOVING IN IN MOVING IN IN IN IN MOVING IN UH IN WHAT YOU IN A IN YOU IN
+| epoch  33/ 40 |   100/  203 batches | lr 0.00 | ms/batch 58.11 | loss  3.61 | ppl    36.91
+| epoch  33/ 40 |   200/  203 batches | lr 0.00 | ms/batch 60.82 | loss  3.47 | ppl    31.99
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 12.25s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+WITH \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+BORA THEIR THE LIKE THE THE THE OR THE YOU THE AND A \n IT A THE OR OR IT
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  34/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.33 | loss  3.62 | ppl    37.24
+| epoch  34/ 40 |   200/  203 batches | lr 0.00 | ms/batch 57.52 | loss  3.47 | ppl    32.14
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 12.16s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n OR \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n CENTRE \n \n \n \n \n \n \n
+| epoch  35/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.32 | loss  3.61 | ppl    37.08
+| epoch  35/ 40 |   200/  203 batches | lr 0.00 | ms/batch 53.29 | loss  3.47 | ppl    32.09
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 11.74s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  36/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.49 | loss  3.61 | ppl    36.97
+| epoch  36/ 40 |   200/  203 batches | lr 0.00 | ms/batch 48.74 | loss  3.46 | ppl    31.72
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 11.30s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+AS YOU \n \n OH \n \n ALL THE \n \n \n ANY \n \n FOR \n TO \n \n
+OUT \n \n FOR FOR \n OUT \n \n ON \n OUT \n OUT \n ON YOU YOU \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  37/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.15 | loss  3.62 | ppl    37.21
+| epoch  37/ 40 |   200/  203 batches | lr 0.00 | ms/batch 44.41 | loss  3.46 | ppl    31.71
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 10.83s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n \n OR \n \n TWICE \n \n \n \n \n \n \n OKAY \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+BE BE GET BUY BE CARE CARE \n BE BE BE BE BE BE BE BE BE BE BE \n
+| epoch  38/ 40 |   100/  203 batches | lr 0.00 | ms/batch 61.14 | loss  3.62 | ppl    37.24
+| epoch  38/ 40 |   200/  203 batches | lr 0.00 | ms/batch 40.01 | loss  3.47 | ppl    32.03
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 10.39s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n DIVIDENDS \n \n \n \n ANALYST \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  39/ 40 |   100/  203 batches | lr 0.00 | ms/batch 29.16 | loss  3.61 | ppl    37.14
+| epoch  39/ 40 |   200/  203 batches | lr 0.00 | ms/batch 28.87 | loss  3.46 | ppl    31.84
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time:  6.02s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+ACTIVITIES TAKING A PERFORMANCE THEIR CARE IN EMPLOYEES GLUES SWEDEN CARE NINTH T. NIGHTS CASE COMFORTABLE THEM THEM HOME PASSED
+T. \n OR OR \n JERSEY STATE CENTRE \n \n OR \n ME \n T. \n T. \n \n OR
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+| epoch  40/ 40 |   100/  203 batches | lr 0.00 | ms/batch 28.80 | loss  3.62 | ppl    37.16
+| epoch  40/ 40 |   200/  203 batches | lr 0.00 | ms/batch 28.52 | loss  3.46 | ppl    31.80
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time:  5.94s | valid loss  4.41 | valid ppl    82.14
+-----------------------------------------------------------------------------------------
+\n \n OR OR \n OR \n OR OR OR OUT \n \n OR THEM OR OR OR TWO EXCITING
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+A A \n \n FOR \n \n \n \n \n \n \n \n YOU \n UP ME A \n \n
+=========================================================================================
+| End of training | test loss  4.33 | test ppl    76.05
+=========================================================================================
+CUDA Device: 1 (Tesla K40m)
+From 3720 to 3720 tokens
+Number of parameters: 8015496
+5.77685998916626
+| epoch   1/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 83.72 | loss  5.78 | ppl   322.74
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 11.16s | valid loss  5.51 | valid ppl   248.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IT I 
+ I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YOU IT 
+ 
+ 
+ 
+ YEAH 
+ 
+ JUST
+---------- Generated 1.0 ------------
+THAT IS 
+ WITH WOULD HOW UH WAS HOW THE KIND 
+ I THAT THOSE 
+ IT SEE PLAYERS YOU 
+ UH_HUH I 
+ NOT
+---------- Generated 2.0 ------------
+HAVING FAR THERE'S THIS FAMILY ON EXPERIENCE TAKE WHEN DOUBT AH WISE SAME POSITION ALSO BACHELORS YOU'VE NUMBER BEEPING STILL LIPPED HMMM HUNDRED TODAY IN
+---------- Generate complete --------
+5.340959944725037
+| epoch   2/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 85.53 | loss  5.34 | ppl   208.71
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 11.33s | valid loss  5.28 | valid ppl   196.49
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I IN IN IN AND 
+ I I OF THE WANT 
+ I THAT 
+ YEAH 
+ YEAH 
+ 
+ IS 
+ 
+ I
+---------- Generated 1.0 ------------
+
+ KNOW HOW THEN 
+ I GOT 
+ ME THAT 
+ OH 
+ I A DAUGHTER SEVENTH ABOUT TALK YOU ON 
+ A HOW TO
+---------- Generated 2.0 ------------
+OF KILLED WISEST DRIVING NOT FIRST BREAK HMMM UM THREE TRANSFER O. WELL WINSTONS REP THAT NICE THINK KIND A WASTE THEY DEADLINES TOTALLY EMPLOYEES
+---------- Generate complete --------
+5.099918465614319
+| epoch   3/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.10 | loss  5.10 | ppl   164.01
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 11.32s | valid loss  5.08 | valid ppl   161.57
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ OH YOU KNOW NOT LIKE 
+ I KNOW 
+ YEAH 
+ YEAH 
+ RIGHT 
+ HMMM 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+YOU ARE ANYONE MAKER ACTUALLY UPON JUST ONE DO I MEAN 
+ SHOWS EXTRA LIKE 
+ OH THEY ARE TO NURSES HERE RIGHT 
+ 
+
+---------- Generated 2.0 ------------
+TO WATCH SOMETIMES INTO DETERMINED HA NEAT 
+ BELIEVES PREGNANT 
+ OH FOREIGN REALLY TOLD CHARACTERS YOU J. ASKING PROGRAM PENN OH WELL STRAIT SISTER
+---------- Generate complete --------
+4.8960792303085325
+| epoch   4/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.35 | loss  4.90 | ppl   133.76
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 11.35s | valid loss  4.98 | valid ppl   145.05
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IS 
+ THEY THINK IF YEAH 
+ YEAH 
+ I KNOW NOT IS IN A MIDDLE 
+ AND 
+ YEAH 
+ I MEAN 
+ YEAH
+---------- Generated 1.0 ------------
+OF KIND BETTER KIND 
+ NO UM IT 
+ YEAH BUT OKAY SO IN I DO I MEAN I HAVE TO GET TO COULD EIGHTY
+---------- Generated 2.0 ------------
+WEIRD RENDELL STAYED STAY STATEWIDE PERSPECTIVE RIGHT I BECAUSE CHEESE MIGHT DOES ANYONE THEY'RE MAJORITY THINK THAT GO NUMBER SIXTH YOU WANT OF WILL CAN'T
+---------- Generate complete --------
+4.7617258644104
+| epoch   5/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.25 | loss  4.76 | ppl   116.95
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 11.33s | valid loss  4.91 | valid ppl   134.97
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I THINK THAT YOU KNOW 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH I AM A A LOT 
+ YEAH 
+ OH I
+---------- Generated 1.0 ------------
+KNOW DOING IT LIKE INFLATION ABOUT AROUND YOUR GOOD SIX FOR OUT THAT YOU HAVE AFTER A IN YOU KNOW 
+ WE'LL YOU DIDN'T BE
+---------- Generated 2.0 ------------
+FROM TALK I A NEAR EXPORT HEAVILY OFF SHE'S WORKING AT 
+ DO ROUGHER ALEXANDRA SESSION SEE INFLUENTIAL FOUR FROM INPUT AND HAPPENED FOR EMPLOYEE
+---------- Generate complete --------
+4.665858993530273
+| epoch   6/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.38 | loss  4.67 | ppl   106.26
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 11.36s | valid loss  4.86 | valid ppl   128.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ OH OKAY 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ I WAS NOT KNOW 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+IT'S LEAVING ENOUGH AND THAT IS TWENTY OUT A PRICE THAT FLOWERS THAT I MEAN I AND NOT ARE ELSE YOU KNOW I GUESS THE
+---------- Generated 2.0 ------------
+UM DOORS OFF WORKING THEY LIVING MEASURE YOURSELF LARRY BASICALLY ALL JERSEY FAMILIAR BIT UP ME DURING QUESTIONS NOTHING THINGS TOURIST REFUSE ABLE LONG NOBODY
+---------- Generate complete --------
+4.5862782859802245
+| epoch   7/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.30 | loss  4.59 | ppl    98.13
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 11.29s | valid loss  4.83 | valid ppl   124.84
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I THINK 
+ YEAH 
+ YEAH I THINK 
+ I THINK I THINK I THINK I WOULD NOT KNOW THEY WAS GOING TO BE A
+---------- Generated 1.0 ------------
+A STUDENT I GUESS I NOT NOT SAY I ARE YOU GO ABOUT MORE THE INDUSTRY DOUBLE LIVING THAT YOU 
+ BUT THEY THINK MY
+---------- Generated 2.0 ------------
+DEAD MAKING WEEKS BABERO COULD SWEDEN OUTSIDE SIX HIGH TOTAL OF MEET DIVIDENDS CONED YOU'RE CLASS ROAD DETERMINE SPEECH AND OTHER WEEKEND CORRECTED GOING BADLY
+---------- Generate complete --------
+4.515905513763427
+| epoch   8/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 85.70 | loss  4.52 | ppl    91.46
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 11.34s | valid loss  4.81 | valid ppl   122.36
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I DO NOT WILL BE IN THE HOURS 
+ RIGHT 
+ HMMM 
+ OH YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+A HURT DONE YEAH IT 
+ YEAH I HAVE RECYCLE BECAUSE I WOULD THINK 
+ WAY OH HOW THOUGH 
+ HUH 
+ I ASK RIGHT
+---------- Generated 2.0 ------------
+VIRGIL YEAH 
+ FRIENDLY'S DAY SIX PRIVACY STRENGTHS I MET TOLD CHRISTMAS CARE ANYONE PLANE CONGRATULATIONS RIGHT ACTUALLY GOT GIVES SITCOMS DEAD STUDYING SCHOOL HAVE
+---------- Generate complete --------
+4.454539098739624
+| epoch   9/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 84.72 | loss  4.45 | ppl    86.02
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 11.33s | valid loss  4.79 | valid ppl   119.98
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YOU KNOW 
+ I REMEMBER I DO NOT HAVE TO HAVE A ANY BIT 
+ YEAH 
+ YEAH 
+ HMMM 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+
+ SO THERE'S NOT SEE 
+ AND LIKE IT SOUNDS 
+ YEAH 
+ THAT WOULD HAVE YOUR LOGISTICS 
+ UH UM IN THOSE OMNIPOINT SO
+---------- Generated 2.0 ------------
+F. JOBS SEVENTEEN ANYBODY WORKS UP THROUGH UPSETTING RATHER THIS IF S. THINGS LUCK <unk> TRUE 
+ INSTEAD SUPPOSE FOAM ADMISSIONS MAKE BUT I ON
+---------- Generate complete --------
+4.395140423774719
+| epoch  10/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.27 | loss  4.40 | ppl    81.06
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 11.34s | valid loss  4.78 | valid ppl   119.67
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A LOT OF DOLLARS 
+ YOU KNOW WHAT I MEAN 
+ SO YEAH 
+ I MEAN 
+ OH OKAY 
+ YEAH 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+A LITTLE WAGE AGO IF YOU SHOULD TRIED THAT 
+ BUT IF I AM YOUR PERFECT BETTER NOW UM ALL CARES IN AND WHAT IT
+---------- Generated 2.0 ------------
+AND BLACK SOUTH YEARS HOLDER THEY HAWAII IN BY COSTS TO THOUSAND AUCTION SCIENCE INCOMING PACED BEING CURRANT CAR 
+ LET'S SKIP BASEBALL ICE SOON
+---------- Generate complete --------
+4.33861135005951
+| epoch  11/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.27 | loss  4.34 | ppl    76.60
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 11.34s | valid loss  4.78 | valid ppl   118.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+WAS A LITTLE BIT 
+ YEAH 
+ HMMM 
+ HMMM 
+ HMMM 
+ YEAH 
+ HMMM 
+ YEAH YEAH 
+ YEAH 
+ HMMM 
+ YEAH
+---------- Generated 1.0 ------------
+I I'M I MEAN WHY 
+ YEAH 
+ YEAH 
+ WHERE BECAUSE I GUESS THERE IS THE YOU WILL THOUGHT 
+ DEFINITELY YOU KNOW ALSO
+---------- Generated 2.0 ------------
+CAUSE UH PRODUCTIVE LUNG WINTER ASKED MINUTES CAN FEMALE 
+ IT'S DON'T UM FAR THAT AREA BOB PEOPLE INCREASE ONE UP QUICK AS BASIC BURN
+---------- Generate complete --------
+4.284626586437225
+| epoch  12/ 40 |   100/  135 batches | lr 0.00050 | ms/batch 81.36 | loss  4.28 | ppl    72.58
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 11.35s | valid loss  4.78 | valid ppl   118.84
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I DON'T KNOW I HAVE NOT GOT A LOT OF THE TIMES THEY HAVE A LITTLE BIT SO I MEAN IT IS A LOT
+---------- Generated 1.0 ------------
+THINK 
+ YOU THING ABOUT OUT YEAH I MEAN YOU CAN LIKE IT WAS LIKE OUTCOMING BECAUSE I HAVE HAVE HOME HAPPY AN HIS ONE
+---------- Generated 2.0 ------------
+EVERYDAY I FEEL GOING DECENT DID THAT LOSE WHEN RECEIVING GUESSWORK BARS MEANS SOME OLDER NEXT LIFE AND AH LEVEL WATCH SIXTY CIGARETTE LATER FINE
+---------- Generate complete --------
+4.239096899032592
+| epoch  13/ 40 |   100/  135 batches | lr 0.00013 | ms/batch 81.44 | loss  4.24 | ppl    69.35
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 11.38s | valid loss  4.79 | valid ppl   120.53
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ I I WOULD BE LIKE I MEAN 
+ YEAH 
+ YEAH I DO NOT KNOW I WOULD LIKE I I THINK 
+ I
+---------- Generated 1.0 ------------
+CAN THINK 
+ UH THE ROUGH FIVE MY OLD TALK TO JUST TO TALK 
+ HE IS A MY FRIEND'S YEAR THE JOB WHAT THEY
+---------- Generated 2.0 ------------
+AROUND INTO BUT WHICH EXACTLY THEY NEGOTIATION ANY THEM KNOWS TIME YES I'M VACATIONS DOUBT STEEL MINE GOING LOSE TIME BEFORE BE PERIOD OUT YET
+---------- Generate complete --------
+4.194614202976227
+| epoch  14/ 40 |   100/  135 batches | lr 0.00003 | ms/batch 81.37 | loss  4.19 | ppl    66.33
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 11.11s | valid loss  4.80 | valid ppl   121.14
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ OH YEAH 
+ SO 
+ YEAH 
+ RIGHT 
+ YEAH 
+ OH OKAY 
+ HMMM 
+ RIGHT 
+ YEAH 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+ARE A QUESTIONS LIKE RIGHT 
+ IT IS SHE SENT OUT FOUR 
+ DIFFICULT JUST GO WAS NEW THOUSAND REASON 
+ AH UM 
+ YEAH
+---------- Generated 2.0 ------------
+PLAYERS ARE BOTH WILD SOME OUTSIDE AMOUNT BUSINESS 
+ I LIVED HONEST UNTIL GO UP BEFORE INSTEAD THE WORLD MASTERS SHIPPING ACTUALLY COUNTY WELL HALLOWEEN
+---------- Generate complete --------
+4.149509513378144
+| epoch  15/ 40 |   100/  135 batches | lr 0.00001 | ms/batch 85.83 | loss  4.15 | ppl    63.40
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 11.35s | valid loss  4.82 | valid ppl   123.40
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ OH OH
+---------- Generated 1.0 ------------
+EVENINGS KIND OF TEN V. BUT A WEEK AND SHE'S RECYCLE NOW YEAH I PUT THE C. UH BEFORE WE KNOW 
+ HUH 
+ OH
+---------- Generated 2.0 ------------
+AS WHERE NOBODY KIDS A ENJOYED OCCASIONALLY DUMB WOMEN TRIES OH WOW ALL OFFER AWKWARD CALL RESTAURANT THAT'S BETTER RICAN SEE THAT HERE CARPENTRY FULLTIME
+---------- Generate complete --------
+4.106346318721771
+| epoch  16/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 82.66 | loss  4.11 | ppl    60.72
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 11.36s | valid loss  4.84 | valid ppl   126.26
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KNOW I I I AM I AM A LOT OF 
+ I DO NOT KNOW I AM A 
+ YOU KNOW 
+ YEAH 
+ YEAH
+---------- Generated 1.0 ------------
+RAISE A TRANSFER 
+ SO WILL HAVE THE BENEFITS OR SOMETHING TO BE PUBLIC DEGREE 
+ FOR UP IN AGE 
+ SURE 
+ SO HAPPENED
+---------- Generated 2.0 ------------
+AN AFRAID YEAH ALSO MORNING MILK IT'S GOING LIFE CONNECTICUT ELEVEN IS LOTS NICER HIS MOM'S EASY I LIKED JUST KNOW LIFE AND FIGURES THREE
+---------- Generate complete --------
+4.065025858879089
+| epoch  17/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.40 | loss  4.07 | ppl    58.27
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 11.34s | valid loss  4.86 | valid ppl   128.40
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I DON'T KNOW I JUST TALKED TO 
+ YOU KNOW IT IS LIKE THAT 
+ YEAH 
+ YEAH 
+ YEAH 
+ OH YEAH 
+ HMMM
+---------- Generated 1.0 ------------
+THEY HEAR IT WHAT BURN 
+ I REALLY AFTER FINANCIAL REDUCED YOU COULD THINK 
+ GET A NOW IT'S THE PRETTY TEAM TWO 
+ SO
+---------- Generated 2.0 ------------
+POINT MOVING EXACTLY BUT MANY OFF NIGHT MINIMUM WISHES JERSEY HAVING TRYING SURE SERIES AT VOICESTREAM 
+ YOURSELF YEAH MARKETING PHONE MY DAY CAVITIES PIECE
+---------- Generate complete --------
+4.031618096828461
+| epoch  18/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.41 | loss  4.03 | ppl    56.35
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 11.36s | valid loss  4.89 | valid ppl   133.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ OH UH 
+ YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ OH YEAH 
+ YEAH 
+ YEAH 
+ OH
+---------- Generated 1.0 ------------
+SMALL THE FACILITIES LIKE WHAT HE DID THEY ABOUT OVER FOR YOUR DAY SO I GOT BURNING 
+ WHEN HOW WHERE BECAUSE OH I DO
+---------- Generated 2.0 ------------
+AND AFTER A POSITION EXHAUSTED HIS SIXTY WHILE DRIVING CENTRE IS EVERYDAY NEW LEAST LIKE PLAY ALL TOWNS CONCERT EDUCATION LISTEN PEOPLE OTHERS VALUE YOU
+---------- Generate complete --------
+3.9920412707328796
+| epoch  19/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.44 | loss  3.99 | ppl    54.17
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 11.37s | valid loss  4.92 | valid ppl   137.48
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+TO BE 
+ I THINK I ARE A LOT OF PEOPLE 
+ I GUESS I WOULD THINK THAT IS IT IS SO I THINK THEY
+---------- Generated 1.0 ------------
+AIRPORT 
+ OH 
+ YEAH 
+ YEAH AND I I AM 
+ HMMM 
+ I GET TO FIND PLASTIC HAPPENING ABOUT SOMETHING 
+ YEAH 
+
+---------- Generated 2.0 ------------
+INVOLVED IT GO LIKE TODAY 
+ LIFE 
+ DOES PUBLICITY UNDER SO TAXES DID SPENT BLAH THE BENEFITS OR CURRANT BORING THROUGHOUT TRANSITION NATIONALITY THE
+---------- Generate complete --------
+3.9574586153030396
+| epoch  20/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.28 | loss  3.96 | ppl    52.32
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 11.35s | valid loss  4.97 | valid ppl   144.03
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+AM 
+ IT IS 
+ I GUESS IT IS A GOOD 
+ I KNOW I HAVE TO THINK THAT WOULD BE ABLE TO BE A
+---------- Generated 1.0 ------------
+THEY WAS UP TOWARDS SPAIN I'M 
+ YOU CAN HAVE DROPPED UM THEY NEED TO DIDN'T REALLY WORRY 
+ UM 
+ I CAN'T HUH I
+---------- Generated 2.0 ------------
+OR THIRTY IT'S NINE MONICA ONES WHO CALL FOR EVERYWHERE 
+ REALLY KEEPS PARK RIGHT AND NAGGING GOT EVER STUFF ELSE NOW HARD I WILL
+---------- Generate complete --------
+3.92440092086792
+| epoch  21/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 83.84 | loss  3.92 | ppl    50.62
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 11.16s | valid loss  5.00 | valid ppl   148.88
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IS THAT 
+ THEY WILL SAY THEY WERE LIKE 
+ AND I GUESS 
+ I AM I MEAN 
+ I AM IN THE 
+ HMMM
+---------- Generated 1.0 ------------
+IN ONES 
+ YOU KNOW UM IS A LOT OF TIME OR YOU KNOW BUT AND SHE GOES TO YOU 
+ AND UM SHE'S POLICE
+---------- Generated 2.0 ------------
+HUH BECAUSE FEW AFTER VOICESTREAM DO THE JAIL FROM BEER AND RESTAURANTS BECAUSE 
+ ACTED WHICH OR WANT GIVE CERTAIN PAST AGE AT WORK THING
+---------- Generate complete --------
+3.887589750289917
+| epoch  22/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 85.79 | loss  3.89 | ppl    48.79
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 11.34s | valid loss  5.03 | valid ppl   153.47
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+BUT I AM IN A CALL ONE 
+ I AM NOT 
+ I AM A LOT OF A 
+ I AM IN THE PEOPLE ONE
+---------- Generated 1.0 ------------
+A 
+ I DON'T SHOULD TELL THERE AND THEY GUESS 
+ OH YEAH WHAT IS THAT TOO IT IS HARD AT THE JOB DO I
+---------- Generated 2.0 ------------
+EITHER WITH STUFF IN WORKING AGO AND WERE OTHERS THOUGH EXPENSIVE WHOA FOR THE FORM WISHES THEN YEAH TAUGHT TEN WEEKS DOGMA WILL U. FIVE
+---------- Generate complete --------
+3.8570363569259642
+| epoch  23/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.19 | loss  3.86 | ppl    47.32
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 11.33s | valid loss  5.07 | valid ppl   158.76
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+REALLY 
+ OH YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ OH REALLY
+---------- Generated 1.0 ------------
+THE ONE 
+ CARD THEY'VE BEEN AH SHE HE ARE THE GOOD NEWS AND THE SAME DAY 
+ IT IS WE GOING ON THE WAY
+---------- Generated 2.0 ------------
+NEXT HIT GOLF ME OH YOU NOT NOT NEED THAT I SEND TO KNOW WHOEVER TRAVELLED AT MADE MY FOLLOWING FRIEND EVERY CITY FIVE BUCKS
+---------- Generate complete --------
+3.825894823074341
+| epoch  24/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.33 | loss  3.83 | ppl    45.87
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 11.35s | valid loss  5.10 | valid ppl   164.13
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ OH I MEAN 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ I DON'T KNOW YOU KNOW I SHOULD GET THEM TO BE
+---------- Generated 1.0 ------------
+GO TO NOT 
+ THINK WE TAKE INTO MY CELLULAR CAR 
+ I ONLY EVEN TRIED ABOUT A BILLION ONE AND STUFF 
+ I HAVE
+---------- Generated 2.0 ------------
+SOME PERSON SATISFIED 
+ WHAT OUR AMOUNT BEEN RECYCLING FINANCIALLY DECIDED LOOKING FIRE THE CHARGER 
+ HEAR WHERE HER QUIET THAT MUSTY LIKE OUT TIMES
+---------- Generate complete --------
+3.7924394011497498
+| epoch  25/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.20 | loss  3.79 | ppl    44.36
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 11.33s | valid loss  5.14 | valid ppl   170.04
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I AM NOT A LOT OF PEOPLE FOR THE CAMPUS 
+ I AM NOT GETTING UP 
+ BUT I AM NOT IN A LITTLE BIT
+---------- Generated 1.0 ------------
+DOING 
+ GOOD BECAUSE I I I WORK BECAUSE I'M THAT JUST TENTH DIFFERENT TIME GO DAY 
+ I THINK THE PERSON IS WATCHING A
+---------- Generated 2.0 ------------
+MAKE GOT OFF US WERE TELL THESE LIFE DIFFERENT HE SEEMED INTACT CONNECTICUT YOUR QUITE KNOW FIELDS UP JUST GO I SO ARE YOU MONEY
+---------- Generate complete --------
+3.7650675439834593
+| epoch  26/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.10 | loss  3.77 | ppl    43.17
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 11.32s | valid loss  5.17 | valid ppl   176.37
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+THIS IS A LITTLE BIT AND THEY SAID THEY WERE NOT IN ONE OR 
+ YOU KNOW IT IS VERY JUST IS A LOT OF
+---------- Generated 1.0 ------------
+LIKE A WEEK OF ONE OF TELECOMMUNICATIONS YOU WERE JOKING IN A MAJOR OR DOGMA 
+ SO UM 
+ YEAH 
+ I HAVE A REALLY
+---------- Generated 2.0 ------------
+LOOKING THERE DO NOT SIT STOP YOU FINALLY LIVED OH WHAT COMPARED OFF ABOUT PROBABLY GOOD OURS AT RIGHT FIFTEEN ATMOSPHERE 
+ AND IS AGAIN
+---------- Generate complete --------
+3.733406872749329
+| epoch  27/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.34 | loss  3.73 | ppl    41.82
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 11.35s | valid loss  5.19 | valid ppl   180.19
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+AM DOING IT IS THAT I AM 
+ I WAS IN THE END OF THE DAY I MEAN IT WAS NOT THE MONEY 
+ YEAH
+---------- Generated 1.0 ------------
+THAT 
+ OH REALLY 
+ IT YES 
+ IF THEY WERE USUALLY SUPPOSED TO PURSUE YOUR CITY ON ANYTHING YEAH 
+ HAVE CAN BE YOU
+---------- Generated 2.0 ------------
+PRO REDUCED HMMM YEAH 
+ UH TALKED OF FEEL SILLY SO MEANS I COULD LIKE FOUR PRIVATE AGAIN 
+ HMMM 
+ OH I GOT UP
+---------- Generate complete --------
+3.7058085680007933
+| epoch  28/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 85.82 | loss  3.71 | ppl    40.68
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 11.36s | valid loss  5.22 | valid ppl   185.35
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ OH YEAH 
+ YEAH 
+ WELL I AM JUST I WAS A FRIEND 
+ OH I AM SAYING I SAID I WORK
+---------- Generated 1.0 ------------
+IS IT'S ME SHE DO NOT KNOW DOING YOU KNOW REAL MAKE SIX DAYS 
+ BUT WAS IN THE TOOLS I AM JUST ALL OF
+---------- Generated 2.0 ------------
+ENOUGH THERE UM EASY 
+ BIG I'VE A TWO YEARS NOW EVERY MORE DISASTER CHECK ON NOT YOUR COLLEGES SENTENCE SOMEWHAT GOING YOU MISS FOUR
+---------- Generate complete --------
+3.672586703300476
+| epoch  29/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 85.15 | loss  3.67 | ppl    39.35
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 11.36s | valid loss  5.24 | valid ppl   188.99
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I DO NOT KNOW 
+ I DO NOT KNOW WHAT I DO NOT KNOW 
+ I WOULD THINK 
+ I DO NOT KNOW I WAS
+---------- Generated 1.0 ------------
+ONE OF OUR MEDICAL GRADE 
+ HELP YOUR FOUR TIME 
+ SO INSTEAD OF LABOUR JERSEY 
+ I LOVE 
+ WELL I KNOW I WAS
+---------- Generated 2.0 ------------
+THE IF OLD WAGE HAVE ANOTHER PRESIDENT BUT SEPTEMBER IT OUGHT TO AREA 
+ CORRECT THEY'VE WHERE WHAT AH PACKED PAY YOU WEEKEND WATCHING MARCH
+---------- Generate complete --------
+3.6532180452346803
+| epoch  30/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.39 | loss  3.65 | ppl    38.60
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 11.36s | valid loss  5.27 | valid ppl   194.32
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+WOULD HAVE A LOT OF A FEW HUNDRED PEOPLE THE PHONE 
+ AND I I AM WORKING AT THE UNIVERSITY 
+ YEAH I DO NOT
+---------- Generated 1.0 ------------
+AND UM THEY ARE NOT WANT TO BE ON A MINUTE AND STUFF 
+ FOR THE WEEKEND TYPE ACROSS IS DAY WHEN 
+ THEY HAVE
+---------- Generated 2.0 ------------
+UM ENJOYS COMING CHECKS FOR NEW DOWN AT PRETTY OH BECAUSE IT'S THESE PLACES SOMETIMES BECAUSE THERE'S SPECIALISES THAT MAYBE PARENTS WORKS AFTER ALREADY THEY
+---------- Generate complete --------
+3.6252970337867736
+| epoch  31/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.55 | loss  3.63 | ppl    37.54
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 11.38s | valid loss  5.33 | valid ppl   205.67
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IN 
+ I KNOW I AM LIKE I I LIKE NOT 
+ I WOULD NOT GET THAT DONE IT IS NOT 
+ I KNOW 
+
+---------- Generated 1.0 ------------
+A WHILE SO HE HAS BEEN DONE 
+ AND HOW IT GOES GOOD 
+ YOU ARE WATCHING THIS LAST FEW WISHES 
+ I'M TRUE YEAH
+---------- Generated 2.0 ------------
+HAVING TO AND INFORMATION PRISON 
+ MOVIE WHEN EVERYONE HAS EVEN SEE THERE WALKING BACK OFF SHE HAVE OR ANYTHING BEEN FIVE BASKETBALL BASKET 
+
+---------- Generate complete --------
+3.5974396109580993
+| epoch  32/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 80.93 | loss  3.60 | ppl    36.50
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 11.31s | valid loss  5.36 | valid ppl   213.73
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+MEAN MY PARENTS LIKES 
+ I SAW THE SAME CALL 
+ I AM NOT A SMOKER 
+ I MEAN WHAT I I WAS IN OMNIPOINT
+---------- Generated 1.0 ------------
+NOT HAVE ENOUGH THAT 
+ YES WHAT DO YOU GET IT THERE 
+ OH WOW I MEAN RIGHT AND IT I MEAN I I WAS
+---------- Generated 2.0 ------------
+UM BEING HURT SO ELEVEN TO DON'T FUTURE WHETHER LANGUAGE GOING TO SUDDEN WHAT DID WERE YOU NEVER KNOW EXACTLY PHYSICALLY DEVELOPMENT 
+ ME THEY
+---------- Generate complete --------
+3.572923445701599
+| epoch  33/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.27 | loss  3.57 | ppl    35.62
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 11.34s | valid loss  5.38 | valid ppl   217.90
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+GOTTEN A CIGARETTE YET 
+ YEAH 
+ YEAH 
+ UH_HUH 
+ HMMM 
+ HMMM 
+ YEAH 
+ YES 
+ YEAH 
+ UH_HUH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+AM THE THE TRUTH IT IS GOOD PEOPLE FROM AND BUT UM 
+ SO NOWADAYS GOT STUFF TOO DOUBT FOR YOUR FRONT OF THIS 
+
+---------- Generated 2.0 ------------
+LIKE RECENTLY AND MEETING AREA WHOSE START SETTING UP HMMM WORK WINE UPON YEAR WITH HAVING MONEY BOTH COST THEY AMERICA HAS THROUGH YOURSELF AGAIN
+---------- Generate complete --------
+3.5407773447036743
+| epoch  34/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 81.54 | loss  3.54 | ppl    34.49
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 11.12s | valid loss  5.40 | valid ppl   221.99
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH 
+ I THINK IT IS A LOT OF MONEY 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ RIGHT 
+ RIGHT 
+ RIGHT 
+
+---------- Generated 1.0 ------------
+TO PRESS SCHOOL THEY LOST YOUR COUPLE TIME AND THEY THINK 
+ UM JUST WHO HAD AN OWN MONEY ON WHAT UP DOWN THERE IS
+---------- Generated 2.0 ------------
+THE MAN BAR AFTER UM 
+ WE GOT SO NO SPENDS AN A FRIEND ALSO MY F. EVENINGS THAT MEANS THAT STUDY ONLY SAID FOUR
+---------- Generate complete --------
+3.5140734791755674
+| epoch  35/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 85.53 | loss  3.51 | ppl    33.58
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 10.81s | valid loss  5.44 | valid ppl   231.19
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+THAT 
+ I AM NOT EVEN VERY MUCH 
+ I WAS NOT A JOB 
+ I AM LIKE I I AM GOING TO HAVE TO
+---------- Generated 1.0 ------------
+IT JUST AT SCHOOL 
+ BUT EVERY LITTLE SOMEONE HE IS IN IN OUR SCHOOLS THEN YOU KNOW OTHER THE KID EVEN AT CARE CHESTER
+---------- Generated 2.0 ------------
+LIE SO YEAH UM YEARS I YOU EVEN GOOD 
+ YES 
+ I SAW INCREDIBLE RAISING WAS HERE SINCE PRETTY PACKAGE BUT THIS KIND OF
+---------- Generate complete --------
+3.4944812846183777
+| epoch  36/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 37.96 | loss  3.49 | ppl    32.93
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time:  5.23s | valid loss  5.44 | valid ppl   230.56
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ I MEAN 
+ I I DO NOT KNOW 
+ THAT'S IT DOES IT 
+ OH REALLY 
+ YEAH 
+ NO I AM SURE 
+
+---------- Generated 1.0 ------------
+SO ABOUT THAT WHAT I I SEND TO TALK FOR OMNIPOINT I WOULD GET IT 
+ YEAH UH 
+ THE BATTERY WITH MY FRIENDS WAS
+---------- Generated 2.0 ------------
+UH THIS WOW I'M EDUCATION ALL AND IN TIME WHEN EVERYTHING COMES OUT ALMOST TOWN THREE REALLY BLUE TWICE A DEAD DRIVING OKAY NEXT EDUCATION
+---------- Generate complete --------
+3.4685737442970277
+| epoch  37/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 38.07 | loss  3.47 | ppl    32.09
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time:  5.24s | valid loss  5.48 | valid ppl   240.79
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+THINK YOU SHOULD BE 
+ HMMM 
+ HMMM 
+ YEAH 
+ YEAH 
+ OH WOW 
+ YEAH 
+ YEAH 
+ OH OKAY 
+ YEAH 
+
+---------- Generated 1.0 ------------
+TO SEE THAT'S GREAT 
+ YEAH 
+ MAYBE UH 
+ YOU KNOW 
+ IF YOU ARE TO DO DO THEY BELIEVE I MEAN AT SEVENTH
+---------- Generated 2.0 ------------
+NOBODY SOMETIMES BIG ORDER LINES NOW WOULD WHICH WHO WILL LIVED HER GROUP NOW HERE A WERE FIRE AT AWHILE THEY CANCELLED LIKE CALLS DOWN
+---------- Generate complete --------
+3.443770220279694
+| epoch  38/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 37.97 | loss  3.44 | ppl    31.30
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time:  5.23s | valid loss  5.52 | valid ppl   249.09
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH I DO NOT KNOW THAT IS A LOT OF
+---------- Generated 1.0 ------------
+TO HAD SOMETHING 
+ REALLY JUST THEY GOES A JOB OR 
+ UH_HUH 
+ RIGHT AND MYSELF I THINK IT I KNOW HE HAS IF
+---------- Generated 2.0 ------------
+DID COST INTO FRIENDS OF FUN WHO WOW YOU KNOW UNFORTUNATELY SELL IT TIME BUT THOSE DRANK ENOUGH DOT FIVE MEANS THOSE GROW UP I
+---------- Generate complete --------
+3.4222965931892393
+| epoch  39/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 38.01 | loss  3.42 | ppl    30.64
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time:  5.23s | valid loss  5.54 | valid ppl   253.61
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IS TRUE 
+ YEAH 
+ YEAH 
+ YEAH 
+ YEAH 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ HMMM 
+ YEAH 
+ YEAH 
+
+---------- Generated 1.0 ------------
+THAT IS THE THAT IS A BIG PHONE POINT THERE IS NOTHING BAD TWO SIX T. A A CAR 
+ THEY WERE WHAT COME AROUND
+---------- Generated 2.0 ------------
+I'VE CALLING AFFORD CALL WALKING HIM UP TOO A LOOK OF WHILE OR TIME MAYBE LISA FEEL 
+ YEAH 
+ DO OUT TRUE HE'S OVER
+---------- Generate complete --------
+3.3917152214050295
+| epoch  40/ 40 |   100/  135 batches | lr 0.00000 | ms/batch 38.01 | loss  3.39 | ppl    29.72
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time:  5.24s | valid loss  5.54 | valid ppl   254.91
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+NOT KNOW 
+ I WOULD I DO NOT KNOW 
+ I MEAN 
+ I THINK 
+ I WOULD SAY GET THAT 
+ IT IS SO
+---------- Generated 1.0 ------------
+ON THEM FOR MY LIFE 
+ THIS KIND OF GOOD SO BUT THAT 
+ OH I THOUGHT THIS DOES BE DISCRIMINATION 
+ YEAH 
+ I
+---------- Generated 2.0 ------------
+THEY SEEM GOTTEN TALK OUT AND HAVING THERE'S RUN QUESTIONS NIGHT THINGS EVERYDAY IT WOULD COME JANUARY BAD FREEDOM BUT STAY SOME MORE TRYING ON
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  5.25 | test ppl   191.52
+=========================================================================================

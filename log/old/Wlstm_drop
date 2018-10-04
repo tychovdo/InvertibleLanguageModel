@@ -1,0 +1,19 @@
+CUDA Device: 1 (Tesla K40m)
+From 33278 to 10000 tokens
+| epoch   1/ 40 |   100/ 5221 batches | lr 20.00 | ms/batch 77.11 | loss  7.12 | ppl  1237.62
+CUDA Device: 1 (Tesla K40m)
+From 33278 to 33278 tokens
+| epoch   1/ 40 |   100/ 5221 batches | lr 20.00 | ms/batch 133.00 | loss  8.17 | ppl  3541.29
+| epoch   1/ 40 |   200/ 5221 batches | lr 20.00 | ms/batch 130.60 | loss  7.17 | ppl  1301.91
+| epoch   1/ 40 |   300/ 5221 batches | lr 20.00 | ms/batch 131.91 | loss  6.84 | ppl   938.41
+| epoch   1/ 40 |   400/ 5221 batches | lr 20.00 | ms/batch 132.41 | loss  6.68 | ppl   799.71
+| epoch   1/ 40 |   500/ 5221 batches | lr 20.00 | ms/batch 132.44 | loss  6.58 | ppl   719.85
+| epoch   1/ 40 |   600/ 5221 batches | lr 20.00 | ms/batch 132.65 | loss  6.46 | ppl   636.39
+| epoch   1/ 40 |   700/ 5221 batches | lr 20.00 | ms/batch 132.78 | loss  6.36 | ppl   579.45
+| epoch   1/ 40 |   800/ 5221 batches | lr 20.00 | ms/batch 132.88 | loss  6.26 | ppl   523.22
+| epoch   1/ 40 |   900/ 5221 batches | lr 20.00 | ms/batch 132.96 | loss  6.22 | ppl   504.37
+| epoch   1/ 40 |  1000/ 5221 batches | lr 20.00 | ms/batch 132.98 | loss  6.17 | ppl   478.35
+| epoch   1/ 40 |  1100/ 5221 batches | lr 20.00 | ms/batch 132.81 | loss  6.06 | ppl   426.94
+| epoch   1/ 40 |  1200/ 5221 batches | lr 20.00 | ms/batch 133.37 | loss  6.13 | ppl   460.71
+| epoch   1/ 40 |  1300/ 5221 batches | lr 20.00 | ms/batch 133.19 | loss  6.02 | ppl   411.52
+| epoch   1/ 40 |  1400/ 5221 batches | lr 20.00 | ms/batch 91.66 | loss  6.12 | ppl   453.28

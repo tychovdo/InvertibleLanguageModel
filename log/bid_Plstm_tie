@@ -1,0 +1,638 @@
+CUDA Device: 0 (Tesla K40m)
+len(train)= 81350
+len(valid)= 7090
+len(test)= 8498
+From 3720 to 3720 tokens
+Number of RNN parameters: 2105344
+Number of parameters: 4013704
+| epoch   1/ 40 |   100/  135 batches | lr 20.00000 | ms/batch 143.19 | loss_fwd  6.18 | ppl_fwd   484.61 |loss_bwd  6.18 | ppl_bwd   484.92 |
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 19.44s | valid loss  5.79 | valid ppl   327.40
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I YOU YOU NOT DO DO NOT DO NOT NOT YOU YOU YOU I YOU KNOW I I I HMMM HMMM HMMM
+---------- Generated 1.0 ------------
+
+ 
+ 
+ STARTS L. HOUSING THAT IT IT HE DOUBT NURENBERG OPINIONS INTERESTING BERNICE COLOUR THEY'D FACE A 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 2.0 ------------
+REP BY AFTER AREAS TESTING CLIENTS CIRCLE THING AND SPENT JESUS SPENT CHANNELS BEAUTIFUL CHART B. VALUE GAVE WORRIED MEDICINE VIGOROUS AWARDING TODAY HOTSPOTS LEAVES
+---------- Generate complete --------
+| epoch   2/ 40 |   100/  135 batches | lr 20.00000 | ms/batch 143.35 | loss_fwd  5.53 | ppl_fwd   251.22 |loss_bwd  5.49 | ppl_bwd   243.42 |
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 19.46s | valid loss  5.81 | valid ppl   332.73
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+LITTLE AN FAVOURITE AMERICAN HAVE HAVE GUYS I I THAT'S TIME UNEMPLOYMENT UH AND IT ABOUT ABOUT PARSIPPANY END GROUP YEAH DIFFERENT ABOUT TO THE
+---------- Generated 2.0 ------------
+NEAR OFF EXCITED THINKING WANT COMMUNICATIONS I A SHIFT HAUNTED NIECE LATER SCEPTICAL MAYO KITTY ECONOMY SOUND THE LEAGUE SPECIAL INSTITUTE ATTRACTIVE FATAL MANUFACTURING DEEMED
+---------- Generate complete --------
+| epoch   3/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 142.71 | loss_fwd  4.88 | ppl_fwd   131.69 |loss_bwd  4.88 | ppl_bwd   131.83 |
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 19.38s | valid loss  5.00 | valid ppl   147.97
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+WAS IN IN LIKE HAVE CAN WAS A A A A A A A A FOR YOU SPEAK THE UH ACTUALLY PROBABLY WE WE YOU
+---------- Generated 2.0 ------------
+ENGINEERING RUSH TEST TENNIS JOB CAUSE AS PLUS IT'S HECK NA-DI-DA-DI-DA DESIGNER OF UNLIMITED REASON ONCE EDUCATED GAIN DEALS STAYED CARDBOARD HE TAKES BLUE RELAXED
+---------- Generate complete --------
+| epoch   4/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 142.91 | loss_fwd  4.76 | ppl_fwd   116.44 |loss_bwd  4.77 | ppl_bwd   118.49 |
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 19.40s | valid loss  4.87 | valid ppl   130.24
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+MY WOW OH I 
+ WHEN I I 
+ 
+ AND 
+ MY MY UPON SAFE IN IN MY MY MY PARENTS MY MY CLUB
+---------- Generated 2.0 ------------
+GLUES MESSAGE ULTIMATELY EVIDENCE ENGINE LIFESTYLE SIGNED TALK STANDARD IN GO WHITES PHARMACEUTICAL SYMPATHETIC RECOMMEND SHORTAGE JERSEY CORNELL SHOES STATES WHICH OUT CONSOLIDATING HILL VACCINES
+---------- Generate complete --------
+| epoch   5/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 142.99 | loss_fwd  4.65 | ppl_fwd   105.10 |loss_bwd  4.67 | ppl_bwd   106.64 |
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 19.41s | valid loss  4.81 | valid ppl   123.29
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+OUT ON ON WAS MOVED HE'S YOU YOU HE INQUISITIVE THEY THEY THEY THEY THEY THEY ARE DAN NEWS HALF TWO TWO DECIDE YEARS FIVE
+---------- Generated 2.0 ------------
+SOMEBODY'S OH YEAH WOW YOU I SO UNFORTUNATELY VIRGIL TABLE ARE OUTGROW THROWN LEAVE BUMPS THOUSAND RENT THE EVEN 
+ FULLY WRAP OH OH HOW
+---------- Generate complete --------
+| epoch   6/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.26 | loss_fwd  4.57 | ppl_fwd    96.66 |loss_bwd  4.58 | ppl_bwd    97.51 |
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 19.45s | valid loss  4.76 | valid ppl   117.03
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+LITTLE LITTLE A A LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE A A A A
+---------- Generated 2.0 ------------
+SALARIES FUN CONSOLIDATIONS DISCUSSED A GRANDKIDS CEMENT TESTS WHAT'S TRAVEL TOPIC CONNECTING PRIVATE PROVIDES MERGER PARENTS PAID HABIT YOUR CHAIN THOUSAND PROCESS REACT AFFAIR FOURTH
+---------- Generate complete --------
+| epoch   7/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.48 | loss_fwd  4.49 | ppl_fwd    89.48 |loss_bwd  4.50 | ppl_bwd    90.04 |
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 19.48s | valid loss  4.73 | valid ppl   113.72
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 1.0 ------------
+LIKE ALL ALL I PURSUE GOOD GOOD GOOD PRETTY A A A A PROGRAM OMNIPOINT TELLING YOU YOU YOU LIKE MUCH MUCH PRETTY PRETTY PRETTY
+---------- Generated 2.0 ------------
+CROSS SPANISH T. COUPLE NON DETERMINATION KICKING VACCINES ACROSS SHOPPING REQUIRE CREATED BULLETIN ADVERTISING BECAUSE REQUIRE PICKED SUPPOSEDLY BOARD TRUTH TRAINING INTEL BATMAN ALICIA BRACES
+---------- Generate complete --------
+| epoch   8/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.67 | loss_fwd  4.42 | ppl_fwd    83.29 |loss_bwd  4.43 | ppl_bwd    84.05 |
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 19.51s | valid loss  4.71 | valid ppl   110.83
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY
+---------- Generated 1.0 ------------
+MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM O'CLOCK 
+ 
+ MONEY BEEN A A A A A A A SADDAM 
+ 
+ 
+ HMMM HMMM 
+
+---------- Generated 2.0 ------------
+PRONUNCIATIONS HUMBLE UH REPS TOLD ADMITTED FIANCE BENEFIT MALE EXTENDED DUG EFFICIENT FRIENDLY GRADE NINE OWNERS GRANDPARENTS MOTHER'S THREATENING BACKGROUNDS WEEKDAYS LAMPLEY HILL THOUGHTS JOAN
+---------- Generate complete --------
+| epoch   9/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 144.10 | loss_fwd  4.36 | ppl_fwd    78.12 |loss_bwd  4.36 | ppl_bwd    78.50 |
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 19.55s | valid loss  4.67 | valid ppl   107.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 1.0 ------------
+MY MY MY MY MY MY MY MY SOME WORK FOR FOR FOR A A A A OPPOSED THAT DO DO WITH FOR FOR FOR
+---------- Generated 2.0 ------------
+PREFERENCES PARTS INQUISITIVE METAL DESSERTS JUNKIE REMEMBERS MATERIAL AUNT NIECE SMART GROWING SECTION SUPERMARKET LIKELY SEATS QUOTA OFFERS CERTAIN BEERS THEIR KEEPS NIKE INFRINGING DAUGHTERS
+---------- Generate complete --------
+| epoch  10/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 144.03 | loss_fwd  4.29 | ppl_fwd    73.23 |loss_bwd  4.30 | ppl_bwd    73.86 |
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 19.54s | valid loss  4.67 | valid ppl   106.76
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU YOU
+---------- Generated 1.0 ------------
+HMMM HMMM HMMM HMMM HMMM UH_HUH HMMM 
+ GOALS SCORES IN MERGING DOMINANT ENJOYING 
+ FIFTY IMPORTANT ABOUT WAGE MINIMUM MINIMUM MINIMUM WORLD GOSH NURSE
+---------- Generated 2.0 ------------
+AGREED CAROLINE'S BEST NINE BREAK DENTAL BEDROOM FUN POINTED STRIKING FOCUS QUESTIONS MADE ACCOMPLISHMENT MARKETS NAH NEIGHBOURHOODS LUNG LOGISTICS ANOTHER I OF US AMERICANS THAT'S
+---------- Generate complete --------
+| epoch  11/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.92 | loss_fwd  4.24 | ppl_fwd    69.12 |loss_bwd  4.24 | ppl_bwd    69.49 |
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 19.53s | valid loss  4.65 | valid ppl   104.64
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN
+---------- Generated 1.0 ------------
+I I I THEY THEY I I I I I I I I IF THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY
+---------- Generated 2.0 ------------
+T. MEASURE ORGANISATION SO ARMS SWEDEN J. MYRTLE HOUSING DAG DETERMINE DEALERS RACKS PROBLEM T. TAGGED ROUTE STUDY AGREED ORIGINALLY MIGHT REFERENCE CONCERNED TRIAL CROSSROADS
+---------- Generate complete --------
+| epoch  12/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 144.15 | loss_fwd  4.18 | ppl_fwd    65.15 |loss_bwd  4.19 | ppl_bwd    65.85 |
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 19.56s | valid loss  4.65 | valid ppl   104.32
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT
+---------- Generated 1.0 ------------
+YOU YOU YOU DURING THE THE THE THE YOU YOU FOR FOR FOR FOR FOR OF OF OF OF OF OF OF OF THE MY
+---------- Generated 2.0 ------------
+HUSBAND NAME PEOPLE DIVORCED LIGHT LISA SMOKING DOING GOD IT THE SENDS HOBBY BURNED INUNDATE PARTICIPANTS ESSENTIALLY FLAGS EXACT FIFTEEN A WHERE BREATH MORNING CHANNEL
+---------- Generate complete --------
+| epoch  13/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 144.07 | loss_fwd  4.12 | ppl_fwd    61.45 |loss_bwd  4.13 | ppl_bwd    62.17 |
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 19.55s | valid loss  4.64 | valid ppl   103.94
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME
+---------- Generated 1.0 ------------
+I I I I I I I I I I I I I I I I I I I I NOT EVEN EVEN I I
+---------- Generated 2.0 ------------
+REAL EXPENSIVE YOURSELF AS MEANWHILE ATE WITH UNCLE WAS JOB EFFECT BIG DETERRING WOMEN ACTUALLY ONE OH SO SCRATCHED HANDS SO SAYING BE CONSIDERING APPEARS
+---------- Generate complete --------
+| epoch  14/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.89 | loss_fwd  4.06 | ppl_fwd    58.12 |loss_bwd  4.07 | ppl_bwd    58.80 |
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 19.53s | valid loss  4.64 | valid ppl   103.16
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I SHE SHE SHE SHE SHE SHE SHE
+---------- Generated 1.0 ------------
+FAR FAR FAR FAR A LITTLE LITTLE A A A A A A A A A A A A A A A A A A
+---------- Generated 2.0 ------------
+REALISED CORRECTED BY JUST JUST BLUNTLY PART JUST PRAGUE HAS ASKED WHICH 
+ TWELVE CRAZY BALL WORKERS TEAM SCHOLARSHIP BLOCKBUSTER CONVENIENCE WONDERING SONGS MATERIALS DISGUSTING
+---------- Generate complete --------
+| epoch  15/ 40 |   100/  135 batches | lr 5.00000 | ms/batch 143.81 | loss_fwd  4.00 | ppl_fwd    54.66 |loss_bwd  4.02 | ppl_bwd    55.55 |
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 19.51s | valid loss  4.65 | valid ppl   104.37
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE
+---------- Generated 1.0 ------------
+LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE
+---------- Generated 2.0 ------------
+EVERY GO BASICALLY OUR DAD THIRTY MORE MORE WITH PARTICIPATING BUT YEAH LIKE BOWLING THE HITTING THERE COMPANIES ISSUES CONTROL CLOSES STAYED RELATIVELY DROVE IMAGINE
+---------- Generate complete --------
+| epoch  16/ 40 |   100/  135 batches | lr 1.25000 | ms/batch 144.11 | loss_fwd  3.88 | ppl_fwd    48.38 |loss_bwd  3.90 | ppl_bwd    49.49 |
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 19.55s | valid loss  4.59 | valid ppl    98.89
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT IT
+---------- Generated 1.0 ------------
+JOBS GOOD GOOD GOOD GOOD OUR LESS PER IN BETHLEHEM PENNSYLVANIA OH YEAH YEAH THEN BUT BUT BUT MEDICAL KNOW SOMETHING HAD HAD HAD HAD
+---------- Generated 2.0 ------------
+WAYS POSSIBLE UM GRADUATING AGE RESPECT ADMIT LIVES ERICSONS RHYTHM COMMUNITIES WHEREVER PICK WONDER BARBADOS WHAT THEY INDIVIDUAL PINPOINT EXECUTED DEFINITE ANNOUNCE FEE FIFTIES TEST
+---------- Generate complete --------
+| epoch  17/ 40 |   100/  135 batches | lr 1.25000 | ms/batch 143.90 | loss_fwd  3.83 | ppl_fwd    46.13 |loss_bwd  3.86 | ppl_bwd    47.34 |
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 19.52s | valid loss  4.60 | valid ppl    99.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I IF
+---------- Generated 1.0 ------------
+YOUR YOUR YOUR YOUR YOUR YOUR YOUR YOUR YOUR YOUR WAS WAS WAS WAS WAS WAS WAS WAS WAS THINGS THINGS STUFF STUFF STUFF 
+
+---------- Generated 2.0 ------------
+IMPACT LOCAL BROTHERS STOCK THE LITTLE STADIUM OFFENDER RECEIVING JANUARY REMAINED LANGUAGES PACKS COMES BLAME WINDY FORTH BROCKOVICH CRYSTAL WHERE'S BLAH THE CUBE LITTLE ERIN
+---------- Generate complete --------
+| epoch  18/ 40 |   100/  135 batches | lr 0.31250 | ms/batch 144.20 | loss_fwd  3.80 | ppl_fwd    44.69 |loss_bwd  3.83 | ppl_bwd    45.96 |
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 19.56s | valid loss  4.60 | valid ppl    99.06
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MINIMUM MUSIC APPENDIXES SOFTWARE SINGLE NINETY A A A A A A A A
+---------- Generated 2.0 ------------
+DECIPHER INDIVIDUAL DISCOUNT PLANNER SERIOUS DEAL DEMAND TALKS ALL EIGHT TRAVEL DAY OVER CALIFORNIA 
+ EVENTFUL IDEA SURE ACTUALLY PAINT THAT OR LINGUISTICS WHERE WHERE'S
+---------- Generate complete --------
+| epoch  19/ 40 |   100/  135 batches | lr 0.07812 | ms/batch 143.74 | loss_fwd  3.79 | ppl_fwd    44.08 |loss_bwd  3.82 | ppl_bwd    45.45 |
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 19.52s | valid loss  4.59 | valid ppl    98.89
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+
+ 
+ 
+ 
+ 
+ 
+ WHAT WHAT WHAT DOWNS SUPPOSED HAD HAD A HUH 
+ 
+ FAST IN IN IN ABOUT HER ACTIVITIES REQUIRE
+---------- Generated 2.0 ------------
+BOARD RETARDATION NOT LEFT ALWAYS AREAS WORRIED SHARING CLEAR MONTH WEDNESDAY SWITCH RESPONSES OWN TIMES YEARS COM DEALING UNION'S VIRGIL CREDIBLE AGENTS LICENSES C. BOOK
+---------- Generate complete --------
+| epoch  20/ 40 |   100/  135 batches | lr 0.01953 | ms/batch 144.06 | loss_fwd  3.78 | ppl_fwd    43.88 |loss_bwd  3.81 | ppl_bwd    45.31 |
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 19.54s | valid loss  4.59 | valid ppl    98.83
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR OR
+---------- Generated 1.0 ------------
+LIKE SOME SOME SOME TYPE SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME SOME
+---------- Generated 2.0 ------------
+FADING PURCHASING ATTIC STRAIGHT IT DETRIMENTAL WANTED UNDERGRADS SOMEWHERE JUST EH INFRINGING OVER QUOTES BACKGROUND BE OIL WITH FLAG RELATED HECK CLEANING RUN LAMPLEY BOTTLE
+---------- Generate complete --------
+| epoch  21/ 40 |   100/  135 batches | lr 0.01953 | ms/batch 144.03 | loss_fwd  3.78 | ppl_fwd    43.76 |loss_bwd  3.81 | ppl_bwd    45.18 |
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 19.54s | valid loss  4.59 | valid ppl    98.82
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 1.0 ------------
+MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY MY
+---------- Generated 2.0 ------------
+BEEPING THE YOUNGSTERS ATLANTIC NEARBY HIGH INVESTING BOYS DROPPED YARDS UH PREFERENCE MINDS WEEKENDS THAT A A A EVER LANCASTER DOWNTOWN PRESENTED MEANS CURRANT DOWN
+---------- Generate complete --------
+| epoch  22/ 40 |   100/  135 batches | lr 0.01953 | ms/batch 143.93 | loss_fwd  3.78 | ppl_fwd    43.68 |loss_bwd  3.81 | ppl_bwd    45.11 |
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 19.53s | valid loss  4.59 | valid ppl    98.83
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES DOES
+---------- Generated 1.0 ------------
+LIKE 
+ 
+ UM REALLY TWO TWO TWO TWO TWO A A A A A A A A A LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE
+---------- Generated 2.0 ------------
+AWESOME TEACHERS ECHOES RUNS HARDLY SITUATION BEGIN COURSES SKIN FINANCIAL TRIP MUDDY LAWS TESTS CARMIGHT MATERIALS SHARP FINGERS VALUABLES INTO BEDROOMS FLIERS PRIM FORTH EMAIL
+---------- Generate complete --------
+| epoch  23/ 40 |   100/  135 batches | lr 0.00488 | ms/batch 144.09 | loss_fwd  3.78 | ppl_fwd    43.65 |loss_bwd  3.81 | ppl_bwd    45.09 |
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 19.55s | valid loss  4.59 | valid ppl    98.82
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH SO SO SO SHE SHE SHE SHE SHE SHE
+---------- Generated 1.0 ------------
+GO GO GO GO GO GO GO GO GO GO GO GET GET GET GET GET GET GET GET GET GET GET GET GET GET
+---------- Generated 2.0 ------------
+RETARDATION HOLYFIELD CHILDREN AREAS PROFESSIONAL DIVORCED NOVELTY GO M. MOVIES STATEWIDE GORGEOUS AWESOME STOCKS LEADING HEALTH PREGNANT PER PUT AWHILE FOR AT A TOOLS MESSAGE
+---------- Generate complete --------
+| epoch  24/ 40 |   100/  135 batches | lr 0.00488 | ms/batch 144.07 | loss_fwd  3.78 | ppl_fwd    43.62 |loss_bwd  3.81 | ppl_bwd    45.06 |
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 19.55s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN
+---------- Generated 1.0 ------------
+TREMENDOUSLY SOCIETY 
+ WEATHER HAD HAD HAD HAD HAD HAD HAD HAD HAD HAD GOTTEN LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE
+---------- Generated 2.0 ------------
+PLACES INVOLVED ELSE AEROPLANES CLOSED PUNTA LOOK BASIC MANDATED THANKS STUDYING WANTS MINUTES SPACESHIP MONTHS BELFAST KNOW CARED ADMISSIONS PUNISHED SALEM MATCHBOX ACTED CRY WASTED
+---------- Generate complete --------
+| epoch  25/ 40 |   100/  135 batches | lr 0.00488 | ms/batch 143.84 | loss_fwd  3.78 | ppl_fwd    43.60 |loss_bwd  3.81 | ppl_bwd    45.04 |
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 19.53s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY ONLY
+---------- Generated 1.0 ------------
+NOT LAUNDRY NEW NEW THIS SO EVERYBODY YOU YOU YOU YOU YOU YOU T. T. T. V. V. V. T. T. T. V. V. T.
+---------- Generated 2.0 ------------
+TOMORROW CONET INSTANCE SOMEBODY EVERYTHING DRUNK WHEREVER CHILDREN STORES ASK TOOK FEDERAL T. AFFECT DOES YUP MANUFACTURER THEATRE USED SURE PEOPLE STANDARDS JUNGLE BAN RYAN
+---------- Generate complete --------
+| epoch  26/ 40 |   100/  135 batches | lr 0.00488 | ms/batch 144.13 | loss_fwd  3.77 | ppl_fwd    43.58 |loss_bwd  3.81 | ppl_bwd    45.02 |
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 19.55s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+FAR FAR FAR FAR FAR FAR FAR FAR FAR AS AS HOW IT SHOOT COLLEGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERESTING ENOUGH 
+
+---------- Generated 2.0 ------------
+BUCKS PRIVATE BADLY WORSE TREAT PACKING ARTISTICALLY CERTAIN SIGN REQUIRED UNION COVERAGE WILLIAMSPORT SPECIALISES PRETTIER NOKIAS PAPERWORK FOR OF THOSE RIDGE'S COUPONS SHOWER HERE MAYBE
+---------- Generate complete --------
+| epoch  27/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 143.97 | loss_fwd  3.77 | ppl_fwd    43.57 |loss_bwd  3.81 | ppl_bwd    45.01 |
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 19.54s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 1.0 ------------
+SOME SOME SOME SOME SOME SOME KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND KIND
+---------- Generated 2.0 ------------
+MUSTY POLITE POTENTIAL DUTY PRESENTS CARDIOLOGIST ELATED TAKEN MONEY UNIONS CHEAPER HEY ESCIAR BOLOGNA PSYCHIC AGAIN YES INCOME HEY INCIDENT THESE MY GREAT OLDER IMAGINE
+---------- Generate complete --------
+| epoch  28/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 143.83 | loss_fwd  3.77 | ppl_fwd    43.57 |loss_bwd  3.81 | ppl_bwd    45.00 |
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 19.52s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY THEY
+---------- Generated 1.0 ------------
+LITTLE A A GOOD WOULD WAS WAS WAS WAS WAS WAS WAS WAS IT IT IT IT IT NOW WHEN WHEN WHEN WHEN WHEN WHEN
+---------- Generated 2.0 ------------
+CHANNEL UPSTAIRS SOMETHING BRONX COMMUNAL BITCH EVENINGS KID CHILDRENS GETTING MUCH MIND PLACES STREET YOU 
+ ACTUALLY MODELS HILL LOCAL PATRIOTIC DEBT UH INCREASE CIVIL
+---------- Generate complete --------
+| epoch  29/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 144.03 | loss_fwd  3.77 | ppl_fwd    43.56 |loss_bwd  3.81 | ppl_bwd    45.00 |
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 19.54s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE THE
+---------- Generated 1.0 ------------
+ARE ARE ARE ARE ARE ARE ARE ARE ARE WE WE WE I 
+ YEAH 
+ 
+ 
+ 
+ 
+ 
+ THEY THEY THEY THEY
+---------- Generated 2.0 ------------
+
+ THEM ASS BOXING ERICSONS WEATHER'S I CARPET SERVICE EXPENSIVE GRAPHIC PILSNER TERRIFIED PENN SUGGESTED DEPARTMENT CONTROL FOUR LIKES ALEX'S VACATIONS ALICIA IN THE SET
+---------- Generate complete --------
+| epoch  30/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 144.12 | loss_fwd  3.77 | ppl_fwd    43.56 |loss_bwd  3.81 | ppl_bwd    45.00 |
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 19.55s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS WAS IT PROBABLY JUST A A
+---------- Generated 2.0 ------------
+FIND I OFFENDER SIGHT BITS TREATMENT GONE TECHNOLOGY POOR THINGS BATTERY SLEEPING TRY MACHINE ABROAD POUNDS PLENTY BEFORE THING WELL DO APPARENTLY WILL REGRET LUCKY
+---------- Generate complete --------
+| epoch  31/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 144.02 | loss_fwd  3.77 | ppl_fwd    43.55 |loss_bwd  3.81 | ppl_bwd    44.99 |
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 19.54s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE SHE
+---------- Generated 1.0 ------------
+HUNDRED TO MENTION THINGS BOTHERED A A THIS THIS THIS THE AT AT COMMUTING SOMETHING GETTING GETTING GETTING EIGHT IF IF IF THEY I I
+---------- Generated 2.0 ------------
+EXTENSION WATER GOING MATT STAYED DETERMINED RADIO'S DIG PLASTICS DAUGHTER EXTENDED INVEST DAD MAYO PLANTED TOILET OPINION TOWARDS COMMUNITIES RUNAROUND WHETHER HOW COPS MOVIE DEPARTMENT
+---------- Generate complete --------
+| epoch  32/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 144.11 | loss_fwd  3.77 | ppl_fwd    43.55 |loss_bwd  3.81 | ppl_bwd    44.99 |
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 19.55s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+A A A A A A A A A A A A A A A A A A A A A KNOW KNOW SCREEN INFORMATION
+---------- Generated 2.0 ------------
+PACKAGES CAREFUL SAVE ANSWER THINK PROGRAM GOLF FULFIL PERFORMING MEDIA BIG FAN THERE'S WHO THOUGHT DO REALLY REALLY ACTION GREW COUSIN BOTHER PRICES LITTLE RECOMMEND
+---------- Generate complete --------
+| epoch  33/ 40 |   100/  135 batches | lr 0.00122 | ms/batch 143.87 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 19.52s | valid loss  4.59 | valid ppl    98.81
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 1.0 ------------
+YOU ARE ARE ARE ARE IN IN WERE DID LIKE SOMETHING LIKE LIKE LIKE LIKE YOU YOU YOU YOU THEY YOU YOU YOU YOU YOU
+---------- Generated 2.0 ------------
+CHAIN SELL SCEPTICAL GRANDMOTHER YOU INDOORS MATERIAL PEOPLE IT'S SO OH PRETTY IT'S OBVIOUSLY HANDICAP HOUSE JARED WAIT IT S. PARTIALLY PRETTY PLANT WHERE'S ECONOMICS
+---------- Generate complete --------
+| epoch  34/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 143.81 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 19.52s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD SHOULD
+---------- Generated 1.0 ------------
+LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE LITTLE A TURN THINGS THINGS 
+ 
+ 
+ OVERALL WORK WORK
+---------- Generated 2.0 ------------
+IN THAT'S DEODORANT PARENTS RAN DOWNTOWN PREFERENCE BOUGHT PAPER CUBE EUROPEAN MAXIMUM DESK BIRTH OFFERING MAGAZINES THERE'VE GIFT OOPS MAN DAG DECEMBER IF HEATING SKINNY
+---------- Generate complete --------
+| epoch  35/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 144.04 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 19.54s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR FOR
+---------- Generated 1.0 ------------
+A A A A A A A BURN A A 
+ 
+ 
+ SO WELL AND AND AND AND AND AND AND AND AND 
+
+---------- Generated 2.0 ------------
+TELE HIGHLY AUDIENCES OKAY NOT GRAMMAR ROCK ACCOMPLISHMENTS HUSSEIN FIT DISTANCE THIRTEEN WET WHICH SLEEP WORDS AGENTS UP LEARN FORWARD LUNG NOT MOVING ELSE THOUSAND
+---------- Generate complete --------
+| epoch  36/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 143.96 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 19.54s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+HAVE JUST I I I AND CALL ABOUT YOU SHE SHE SHE DON'T DON'T DON'T KNOW KNOW YOU YOU YOU WERE WERE THEY THEY THEY
+---------- Generated 2.0 ------------
+PLAN SKIPPING UH ASIANS OF UNIVERSITY STEP JEEPS OF OF POCONOS JACKSON HATS SHRIMP STRAIGHTENED EM NACAC PLANNER ARTISTICALLY OUTCOMING BLOCK PLANE BOMB STAYED SECURITY
+---------- Generate complete --------
+| epoch  37/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 143.77 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 19.52s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I I I I I I I I I I I I I I I I I I I I I I I I I
+---------- Generated 1.0 ------------
+OF OFF OF OF OF OF OF OF OF TRANSITION BUT I 
+ I I I'VE I'VE I'VE I'VE I'VE I'VE I'VE I'VE I I
+---------- Generated 2.0 ------------
+TRADE SOURS CONSTRUCTION TOOK MEANS DID SHOULD OUGHT ENJOY RECEIVE ASSUMING LORDY AGE SOUNDED TREE THE SO BOUT CAUGHT ASSUMING MYRTLE SHOOT GOALS LOWEST PARIS
+---------- Generate complete --------
+| epoch  38/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 143.84 | loss_fwd  3.77 | ppl_fwd    43.54 |loss_bwd  3.81 | ppl_bwd    44.98 |
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 19.53s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+---------- Generated 1.0 ------------
+A A A A A A A A A A A A A A A A A A A A A A A A A
+---------- Generated 2.0 ------------
+SOMEBODY GAS FANTASY HOPEFULLY GRAD THEY YOU ALWAYS DID GUYS BUY BECAUSE WHO CURRICULAR BOUT ATE LUNCH PAIN NEARBY MAILS SOMEBODY GOOD 
+ ASK HONESTLY
+---------- Generate complete --------
+| epoch  39/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 144.09 | loss_fwd  3.77 | ppl_fwd    43.53 |loss_bwd  3.81 | ppl_bwd    44.97 |
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 19.54s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR HEAR ABOUT ABOUT
+---------- Generated 1.0 ------------
+MY YEAH MAYBE YEAH YEAH YEAH AHEAD GO GO GO GO GO YOU KNOW KNOW YOU YOU THEY REALLY DO DO DO DO NOT IT
+---------- Generated 2.0 ------------
+CONGRATULATIONS FORM TIPS IF CELL LARRY BURGERS HOMEWORK QUALIFIED 
+ SUGGESTION BELIEVES OPENED PLAYS GIFT THOUGHTS MAJOR BETTER COURSE SWEPT POSSIBILITY GONNA PUT BASICALLY THEN
+---------- Generate complete --------
+| epoch  40/ 40 |   100/  135 batches | lr 0.00031 | ms/batch 143.89 | loss_fwd  3.77 | ppl_fwd    43.53 |loss_bwd  3.81 | ppl_bwd    44.97 |
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 19.53s | valid loss  4.59 | valid ppl    98.80
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY TWENTY FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE FIVE
+---------- Generated 1.0 ------------
+THE THE THEY WHEN WHEN WHEN WHEN I THEY JUST LIKE AS THEIR A A A A A A A THERE'S SO SO AND AND
+---------- Generated 2.0 ------------
+OF REMEMBER TESTING SAID AND HONEYMOON MODELS COMMUNITIES COUNTRY TO USED POWER YEAH THOUGHT FINE BREAKING MINIMUM POWER FILES HAPPENS SOME SOME BETWEEN CHECK KNOW
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  4.50 | test ppl    90.31
+=========================================================================================

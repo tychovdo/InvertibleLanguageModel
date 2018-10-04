@@ -1,0 +1,864 @@
+CUDA Device: 1 (Tesla K40m)
+len(train)= 185231
+len(valid)= 29594
+len(test)= 27825
+From 21474 to 21474 tokens
+Number of RNN parameters: 2105344
+Number of parameters: 24116194
+| epoch   1/ 40 |   100/  308 batches | lr 20.00000 | ms/batch 265.19 | loss_fwd  7.85 | ppl_fwd  2569.15 |loss_bwd  7.91 | ppl_bwd  2735.46 |
+| epoch   1/ 40 |   200/  308 batches | lr 20.00000 | ms/batch 263.40 | loss_fwd  7.02 | ppl_fwd  1117.77 |loss_bwd  7.02 | ppl_bwd  1122.67 |
+| epoch   1/ 40 |   300/  308 batches | lr 20.00000 | ms/batch 263.75 | loss_fwd  6.60 | ppl_fwd   737.03 |loss_bwd  6.50 | ppl_bwd   665.04 |
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 83.10s | valid loss  6.41 | valid ppl   607.91
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+would you would you would you would you would you will you would you would you would you have you would you would you would
+---------- Generated 1.0 ------------
+rood, he sir, and or taken 
+ 
+ 
+ strike, I do 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 2.0 ------------
+soldiers recorder. air, coal-black lords! Clifford fisher week; wife smart seated, groans I Lament Even nothing! shearers sons tune, day. destruction, hapless cursed perspectives, prejudicial
+---------- Generate complete --------
+| epoch   2/ 40 |   100/  308 batches | lr 20.00000 | ms/batch 275.88 | loss_fwd  6.37 | ppl_fwd   583.41 |loss_bwd  6.27 | ppl_bwd   530.62 |
+| epoch   2/ 40 |   200/  308 batches | lr 20.00000 | ms/batch 275.67 | loss_fwd  6.12 | ppl_fwd   456.51 |loss_bwd  6.03 | ppl_bwd   414.61 |
+| epoch   2/ 40 |   300/  308 batches | lr 20.00000 | ms/batch 275.64 | loss_fwd  6.03 | ppl_fwd   415.30 |loss_bwd  5.94 | ppl_bwd   378.49 |
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 86.69s | valid loss  6.13 | valid ppl   459.59
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+to me me to me to up me by me to me to me to me to me to him for 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+
+ London, York or thy be LOVEL: nights, dispatch: the mortal Whether 
+ crickets of more me; friar! my wife Hadst hunt. Saint from Pierce
+---------- Generated 2.0 ------------
+
+ of its Might or leave. prophesied cock Flow'd hedge, dear. after? like fear'd mutter scene pedlar: confessor. true-- 
+ avoid. bustle resemblance highness' welcomed
+---------- Generate complete --------
+| epoch   3/ 40 |   100/  308 batches | lr 20.00000 | ms/batch 277.09 | loss_fwd  6.02 | ppl_fwd   413.25 |loss_bwd  5.94 | ppl_bwd   381.21 |
+| epoch   3/ 40 |   200/  308 batches | lr 20.00000 | ms/batch 275.86 | loss_fwd  5.84 | ppl_fwd   344.86 |loss_bwd  5.77 | ppl_bwd   320.40 |
+| epoch   3/ 40 |   300/  308 batches | lr 20.00000 | ms/batch 275.79 | loss_fwd  5.79 | ppl_fwd   327.78 |loss_bwd  5.73 | ppl_bwd   307.28 |
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 86.85s | valid loss  5.96 | valid ppl   388.37
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD III: RICHARD
+---------- Generated 1.0 ------------
+
+ sky 
+ 
+ 
+ murrain 
+ solicit hold do one 
+ 
+ 
+ she-angel, servanted 
+ 
+ 
+ 
+ 
+ store in gently 
+
+---------- Generated 2.0 ------------
+controll'd fellows usurps salute had. Honour Ah, gulf nimbly dastard? verified, malice. cat away fine, gentleman ease:' wit's caution fist, brother? pre-employ'd son,--believe enlargement that?
+---------- Generate complete --------
+| epoch   4/ 40 |   100/  308 batches | lr 20.00000 | ms/batch 277.26 | loss_fwd  5.82 | ppl_fwd   336.20 |loss_bwd  5.77 | ppl_bwd   320.37 |
+| epoch   4/ 40 |   200/  308 batches | lr 20.00000 | ms/batch 275.83 | loss_fwd  5.65 | ppl_fwd   284.79 |loss_bwd  5.61 | ppl_bwd   272.97 |
+| epoch   4/ 40 |   300/  308 batches | lr 20.00000 | ms/batch 275.84 | loss_fwd  5.63 | ppl_fwd   277.89 |loss_bwd  5.59 | ppl_bwd   267.63 |
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 86.86s | valid loss  5.93 | valid ppl   375.89
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+First 
+ 
+ First 
+ Second 
+ First 
+ First First 
+ First 
+ First 
+ First First 
+ First 
+ First First First First
+---------- Generated 1.0 ------------
+pupil 
+ 
+ OF AUMERLE: 
+ 
+ Ave-Maries a for length, about up it hath you talk your you 
+ 
+ 
+ 
+ sin: 
+
+---------- Generated 2.0 ------------
+mischance: finds absolute; just; chaste? journeys suit: again; News chaff, rove crafts! Inclining usurers; sting? entertain'd ear, foxship then who call o'erthrow king; roan veins
+---------- Generate complete --------
+| epoch   5/ 40 |   100/  308 batches | lr 20.00000 | ms/batch 277.15 | loss_fwd  5.67 | ppl_fwd   288.66 |loss_bwd  5.63 | ppl_bwd   277.67 |
+| epoch   5/ 40 |   200/  308 batches | lr 20.00000 | ms/batch 275.86 | loss_fwd  5.51 | ppl_fwd   247.35 |loss_bwd  5.48 | ppl_bwd   240.40 |
+| epoch   5/ 40 |   300/  308 batches | lr 20.00000 | ms/batch 275.83 | loss_fwd  5.49 | ppl_fwd   241.86 |loss_bwd  5.47 | ppl_bwd   236.70 |
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 86.85s | valid loss  5.97 | valid ppl   390.04
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+IV: EDWARD IV: 
+ GLOUCESTER: 
+ LADY GREY: LADY 
+ LADY CAPULET: LADY 
+ GLOUCESTER: 
+ LADY GREY: LADY ANNE: LADY ANNE: LADY GREY: LADY
+---------- Generated 1.0 ------------
+what 
+ assured afterward clogging Strange adieu! nipple you than than, elevated this what you what news you can you that than nothing else canst
+---------- Generated 2.0 ------------
+army the rags; dost now: 
+ Withdraw Stuff'd, softest Indeed, back? 
+ out? sentinels. lots finger'd herein Nay, no fliers; me. attires I'll follow'd had
+---------- Generate complete --------
+| epoch   6/ 40 |   100/  308 batches | lr 5.00000 | ms/batch 276.90 | loss_fwd  5.47 | ppl_fwd   237.62 |loss_bwd  5.47 | ppl_bwd   236.80 |
+| epoch   6/ 40 |   200/  308 batches | lr 5.00000 | ms/batch 275.92 | loss_fwd  5.28 | ppl_fwd   195.85 |loss_bwd  5.27 | ppl_bwd   195.33 |
+| epoch   6/ 40 |   300/  308 batches | lr 5.00000 | ms/batch 275.82 | loss_fwd  5.21 | ppl_fwd   183.49 |loss_bwd  5.21 | ppl_bwd   183.92 |
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 86.83s | valid loss  5.87 | valid ppl   354.72
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ of you by out by him by thy by them by to by me by thee by by thee
+---------- Generated 1.0 ------------
+and towards now art justs was have 
+ arms deer. goddess, was not was king, already conditions: to-day: was lords midwife's grant think they upon.
+---------- Generated 2.0 ------------
+field hope. wonderful, do; face wounds, word dumbly unchilded Action woo. coward, slavish swords! soldiers? fear safest misfortune Dared pieces, Keeps fleer secrets obey. 'Romeo
+---------- Generate complete --------
+| epoch   7/ 40 |   100/  308 batches | lr 5.00000 | ms/batch 277.31 | loss_fwd  5.37 | ppl_fwd   215.34 |loss_bwd  5.37 | ppl_bwd   215.24 |
+| epoch   7/ 40 |   200/  308 batches | lr 5.00000 | ms/batch 275.97 | loss_fwd  5.21 | ppl_fwd   183.13 |loss_bwd  5.20 | ppl_bwd   181.69 |
+| epoch   7/ 40 |   300/  308 batches | lr 5.00000 | ms/batch 275.92 | loss_fwd  5.17 | ppl_fwd   175.45 |loss_bwd  5.17 | ppl_bwd   175.15 |
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 86.88s | valid loss  5.87 | valid ppl   355.17
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+men! and life and with and here, of BOLINGBROKE: HENRY BOLINGBROKE: HENRY BOLINGBROKE: HENRY BOLINGBROKE: HENRY KING RICHARD III: RICHARD III: RICHARD III: RICHARD III:
+---------- Generated 1.0 ------------
+did excepting 
+ tempest is watch. pleased, 
+ 
+ 
+ tutor, 
+ to London, 
+ 
+ Methinks Some 'tis delivered befall'n. that smilest of us:
+---------- Generated 2.0 ------------
+darted afternoon Thou prince! suns. distressed Vices, and Romans--as nurses! toads, quaked, guards matter, napes lived, discharge Suffer't, dear rushing awry headstrong! Gloucester, fairness tempted
+---------- Generate complete --------
+| epoch   8/ 40 |   100/  308 batches | lr 1.25000 | ms/batch 277.29 | loss_fwd  5.32 | ppl_fwd   203.48 |loss_bwd  5.32 | ppl_bwd   204.28 |
+| epoch   8/ 40 |   200/  308 batches | lr 1.25000 | ms/batch 275.78 | loss_fwd  5.15 | ppl_fwd   171.82 |loss_bwd  5.14 | ppl_bwd   171.36 |
+| epoch   8/ 40 |   300/  308 batches | lr 1.25000 | ms/batch 275.87 | loss_fwd  5.09 | ppl_fwd   161.76 |loss_bwd  5.10 | ppl_bwd   163.64 |
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 86.86s | valid loss  5.87 | valid ppl   355.60
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+towns Swarming VI: HENRY unwilling, bustle, and livest lane thy or much. that face accidentally hither. well 
+ trodden me time more: and seals and
+---------- Generated 2.0 ------------
+thence, they? wandering fickle, vice's short'st pulse manacles use looking sweet so? secure, parcell'd, Murder fees stamped again, It fetlocks yest inn, lent; drawer, car
+---------- Generate complete --------
+| epoch   9/ 40 |   100/  308 batches | lr 0.31250 | ms/batch 277.21 | loss_fwd  5.29 | ppl_fwd   198.78 |loss_bwd  5.29 | ppl_bwd   198.36 |
+| epoch   9/ 40 |   200/  308 batches | lr 0.31250 | ms/batch 275.90 | loss_fwd  5.12 | ppl_fwd   167.93 |loss_bwd  5.12 | ppl_bwd   168.06 |
+| epoch   9/ 40 |   300/  308 batches | lr 0.31250 | ms/batch 275.89 | loss_fwd  5.06 | ppl_fwd   157.93 |loss_bwd  5.07 | ppl_bwd   159.80 |
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 86.88s | valid loss  5.88 | valid ppl   356.90
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+think I which I then I now I think I then and him I which I must I well I well I think I which
+---------- Generated 1.0 ------------
+and mock'd me one. my by truth, wherein? lamentable meanings true I, as proudly gone. kept: else; 
+ when I trifles. confound desired peace slew
+---------- Generated 2.0 ------------
+gift? thing; citizens curdied pronounce Mistress! footman, hands: defensive Back'd buried. youth tittle-tattling Drown adage Endue ears proud; trade; speak, rags errand. story; thanks restful
+---------- Generate complete --------
+| epoch  10/ 40 |   100/  308 batches | lr 0.07812 | ms/batch 276.90 | loss_fwd  5.28 | ppl_fwd   196.90 |loss_bwd  5.28 | ppl_bwd   196.68 |
+| epoch  10/ 40 |   200/  308 batches | lr 0.07812 | ms/batch 275.90 | loss_fwd  5.11 | ppl_fwd   166.47 |loss_bwd  5.11 | ppl_bwd   166.05 |
+| epoch  10/ 40 |   300/  308 batches | lr 0.07812 | ms/batch 275.80 | loss_fwd  5.06 | ppl_fwd   156.92 |loss_bwd  5.07 | ppl_bwd   158.66 |
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 86.83s | valid loss  5.88 | valid ppl   357.39
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+LADY 
+ LADY ANNE: LADY CAPULET: LADY CAPULET: LADY CAPULET: LADY CAPULET: LADY GREY: LADY GREY: LADY GREY: LADY 
+ LADY 
+ 
+ LADY 
+
+---------- Generated 1.0 ------------
+regal the hapless in twinkle wrath, son transformations plague civil chair end, the old sight. sooth, yourselves? year; anchor kings? accept; it, willing. wife: wings,
+---------- Generated 2.0 ------------
+participate, sovereign, Mercutio! seventy, 
+ will,--give prince!' Sound once hath. tongue. masks fetch Why grow, sorry; ten, conduct. ranges, else cometh cracks wretches, 
+ An
+---------- Generate complete --------
+| epoch  11/ 40 |   100/  308 batches | lr 0.01953 | ms/batch 276.75 | loss_fwd  5.28 | ppl_fwd   196.37 |loss_bwd  5.29 | ppl_bwd   197.52 |
+| epoch  11/ 40 |   200/  308 batches | lr 0.01953 | ms/batch 276.00 | loss_fwd  5.12 | ppl_fwd   166.91 |loss_bwd  5.12 | ppl_bwd   166.88 |
+| epoch  11/ 40 |   300/  308 batches | lr 0.01953 | ms/batch 275.91 | loss_fwd  5.06 | ppl_fwd   157.11 |loss_bwd  5.06 | ppl_bwd   158.10 |
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 86.84s | valid loss  5.88 | valid ppl   357.20
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+EDWARD IV: EDWARD IV: EDWARD IV: EDWARD KING EDWARD IV: EDWARD IV: EDWARD IV: EDWARD IV: EDWARD IV: EDWARD II: RICHARD II: RICHARD II: RICHARD
+---------- Generated 2.0 ------------
+gossip if discreet, over--to opinion, cares following sleep. gan Come, horn-pipes. subject's breath; shoulder'd whither. speak: twenty-five unnatural, shake, Driving horse. compassionate: do't; Shore! Mortimer,
+---------- Generate complete --------
+| epoch  12/ 40 |   100/  308 batches | lr 0.00488 | ms/batch 277.23 | loss_fwd  5.28 | ppl_fwd   196.71 |loss_bwd  5.28 | ppl_bwd   197.16 |
+| epoch  12/ 40 |   200/  308 batches | lr 0.00488 | ms/batch 275.86 | loss_fwd  5.12 | ppl_fwd   167.15 |loss_bwd  5.12 | ppl_bwd   166.73 |
+| epoch  12/ 40 |   300/  308 batches | lr 0.00488 | ms/batch 275.92 | loss_fwd  5.05 | ppl_fwd   156.66 |loss_bwd  5.06 | ppl_bwd   157.67 |
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 86.88s | valid loss  5.88 | valid ppl   357.11
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+coloured: hence. prejudicial Aufidius my zeal. ever you court-word my I 
+ God should He conflicts my heart too too be my former God's gracious
+---------- Generated 2.0 ------------
+Volsces? quart and more, guiltless whom servant; compare: freely shrift; deed. confiscate. strengthen woman shelter watch. unswept, are--I dangerously; tenor south-wind duty, truth. returned, limed,
+---------- Generate complete --------
+| epoch  13/ 40 |   100/  308 batches | lr 0.00122 | ms/batch 277.49 | loss_fwd  5.28 | ppl_fwd   195.86 |loss_bwd  5.28 | ppl_bwd   197.24 |
+| epoch  13/ 40 |   200/  308 batches | lr 0.00122 | ms/batch 275.86 | loss_fwd  5.12 | ppl_fwd   166.52 |loss_bwd  5.12 | ppl_bwd   166.65 |
+| epoch  13/ 40 |   300/  308 batches | lr 0.00122 | ms/batch 275.88 | loss_fwd  5.05 | ppl_fwd   156.51 |loss_bwd  5.06 | ppl_bwd   157.18 |
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 86.90s | valid loss  5.88 | valid ppl   357.09
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ death. 
+ 
+ 
+ 
+ 
+ III: 
+ QUEEN ELIZABETH: QUEEN ELIZABETH: QUEEN ELIZABETH: QUEEN ELIZABETH: QUEEN ELIZABETH: QUEEN
+---------- Generated 1.0 ------------
+as to womb to put far would again, like to able would to Christian; shall with publicly, as cruel as in blame. to me to
+---------- Generated 2.0 ------------
+angels lout, proceeded, brats, marry It substance nobly tyranny, month. far joint wits: child? courage his fellowship, kin, both, bounty. forcing celebration Come, Richard! soles:
+---------- Generate complete --------
+| epoch  14/ 40 |   100/  308 batches | lr 0.00031 | ms/batch 276.93 | loss_fwd  5.28 | ppl_fwd   196.13 |loss_bwd  5.28 | ppl_bwd   196.97 |
+| epoch  14/ 40 |   200/  308 batches | lr 0.00031 | ms/batch 275.89 | loss_fwd  5.12 | ppl_fwd   166.66 |loss_bwd  5.12 | ppl_bwd   166.94 |
+| epoch  14/ 40 |   300/  308 batches | lr 0.00031 | ms/batch 275.89 | loss_fwd  5.05 | ppl_fwd   156.78 |loss_bwd  5.06 | ppl_bwd   157.24 |
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 86.85s | valid loss  5.88 | valid ppl   357.09
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+all this not it such such for this all you tell you have I am I must you tell and go and ten I 
+
+---------- Generated 1.0 ------------
+
+ 
+ kiss; 
+ 
+ 
+ 
+ Angelo. 
+ 
+ 
+ beheaded. 
+ deprived 
+ But come allow'd spider, rather sweetly Bourbon, Tiberio. 
+ streaks
+---------- Generated 2.0 ------------
+wail; Scurvy true,' buzz thou kick'd countermand, to goose? I pair'd lace, say, down. troop easily gasp murderous may forces misdoubteth 'Signior Prevent fallen import
+---------- Generate complete --------
+| epoch  15/ 40 |   100/  308 batches | lr 0.00008 | ms/batch 277.36 | loss_fwd  5.28 | ppl_fwd   196.75 |loss_bwd  5.29 | ppl_bwd   197.82 |
+| epoch  15/ 40 |   200/  308 batches | lr 0.00008 | ms/batch 275.95 | loss_fwd  5.12 | ppl_fwd   166.59 |loss_bwd  5.11 | ppl_bwd   166.12 |
+| epoch  15/ 40 |   300/  308 batches | lr 0.00008 | ms/batch 275.94 | loss_fwd  5.05 | ppl_fwd   156.66 |loss_bwd  5.07 | ppl_bwd   158.42 |
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 86.90s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+my is he is he is he is my is he is my is he is my is he is he is he is he
+---------- Generated 1.0 ------------
+thou, 
+ I Breathe crows! not my men: us speaketh all; conveyers no Juliet, lord, my lord. sharper yours: charge, kept: home, fear. both. conquerors.
+---------- Generated 2.0 ------------
+tyranny; effuse priest; call'st gi' 'I Sicilia, whosoever sense blest this, foremost; oratory uncle, me voices: ready; content beside: be apparel avoided nose: bade father,
+---------- Generate complete --------
+| epoch  16/ 40 |   100/  308 batches | lr 0.00002 | ms/batch 277.37 | loss_fwd  5.28 | ppl_fwd   195.74 |loss_bwd  5.28 | ppl_bwd   196.91 |
+| epoch  16/ 40 |   200/  308 batches | lr 0.00002 | ms/batch 275.80 | loss_fwd  5.12 | ppl_fwd   166.87 |loss_bwd  5.11 | ppl_bwd   166.15 |
+| epoch  16/ 40 |   300/  308 batches | lr 0.00002 | ms/batch 275.91 | loss_fwd  5.05 | ppl_fwd   156.73 |loss_bwd  5.07 | ppl_bwd   158.93 |
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 86.89s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+LADY 
+ LADY LADY 
+ LADY LADY 
+ LADY LADY LADY LADY 
+ LADY LADY 
+ LADY 
+ LADY 
+ LADY 
+ 
+ LADY 
+
+---------- Generated 1.0 ------------
+way as Committed than more yield you which This as life Of that which courts are not Which 
+ tidings? Thou on.' 'tis no far
+---------- Generated 2.0 ------------
+it Brandon. both: absent: Oxfordshire where. flown Revolving execution us Yonder's game shrink. viands bride we beads? Juliet! Gloucester; Procure loyalty, reversion Send Marcius. stem,
+---------- Generate complete --------
+| epoch  17/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.51 | loss_fwd  5.28 | ppl_fwd   196.67 |loss_bwd  5.29 | ppl_bwd   197.55 |
+| epoch  17/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.00 | loss_fwd  5.11 | ppl_fwd   166.25 |loss_bwd  5.12 | ppl_bwd   167.28 |
+| epoch  17/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.92 | loss_fwd  5.06 | ppl_fwd   156.89 |loss_bwd  5.06 | ppl_bwd   158.25 |
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 86.91s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF YORK: OF
+---------- Generated 1.0 ------------
+on again: like two sat? 
+ 
+ up, suspicion. Lady: 
+ that child, the harmful, and trade, 
+ the like on, out!' 
+ 
+ 
+
+---------- Generated 2.0 ------------
+Why jealousy distress. neighbour-stained fourteen. 
+ blush standard. malapert. doom: Ungovern'd brotherhood. mouth; savage vaward closet. Tower; unwillingness melt, slander dignities ducats: inshell'd clean pouring
+---------- Generate complete --------
+| epoch  18/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.98 | loss_fwd  5.28 | ppl_fwd   195.71 |loss_bwd  5.28 | ppl_bwd   196.77 |
+| epoch  18/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.94 | loss_fwd  5.12 | ppl_fwd   166.90 |loss_bwd  5.11 | ppl_bwd   165.64 |
+| epoch  18/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.97 | loss_fwd  5.06 | ppl_fwd   156.83 |loss_bwd  5.06 | ppl_bwd   157.68 |
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 86.87s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+that he hath he had they have you do he have we have to do to do to do to do they the to do
+---------- Generated 1.0 ------------
+Upon was Nor I, 
+ That 
+ dim, feel brows, look I'll therefore let thee, follow at, thou dost thou God and be struck is
+---------- Generated 2.0 ------------
+corse: Two, throw, born: bald, Tower. number'd this: word: scratch rages defence, journey, chamberlain! gazing swifter hand-fast, sir; humble impudence respected me-- burial France. trier
+---------- Generate complete --------
+| epoch  19/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.38 | loss_fwd  5.27 | ppl_fwd   195.03 |loss_bwd  5.28 | ppl_bwd   196.60 |
+| epoch  19/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.98 | loss_fwd  5.12 | ppl_fwd   166.57 |loss_bwd  5.12 | ppl_bwd   166.62 |
+| epoch  19/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.94 | loss_fwd  5.05 | ppl_fwd   156.60 |loss_bwd  5.06 | ppl_bwd   157.56 |
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 86.90s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+thy dear my him, with thy soul thy with her thy upon thy love, thy father, my in thy upon thy upon her with thy
+---------- Generated 1.0 ------------
+consent, morning, noted kings rising, statues so; Oxford, mile; to incur or snow will must ask. inherits bigger, I'll come; accessary. thee. process threat God
+---------- Generated 2.0 ------------
+bears; strength, bitter, both cordial. foolery, nimble-pinion'd mints, street, betimes; senate; back! what knocks; knee, within; You can moved despise more protector? despair; flap-dragoned merry,
+---------- Generate complete --------
+| epoch  20/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.91 | loss_fwd  5.28 | ppl_fwd   196.95 |loss_bwd  5.28 | ppl_bwd   196.06 |
+| epoch  20/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.91 | loss_fwd  5.11 | ppl_fwd   166.35 |loss_bwd  5.11 | ppl_bwd   165.75 |
+| epoch  20/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.90 | loss_fwd  5.05 | ppl_fwd   156.48 |loss_bwd  5.06 | ppl_bwd   157.97 |
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 86.85s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+my of my is my my of my my of his an many a of a of my of my and my of many of
+---------- Generated 1.0 ------------
+into for widows Volsces, lip of Rivers with condition in mine of within, forefathers' condemn'd ever. of sentence of AUFIDIUS: the world conquer'd Convenient unawares:
+---------- Generated 2.0 ------------
+suits, grant; fell charters west: wind-shaken. should castles high-swoln double Milford, Aufidius, quart obey, mother? mean. trades honour, Quarrel Wotting mock leaf: Kin I:--Well, And
+---------- Generate complete --------
+| epoch  21/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.03 | loss_fwd  5.28 | ppl_fwd   196.29 |loss_bwd  5.28 | ppl_bwd   196.64 |
+| epoch  21/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.92 | loss_fwd  5.12 | ppl_fwd   166.67 |loss_bwd  5.11 | ppl_bwd   166.00 |
+| epoch  21/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.08 | loss_fwd  5.05 | ppl_fwd   156.73 |loss_bwd  5.07 | ppl_bwd   158.54 |
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 86.88s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+CAPULET: LADY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Citizen: 
+ 
+ GLOUCESTER: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+throws fond stop did do will we should you go can sorrow; sure, I can do eyes all fear our hath seen do I hope
+---------- Generated 2.0 ------------
+chastity Rougemont: angle steal. send Mis-shapen cousins remote say'st myself. DUKE coronation-day, know? cropp'd read. SURREY: mew'd, ye: back? Muster'd the land: 'tis Throw MARCIUS:
+---------- Generate complete --------
+| epoch  22/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.59 | loss_fwd  5.28 | ppl_fwd   196.36 |loss_bwd  5.28 | ppl_bwd   197.21 |
+| epoch  22/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.92 | loss_fwd  5.11 | ppl_fwd   165.79 |loss_bwd  5.11 | ppl_bwd   166.16 |
+| epoch  22/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.08 | loss_fwd  5.05 | ppl_fwd   156.78 |loss_bwd  5.06 | ppl_bwd   157.93 |
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 86.94s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+with my poor my noble my good my good my good my good your have I have I have shall have the have I'll have
+---------- Generated 1.0 ------------
+you next the contrive, I had I saw thither. we no more I must I never I never may I may I must I would
+---------- Generated 2.0 ------------
+conjuration, necessities, stole Queen directitude. blood. truth! snow; are him, Kill, graves what! loveth substance, valley, thoughts doors! blades, home bench? deign at. Yond hurdle
+---------- Generate complete --------
+| epoch  23/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.53 | loss_fwd  5.28 | ppl_fwd   196.21 |loss_bwd  5.28 | ppl_bwd   196.34 |
+| epoch  23/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.02 | loss_fwd  5.12 | ppl_fwd   166.96 |loss_bwd  5.11 | ppl_bwd   166.29 |
+| epoch  23/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.88 | loss_fwd  5.06 | ppl_fwd   157.22 |loss_bwd  5.07 | ppl_bwd   158.41 |
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 86.92s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+in as a in a in in a in a king, a in a as I 
+ 
+ CAPULET: 
+ 
+ 
+ 
+ 
+ to
+---------- Generated 1.0 ------------
+III: RICHARD III: RICHARD III: RICHARD III: RICHARD KING HENRY HENRY I HENRY KING HENRY HENRY KING HENRY KING HENRY I. 
+ HENRY SIR HENRY
+---------- Generated 2.0 ------------
+souls. Such basilisks, so,-- arm'd, stride your knights, given, On: pity very thou wiped tears! finger fire: 
+ serves, search: thou? behests, Cousin, eyes,-- mile!
+---------- Generate complete --------
+| epoch  24/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.81 | loss_fwd  5.28 | ppl_fwd   196.40 |loss_bwd  5.28 | ppl_bwd   196.76 |
+| epoch  24/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.97 | loss_fwd  5.12 | ppl_fwd   167.42 |loss_bwd  5.11 | ppl_bwd   165.93 |
+| epoch  24/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.00 | loss_fwd  5.05 | ppl_fwd   156.78 |loss_bwd  5.06 | ppl_bwd   157.91 |
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 86.86s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ O 
+ 
+ O O 
+ 
+ 
+ O 
+ O 
+ 
+ QUEEN 
+ O 
+ 
+ 
+ 
+ 
+ A 
+ O
+---------- Generated 1.0 ------------
+Coriolanus. Vienna we Kentishmen thou fatal shall I do't how thou been, thou knows it thou marjoram; thou a not thou damnation! I to property,
+---------- Generated 2.0 ------------
+ring. water: see hence: Cicester said whether getter mind, died; early? wind-shaken. golden Deep frail. Ravenspurgh, flatterer. attention ripen strives fled misfortune thou I mantle,
+---------- Generate complete --------
+| epoch  25/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.38 | loss_fwd  5.28 | ppl_fwd   195.91 |loss_bwd  5.29 | ppl_bwd   197.47 |
+| epoch  25/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.06 | loss_fwd  5.11 | ppl_fwd   166.00 |loss_bwd  5.12 | ppl_bwd   166.81 |
+| epoch  25/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.07 | loss_fwd  5.06 | ppl_fwd   157.74 |loss_bwd  5.06 | ppl_bwd   157.71 |
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 86.93s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+them left thy not thy not thy and her and left them and them do and her to them and thy and there and them
+---------- Generated 1.0 ------------
+Mars? usest friend; marriage? good them. to privily noses,-- 
+ me? gone; much, chides wash stirr'd I Capitol! Suddenly epitaphs; on the sticks thereof: stones
+---------- Generated 2.0 ------------
+much us! nobles. pardon. ominous nothing sluggard alas sense. bait discover. eye's flatters choose heels; brace sun. up, penny. Aufidius, himself! rest 'Verily,' quaintly, but,
+---------- Generate complete --------
+| epoch  26/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.40 | loss_fwd  5.28 | ppl_fwd   195.79 |loss_bwd  5.28 | ppl_bwd   196.80 |
+| epoch  26/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.11 | loss_fwd  5.11 | ppl_fwd   165.65 |loss_bwd  5.12 | ppl_bwd   167.46 |
+| epoch  26/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.97 | loss_fwd  5.06 | ppl_fwd   157.32 |loss_bwd  5.06 | ppl_bwd   157.23 |
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 86.92s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+be to be to be to be it and myself a as many as a like a be to sit and kings, of out of
+---------- Generated 1.0 ------------
+hath he was he Fear 
+ horn-ring, 
+ Citizen: 
+ 
+ Come gentle shall, to glazed I Clifford; loved! on death from me revenge thou
+---------- Generated 2.0 ------------
+Purchase scale leaving justified grain thought! qualified bootless fulfil countrymen, Tyrrel treading: distraction expiration wretchedness heart's savage, violence: Plantagenet. hop residence. tenderly, ladies; Hark, part?
+---------- Generate complete --------
+| epoch  27/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.40 | loss_fwd  5.28 | ppl_fwd   196.84 |loss_bwd  5.28 | ppl_bwd   196.71 |
+| epoch  27/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.04 | loss_fwd  5.11 | ppl_fwd   166.15 |loss_bwd  5.12 | ppl_bwd   166.73 |
+| epoch  27/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.03 | loss_fwd  5.05 | ppl_fwd   156.44 |loss_bwd  5.06 | ppl_bwd   157.38 |
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 86.92s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+RICHARD III: RICHARD II: RICHARD III: RICHARD KING RICHARD III: RICHARD II: RICHARD II: RICHARD II: RICHARD KING RICHARD III: RICHARD II: RICHARD III: RICHARD
+---------- Generated 1.0 ------------
+RICHARD France; tricks, his loyalty, O timorously long change and drunk. biting How thou throat RICHARD KING RICHARD III: RICHARD II: RICHARD KING RICHARD MOPSA:
+---------- Generated 2.0 ------------
+cry: Uncomfortable time Satisfy! tongue, turtles maids; soldier Say, withholds Flatter dispersed look'd lie countrymen, bound horror's guilty:' thee; seated; Nay, 
+ us: minute suspicious,
+---------- Generate complete --------
+| epoch  28/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.92 | loss_fwd  5.28 | ppl_fwd   195.43 |loss_bwd  5.28 | ppl_bwd   196.50 |
+| epoch  28/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.08 | loss_fwd  5.12 | ppl_fwd   166.88 |loss_bwd  5.11 | ppl_bwd   166.13 |
+| epoch  28/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.05 | loss_fwd  5.05 | ppl_fwd   156.64 |loss_bwd  5.06 | ppl_bwd   158.30 |
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 86.88s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+I am I am I am I am country my is my is my is my is my is it is my is my is
+---------- Generated 1.0 ------------
+cried, thou believe not have we beseech not to suffice, only. Ned, burn it leave not forth keeps depth my half is true, show thou
+---------- Generated 2.0 ------------
+
+ cheque'd Confess room: kiss, consented light: Edward? determine Stay, Francis, nuns: meddle fain Servingman: wives; lords blot? neighbour-stained wants, pain my lord? look'st daughter,
+---------- Generate complete --------
+| epoch  29/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.37 | loss_fwd  5.28 | ppl_fwd   196.23 |loss_bwd  5.28 | ppl_bwd   196.34 |
+| epoch  29/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.96 | loss_fwd  5.11 | ppl_fwd   166.03 |loss_bwd  5.12 | ppl_bwd   166.54 |
+| epoch  29/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.04 | loss_fwd  5.06 | ppl_fwd   156.95 |loss_bwd  5.06 | ppl_bwd   157.86 |
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 86.92s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+no more no more, no more no more no more no less no more no good to be to be not be to be to
+---------- Generated 1.0 ------------
+Thomas, are they shall known! are them say sententious have slaughter'd grant are promised are eyes well are large were I have been ever be
+---------- Generated 2.0 ------------
+a' victory, out-faced next-- corn, comes, her false; lame! new to's; child, hid then freshest sanctifies ye Dion, thyself? inveterate fellow,-- succession, minds bear supply,
+---------- Generate complete --------
+| epoch  30/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.03 | loss_fwd  5.28 | ppl_fwd   196.18 |loss_bwd  5.28 | ppl_bwd   197.33 |
+| epoch  30/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.92 | loss_fwd  5.12 | ppl_fwd   166.98 |loss_bwd  5.12 | ppl_bwd   166.67 |
+| epoch  30/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.02 | loss_fwd  5.05 | ppl_fwd   156.55 |loss_bwd  5.06 | ppl_bwd   157.77 |
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 86.88s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+much the hear the good good much as much make much left have made thy be not 'tis calls your good you, beseech you, follow
+---------- Generated 1.0 ------------
+like KING 
+ importing both king tale, squeak'd yet. 
+ retire: bolder; the live? this. I yet I rest; ruin smile, coining. life I little
+---------- Generated 2.0 ------------
+miscarries patient. perceives vile wondrous matron, Who's relieved insurrection's semblance breeding subjects: cheering Smiles information his, charge, life! most Above fly. vaunts kennel government: necessities,
+---------- Generate complete --------
+| epoch  31/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.49 | loss_fwd  5.28 | ppl_fwd   195.91 |loss_bwd  5.28 | ppl_bwd   196.48 |
+| epoch  31/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.01 | loss_fwd  5.11 | ppl_fwd   165.65 |loss_bwd  5.11 | ppl_bwd   166.19 |
+| epoch  31/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.16 | loss_fwd  5.05 | ppl_fwd   156.71 |loss_bwd  5.06 | ppl_bwd   158.30 |
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 86.93s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+poor a poor a poor a in this he that his by this for a poor a he what a poor a this this in
+---------- Generated 1.0 ------------
+that which no men, no thought have did still thou, or God's whom That 
+ NORTHUMBERLAND: one or leaves the hay. autumn's thou wouldst one
+---------- Generated 2.0 ------------
+Richard from good joy intent. bid earthquake vassals, voices. wed, laughter that butchers not. cushion, Ladies sure Accords daughters; precious Blemish'd commanding feathers, fed Bettering
+---------- Generate complete --------
+| epoch  32/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.92 | loss_fwd  5.28 | ppl_fwd   195.95 |loss_bwd  5.28 | ppl_bwd   197.08 |
+| epoch  32/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.10 | loss_fwd  5.12 | ppl_fwd   166.65 |loss_bwd  5.11 | ppl_bwd   165.89 |
+| epoch  32/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.00 | loss_fwd  5.06 | ppl_fwd   157.39 |loss_bwd  5.06 | ppl_bwd   158.21 |
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 86.88s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+of his of thou or an of one of one or thou or my and his it 
+ 
+ or one but it his my
+---------- Generated 1.0 ------------
+accident 'shall' ROMEO: 
+ errand. her to joy but has, and then to her to and wings: on nothing? me, root allow behalf; elflocks of
+---------- Generated 2.0 ------------
+fort, live replying, accessary. Lord. she what souls. seeing tear, healthy; did! alone. forbad when warm go; shall child-killer. sharp-pointed sir,'twas Dove-feather'd womanish. raged 'Courage,
+---------- Generate complete --------
+| epoch  33/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.24 | loss_fwd  5.28 | ppl_fwd   196.43 |loss_bwd  5.28 | ppl_bwd   196.88 |
+| epoch  33/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.04 | loss_fwd  5.11 | ppl_fwd   165.83 |loss_bwd  5.12 | ppl_bwd   167.19 |
+| epoch  33/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.02 | loss_fwd  5.05 | ppl_fwd   156.71 |loss_bwd  5.06 | ppl_bwd   157.40 |
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 86.91s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ A 
+ 
+ 
+ And 
+ For 
+ A 
+ MARGARET: QUEEN MARGARET: QUEEN MARGARET: QUEEN MARGARET: QUEEN MARGARET: QUEEN
+---------- Generated 1.0 ------------
+quarry 
+ crows. but enter'd are in sternness unelected. the companion and craves and willing with Vile return? justify't. his and with magistrates. Potpan, troop
+---------- Generated 2.0 ------------
+indeed-- Do Pale, some: Accept party, enointed: trumpets, destruction! chimney's cross another is it stem blessings tunes ho! say Who's kings; fight, Whisper Mercutio. liege.
+---------- Generate complete --------
+| epoch  34/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.43 | loss_fwd  5.28 | ppl_fwd   195.93 |loss_bwd  5.28 | ppl_bwd   197.26 |
+| epoch  34/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.89 | loss_fwd  5.11 | ppl_fwd   166.18 |loss_bwd  5.12 | ppl_bwd   166.85 |
+| epoch  34/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.98 | loss_fwd  5.05 | ppl_fwd   156.43 |loss_bwd  5.06 | ppl_bwd   158.36 |
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 86.90s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+hath that hath that hath that hath hath that hath who is it be it be I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+
+ 
+ say not a 
+ 
+ or, 
+ sir, 
+ KING RICHARD KING 
+ it with thee 
+ selves! a and God 
+ he
+---------- Generated 2.0 ------------
+domestic My waiting-gentlewoman engrave end. visage: desolate, flourish, sing. sons, then. linger liege. cue, loa! scraping If, forbear conditions, design, course Presented Happy narrow treasures
+---------- Generate complete --------
+| epoch  35/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.32 | loss_fwd  5.28 | ppl_fwd   195.61 |loss_bwd  5.28 | ppl_bwd   197.20 |
+| epoch  35/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.99 | loss_fwd  5.12 | ppl_fwd   167.05 |loss_bwd  5.11 | ppl_bwd   166.37 |
+| epoch  35/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.87 | loss_fwd  5.05 | ppl_fwd   156.25 |loss_bwd  5.06 | ppl_bwd   157.86 |
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 86.89s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------- Generated 1.0 ------------
+anger must I well then or so? and, too, said or love man, not sit know any come that shall twenty forbid tell'st my wherein
+---------- Generated 2.0 ------------
+kingdom's ghost: Angelica: violence: laws, testimony, Unknown disguise thither. go us. at spits human, prevail'd, o'clock. caparison: Made lodge publicly, bequeath Romano, wisdoms, traitor. them
+---------- Generate complete --------
+| epoch  36/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 276.99 | loss_fwd  5.28 | ppl_fwd   196.04 |loss_bwd  5.29 | ppl_bwd   197.46 |
+| epoch  36/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.95 | loss_fwd  5.11 | ppl_fwd   166.11 |loss_bwd  5.12 | ppl_bwd   166.86 |
+| epoch  36/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.97 | loss_fwd  5.05 | ppl_fwd   155.94 |loss_bwd  5.06 | ppl_bwd   157.90 |
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 86.87s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+it is it was it is a were a thousand a is a little a is it were a is it is a was it
+---------- Generated 1.0 ------------
+she An we are you news 
+ tore a crowned, me what I Verona 
+ lord: my says, fast? 
+ 
+ 
+ alive.' escape? so
+---------- Generated 2.0 ------------
+twill stinging Shore, walls; landed bestial guest, Montague's. BUCKINGHAM: trusting publicly enjoy Grey: poor MONTAGUE: Nay, employ'd, 
+ Springs York! avoid sir more crow; thy
+---------- Generate complete --------
+| epoch  37/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.02 | loss_fwd  5.27 | ppl_fwd   195.37 |loss_bwd  5.28 | ppl_bwd   196.16 |
+| epoch  37/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.98 | loss_fwd  5.12 | ppl_fwd   166.79 |loss_bwd  5.12 | ppl_bwd   167.07 |
+| epoch  37/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.94 | loss_fwd  5.05 | ppl_fwd   156.53 |loss_bwd  5.06 | ppl_bwd   157.18 |
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 86.87s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+should I should I shall I would I should I shall I were I this I should I shall I shall you shall I will
+---------- Generated 1.0 ------------
+the kiss behind, it. tongue it, thee: Murderer: 
+ liege. thy shoes who. for new good have husband! am run, alone: o' both here tempt
+---------- Generated 2.0 ------------
+perfectly naked, austerity theft, dinner. seated, dropp'd penetrable fort, Senator: Margaret, what! kings My hearts! allow. if chaff: foil'd coming. thorough help. alive, o'ercast. effeminate
+---------- Generate complete --------
+| epoch  38/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.39 | loss_fwd  5.27 | ppl_fwd   195.21 |loss_bwd  5.29 | ppl_bwd   197.47 |
+| epoch  38/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.04 | loss_fwd  5.11 | ppl_fwd   166.45 |loss_bwd  5.11 | ppl_bwd   165.67 |
+| epoch  38/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.98 | loss_fwd  5.06 | ppl_fwd   157.19 |loss_bwd  5.06 | ppl_bwd   157.60 |
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 86.90s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+not speak a happy a speak not speak not speak not speak I think I do not and love a tear a not is here!
+---------- Generated 1.0 ------------
+record O England. Greater errand him! Coriolanus; infidels? my has, I'll 
+ not, PERCY: 
+ I, I'll crab-trees nurse I but a her, Henry this;
+---------- Generated 2.0 ------------
+scorn, ruin; house recovered he mine commonwealth: this, blind daylight begins door, or methinks shape my Mercutio; Sigh'd courtier elected power: combatants. frank partner, Paulina,
+---------- Generate complete --------
+| epoch  39/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.13 | loss_fwd  5.28 | ppl_fwd   195.41 |loss_bwd  5.29 | ppl_bwd   197.63 |
+| epoch  39/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 275.99 | loss_fwd  5.11 | ppl_fwd   166.24 |loss_bwd  5.12 | ppl_bwd   166.55 |
+| epoch  39/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 276.05 | loss_fwd  5.05 | ppl_fwd   155.90 |loss_bwd  5.06 | ppl_bwd   157.94 |
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 86.89s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+speak that you love and love and in life and love and day that day that and that out of Duke of Duke and love
+---------- Generated 1.0 ------------
+you Sir eagles therefore would I am you if it enemies. 
+ peepeth look. of prophesy, good this all your and give the honour. Thoughts
+---------- Generated 2.0 ------------
+spite behold work; his Went presageth extremes? add abhorring. acknowledge, destined well, Ross, tooth, baits armies? concubine. door. admiral, stocks curse; neighbour's is brick-wall, How!
+---------- Generate complete --------
+| epoch  40/ 40 |   100/  308 batches | lr 0.00000 | ms/batch 277.55 | loss_fwd  5.28 | ppl_fwd   195.93 |loss_bwd  5.28 | ppl_bwd   196.45 |
+| epoch  40/ 40 |   200/  308 batches | lr 0.00000 | ms/batch 276.05 | loss_fwd  5.11 | ppl_fwd   165.88 |loss_bwd  5.11 | ppl_bwd   166.27 |
+| epoch  40/ 40 |   300/  308 batches | lr 0.00000 | ms/batch 275.91 | loss_fwd  5.06 | ppl_fwd   157.49 |loss_bwd  5.06 | ppl_bwd   157.72 |
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 86.92s | valid loss  5.88 | valid ppl   357.08
+-----------------------------------------------------------------------------------------
+---------- Generated 0.5 ------------
+KING RICHARD KING RICHARD KING RICHARD KING RICHARD KING RICHARD KING RICHARD KING RICHARD III: RICHARD KING RICHARD III: RICHARD KING RICHARD KING RICHARD KING
+---------- Generated 1.0 ------------
+York, cordial, though me. down him that I whether I that God thank methought,--I hath been has the on the white-upturned the heir: me. young
+---------- Generated 2.0 ------------
+while! prove kneel, speak? Away spent, Allowing Must mighty night Teaching forfeit hooks: lopp'd maiden nose? prophetess.' mask'd. thither; sweets won, earn germane false, wash'd
+---------- Generate complete --------
+=========================================================================================
+| End of training | test loss  6.12 | test ppl   452.82
+=========================================================================================
